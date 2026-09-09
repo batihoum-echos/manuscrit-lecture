@@ -1,25 +1,25 @@
 # ÉCHOS — site de lecture
 
-Version web du manuscrit **ÉCHOS — Des lieux, des êtres et du temps qui passe**.
+Cette version reproduit l’interface de lecture d’ÉCHOS :
+
+- accueil avec la couverture originale ;
+- navigation latérale avec sommaire ;
+- page de chapitre avec grande typographie ;
+- cartes précédent / suivant ;
+- recherche plein texte ;
+- taille du texte et thèmes clair / sépia / nuit ;
+- reprise de lecture via `localStorage`.
 
 ## Source éditable
 
-Le manuscrit affiché par le site est le fichier :
+Le texte affiché par le site est :
 
 `content/manuscrit.md`
 
-Il est volontairement conservé en **Markdown** afin de pouvoir être modifié facilement dans GitHub.
+La couverture originale est :
 
-## Structure
-
-- `index.html` : interface de lecture
-- `style.css` : mise en page et thèmes
-- `app.js` : lecture, sommaire, recherche, progression, reprise et taille du texte
-- `content/manuscrit.md` : texte éditable du manuscrit
-- `assets/cover.jpg` : couverture originale
+`assets/cover.jpg`
 
 ## Déploiement
 
-Le projet est un site statique. Il peut être servi directement par Vercel depuis GitHub.
-
-Chaque modification validée sur la branche `main` déclenchera un nouveau déploiement Vercel lorsque le dépôt est connecté au projet.
+Le projet est statique et peut être déployé directement depuis GitHub vers Vercel. Chaque commit sur `main` déclenche un nouveau déploiement si le dépôt est connecté au projet Vercel.
