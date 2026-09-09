@@ -68,6 +68,11 @@ function parseMarkdown(md){
     }
 
     if(!current || !t) continue;
+    const image = t.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+    if(image){
+      current.image = {alt:image[1] || current.title, src:image[2]};
+      continue;
+    }
     current.paragraphs.push(t.replace(/^>\s?/,'').trim());
   }
   flush();
@@ -145,7 +150,8 @@ function openChapter(index){
   $('chapterSection').textContent=u.group || 'PRÉAMBULE';
   $('chapterTitle').textContent=u.title;
   $('chapterMeta').textContent=`${minutesFor(u)} min de lecture · ${index+1} / ${state.units.length}`;
-  $('chapterText').innerHTML=u.paragraphs.map(p=>`<p>${inlineMarkdown(p)}</p>`).join('');
+  const imageHtml = u.image ? `<figure class=\"chapter-image\"><img src=\"${esc(u.image.src)}\" alt=\"${esc(u.image.alt || u.title)}\" loading=\"eager\"><figcaption>${esc(u.image.alt || '')}</figcaption></figure>` : '';
+  $('chapterText').innerHTML=imageHtml + u.paragraphs.map(p=>`<p>${inlineMarkdown(p)}</p>`).join('');
   const prev=state.units[index-1], next=state.units[index+1];
   $('prevBtn').disabled=!prev;
   $('nextBtn').disabled=!next;

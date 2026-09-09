@@ -83,6 +83,9 @@ button{color:inherit}
 .reading-meta{font:12px system-ui,sans-serif;color:var(--muted);margin:0 0 44px}
 .chapter-text{font-size:var(--size);line-height:1.78}
 .chapter-text p{margin:0 0 1.55em}
+.chapter-image{margin:0 0 42px;}
+.chapter-image img{display:block;width:100%;height:auto;max-height:520px;object-fit:cover;border-radius:14px;border:1px solid var(--line);box-shadow:0 16px 40px rgba(0,0,0,.07)}
+.chapter-image figcaption{margin-top:10px;font:11px/1.5 system-ui,sans-serif;color:var(--muted);text-align:right}
 .chapter-text p:first-child::first-letter{float:left;font-size:4.2em;line-height:.8;padding:0 8px 0 0;color:var(--accent)}
 .chapter-text p:last-child{margin-bottom:0}
 .chapter-nav{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:80px}

@@ -30,9 +30,11 @@ J’écris ce qui revient.
 
 ## Amilcar
 
+![Amilcar](../assets/amilcar.jpg)
+
 En 1966, nous nous sommes installés à Amilcar, où travaillait mon père. La société touristique qui l’avait recruté l’avait affecté à un établissement construit au bord de la mer, au pied de la falaise de Sidi Bou Saïd. Nous habitions un logement de fonction, à quelques pas d’une plage qui allait devenir l’un des lieux les plus présents dans ma mémoire.
 
-La mer était si proche qu’on entendait les vagues sans jamais l'apercevoir. Son bruit nous parvenait selon le temps, tantôt discret, tantôt plus présent, comme si elle faisait elle aussi partie de la maison.
+La mer était si proche qu’on entendait les vagues sans jamais la voir. Son bruit nous parvenait selon le temps, tantôt discret, tantôt plus présent, comme si elle faisait elle aussi partie de la maison.
 
 Le logement initial était exigu pour notre famille nombreuse. Mon père, excellent bricoleur, avait obtenu de la direction l’autorisation de l’agrandir avec l’aide du service d’entretien. La maison avait ainsi grandi par étapes, au rythme de nos besoins : une extension, puis une cloison, puis une autre, chaque pièce ajoutée lorsqu’elle devenait nécessaire. Il avait également aménagé autour un petit jardin, garni surtout de fleurs et protégé par une haie de roseaux. Il arrosait, coupait les branches mortes, plantait, et nous l’aidions volontiers, surtout pour l’arrosage. Ce logement appartenait à l’hôtel, mais mon père en avait fait notre maison.
 
