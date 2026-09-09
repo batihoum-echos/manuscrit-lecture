@@ -60,8 +60,7 @@ Bien des années plus tard, l’hôtel a fermé en 2008. Il n’a pas disparu d�
 
 La maison où nous avions vécu a disparu elle aussi. Celle que mon père avait agrandie pièce après pièce, entourée de son petit jardin et de ses roseaux, n’est plus là. Quand j’y retourne aujourd’hui, j’essaie parfois d’en retrouver mentalement l’emplacement, comme si les murs pouvaient encore se dessiner sous ce qui les a remplacés.
 
-Au bord de la plage, quelques palmiers ont pourtant survécu. Ils sont hauts et fins. 
-Chaque fois que je les revois, le paysage autour d’eux me paraît différent. Eux sont encore là.
+Au bord de la plage, quelques palmiers ont pourtant survécu. Ils sont hauts et fins. Chaque fois que je les revois, le paysage autour d’eux me paraît différent. Eux sont encore là.
 
 ## Le TGM
 
