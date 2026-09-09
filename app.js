@@ -150,7 +150,8 @@ function openChapter(index){
   $('chapterSection').textContent=u.group || 'PRÉAMBULE';
   $('chapterTitle').textContent=u.title;
   $('chapterMeta').textContent=`${minutesFor(u)} min de lecture · ${index+1} / ${state.units.length}`;
-  const imageHtml = u.image ? `<figure class=\"chapter-image\"><img src=\"${esc(u.image.src)}\" alt=\"${esc(u.image.alt || u.title)}\" loading=\"eager\"><figcaption>${esc(u.image.alt || '')}</figcaption></figure>` : '';
+  const imageSrc = u.image ? u.image.src.replace(/^\.\.\//, '') : '';
+  const imageHtml = u.image ? `<figure class=\"chapter-image\"><img src=\"${esc(imageSrc)}\" alt=\"${esc(u.image.alt || u.title)}\" loading=\"eager\"><figcaption>${esc(u.image.alt || '')}</figcaption></figure>` : '';
   $('chapterText').innerHTML=imageHtml + u.paragraphs.map(p=>`<p>${inlineMarkdown(p)}</p>`).join('');
   const prev=state.units[index-1], next=state.units[index+1];
   $('prevBtn').disabled=!prev;
