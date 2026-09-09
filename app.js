@@ -24,6 +24,7 @@ function parseMarkdown(md){
   let current = null, group = '', mode = 'body';
   const note = [];
   let quote = '';
+  let inNote = false;
 
   function flush(){
     if(current){
@@ -39,13 +40,13 @@ function parseMarkdown(md){
     if(/^##\s+Des lieux, des êtres et du temps qui passe\s*$/.test(t)) continue;
     if(/^>\s*Édition personnelle provisoire/.test(t) || /^>\s*Septembre 2026/.test(t)) continue;
 
-    if(/^##\s+Note liminaire\s*$/.test(t)){ flush(); mode='note'; continue; }
-    if(/^#\s+Ouverture\s*$/.test(t)){ flush(); group=''; mode='body'; current={title:'Ouverture',group,paragraphs:[]}; continue; }
-    if(/^#\s+I\.\s+Les lieux\s*$/.test(t)){ flush(); group='I. Les lieux'; mode='body'; continue; }
-    if(/^#\s+II\.\s+Les êtres\s*$/.test(t)){ flush(); group='II. Les êtres'; mode='body'; continue; }
-    if(/^#\s+III\.\s+Le temps\s*$/.test(t)){ flush(); group='III. Le temps'; mode='body'; continue; }
-    if(/^#\s+Clôture\s*$/.test(t)){ flush(); group=''; mode='body'; current={title:'Clôture',group,paragraphs:[]}; continue; }
-    if(/^#\s+Annexes\s*$/.test(t)){ flush(); group='Annexes'; mode='body'; continue; }
+    if(/^##\s+Note liminaire\s*$/.test(t)){ flush(); mode='note'; inNote=true; continue; }
+    if(/^#\s+Ouverture\s*$/.test(t)){ flush(); if(inNote){ units.push({title:'Note liminaire',group:'PRÉAMBULE',paragraphs:note.slice()}); inNote=false; } group='PRÉAMBULE'; mode='body'; current={title:'Ouverture',group,paragraphs:[]}; continue; }
+    if(/^#\s+I\.\s+Les lieux\s*$/.test(t)){ flush(); group='I. LES LIEUX'; mode='body'; continue; }
+    if(/^#\s+II\.\s+Les êtres\s*$/.test(t)){ flush(); group='II. LES ÊTRES'; mode='body'; continue; }
+    if(/^#\s+III\.\s+Le temps\s*$/.test(t)){ flush(); group='III. LE TEMPS'; mode='body'; continue; }
+    if(/^#\s+Clôture\s*$/.test(t)){ flush(); group='CLÔTURE'; mode='body'; current={title:'Clôture',group,paragraphs:[]}; continue; }
+    if(/^#\s+Annexes\s*$/.test(t)){ flush(); group='ANNEXES'; mode='body'; continue; }
 
     if(/^##\s+/.test(t)){
       const title = t.replace(/^##\s+/,'').trim();
@@ -67,9 +68,10 @@ function parseMarkdown(md){
     }
 
     if(!current || !t) continue;
-    current.paragraphs.push(t.replace(/^>\s?/,''));
+    current.paragraphs.push(t.replace(/^>\s?/,'').trim());
   }
   flush();
+  if(inNote){ units.unshift({title:'Note liminaire',group:'PRÉAMBULE',paragraphs:note.slice()}); }
   return {units,noteLiminaire:note,exergue:quote};
 }
 
@@ -120,17 +122,21 @@ function minutesFor(unit){
 }
 
 function openHome(){
+  document.body.classList.add('home-mode');
   $('homeView').classList.remove('hidden');
   $('chapterView').classList.add('hidden');
   $('searchView').classList.add('hidden');
   $('currentTitle').textContent='ÉCHOS';
   closeSidebar();
+  $('sidebar').classList.remove('reading-open');
   window.scrollTo({top:0,behavior:'smooth'});
 }
+
 
 function openChapter(index){
   if(index<0 || index>=state.units.length) return;
   state.current=index;
+  document.body.classList.remove('home-mode');
   const u=state.units[index];
   $('homeView').classList.add('hidden');
   $('searchView').classList.add('hidden');
@@ -147,11 +153,14 @@ function openChapter(index){
   $('nextTitle').textContent=next ? next.title : 'Fin du manuscrit';
   document.querySelectorAll('#toc .chapter-link').forEach(b=>b.classList.toggle('active',Number(b.dataset.i)===index));
   save();
+  $('sidebar').classList.add('reading-open');
   closeSidebar();
+  $('sidebar').classList.add('reading-open');
   window.scrollTo({top:0,behavior:'smooth'});
 }
 
 function openSearch(){
+  document.body.classList.remove('home-mode');
   $('homeView').classList.add('hidden');
   $('chapterView').classList.add('hidden');
   $('searchView').classList.remove('hidden');
@@ -188,6 +197,7 @@ function toggleSidebar(){
 }
 
 async function init(){
+  document.body.classList.add('home-mode');
   try{
     const res=await fetch('content/manuscrit.md',{cache:'no-store'});
     if(!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -214,8 +224,14 @@ $('brandBtn').addEventListener('click',openHome);
 $('menuBtn').addEventListener('click',toggleSidebar);
 $('closeMenu').addEventListener('click',toggleSidebar);
 $('backdrop').addEventListener('click',toggleSidebar);
-$('resumeBtn').addEventListener('click',()=>openChapter(state.current));
-$('tocHomeBtn').addEventListener('click',()=>toggleSidebar());
+$('resumeBtn').addEventListener('click',()=>{
+  const saved = localStorage.getItem('chapter');
+  openChapter(saved!==null ? Number(saved) : Math.min(2,state.units.length-1));
+});
+$('tocHomeBtn').addEventListener('click',()=>{
+  const grid=document.querySelector('.toc-grid-section');
+  grid?.scrollIntoView({behavior:'smooth',block:'start'});
+});
 $('prevBtn').addEventListener('click',()=>openChapter(state.current-1));
 $('nextBtn').addEventListener('click',()=>openChapter(state.current+1));
 $('searchBtn').addEventListener('click',openSearch);
