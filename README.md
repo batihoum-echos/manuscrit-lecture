@@ -2,23 +2,24 @@
 
 Version web du manuscrit **ÉCHOS — Des lieux, des êtres et du temps qui passe**.
 
+## Source éditable
+
+Le manuscrit affiché par le site est le fichier :
+
+`content/manuscrit.md`
+
+Il est volontairement conservé en **Markdown** afin de pouvoir être modifié facilement dans GitHub.
+
 ## Structure
 
 - `index.html` : interface de lecture
-- `style.css` : mise en page, thèmes et impression
-- `app.js` : sommaire, recherche, progression, reprise, taille du texte et thèmes
-- `content/manuscript.json` : texte structuré à partir du document Word source
+- `style.css` : mise en page et thèmes
+- `app.js` : lecture, sommaire, recherche, progression, reprise et taille du texte
+- `content/manuscrit.md` : texte éditable du manuscrit
+- `assets/cover.jpg` : couverture originale
 
-## Déploiement GitHub → Vercel
+## Déploiement
 
-1. Créer un dépôt GitHub, par exemple `manuscrit-lecture`.
-2. Importer tout le contenu de ce dossier dans le dépôt.
-3. Dans Vercel : **Add New → Project → Import Git Repository**.
-4. Sélectionner le dépôt GitHub.
-5. Pour ce projet statique, aucune commande de build n'est nécessaire. Vercel peut servir directement `index.html`.
+Le projet est un site statique. Il peut être servi directement par Vercel depuis GitHub.
 
-Après le premier déploiement, chaque commit/push vers GitHub peut déclencher un nouveau déploiement Vercel.
-
-## Confidentialité éditoriale
-
-Le manuscrit source indique : « Édition personnelle provisoire, non destinée à la diffusion ». Avant toute publication publique, vérifier que le niveau de diffusion souhaité est bien compatible avec cette mention.
+Chaque modification validée sur la branche `main` déclenchera un nouveau déploiement Vercel lorsque le dépôt est connecté au projet.
