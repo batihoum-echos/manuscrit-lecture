@@ -62,8 +62,6 @@ Au bord de la plage, quelques palmiers ont pourtant survécu. Ils sont hauts et 
 
 ## Le TGM
 
-![TGM](assets/tgm.jpg)
-
 Son nom seul suffit encore à faire revenir les stations, les fenêtres, les secousses et ces paysages que l’on finissait par croire immuables tant on les voyait chaque jour. J’avais un abonnement scolaire et je faisais le trajet deux fois par jour.
 
 Le rythme des roues sur les rails me berçait, tandis que le monde défilait derrière les vitres et que mon esprit, lui, restait ailleurs.
