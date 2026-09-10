@@ -4,27 +4,30 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="ÉCHOS — Des lieux, des êtres et du temps qui passe.">
-  <meta name="theme-color" content="#f3efe6">
+  <meta name="theme-color" content="#f4f0e8">
   <title>ÉCHOS — Des lieux, des êtres et du temps qui passe</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
-  <header class="topbar">
-    <button id="menuBtn" class="menu-button" aria-label="Ouvrir le sommaire"><span>☰</span></button>
-    <button id="brandBtn" class="brand" aria-label="Retour à l’accueil">
+<body class="home-mode">
+  <header class="topbar" id="topbar">
+    <button id="menuBtn" class="menu-button icon-btn" aria-label="Ouvrir le sommaire">☰</button>
+
+    <button class="brand" id="homeBtn" aria-label="Retour à l'accueil">
       <span class="brand-mark">É</span>
       <span class="brand-word">ÉCHOS</span>
     </button>
-    <div class="current-title" id="currentTitle">ÉCHOS</div>
-    <div class="top-actions">
-      <button id="searchBtn" class="tool-btn" title="Rechercher" aria-label="Rechercher">⌕</button>
-      <button id="themeBtn" class="tool-btn" title="Changer de thème" aria-label="Changer de thème">◐</button>
-      <button id="textMinus" class="tool-btn" title="Réduire le texte" aria-label="Réduire le texte">A−</button>
-      <button id="textPlus" class="tool-btn" title="Agrandir le texte" aria-label="Agrandir le texte">A+</button>
+
+    <div class="current-title" id="currentTitle">Des lieux, des êtres et du temps qui passe</div>
+
+    <div class="top-actions" aria-label="Outils de lecture">
+      <button id="searchBtn" class="tool-btn" aria-label="Rechercher">⌕</button>
+      <button id="themeBtn" class="tool-btn" aria-label="Changer de thème">◐</button>
+      <button id="textMinus" class="tool-btn" aria-label="Réduire le texte">A−</button>
+      <button id="textPlus" class="tool-btn" aria-label="Agrandir le texte">A+</button>
     </div>
   </header>
 
-  <div class="progress"><div id="progressBar"></div></div>
+  <div class="progress" aria-hidden="true"><div id="progressBar"></div></div>
 
   <aside id="sidebar" class="sidebar" aria-label="Sommaire">
     <div class="sidebar-head">
@@ -37,51 +40,68 @@
     <div id="toc" class="toc"></div>
     <div class="sidebar-foot">Édition personnelle provisoire<br>Septembre 2026</div>
   </aside>
-  <div id="backdrop" class="backdrop hidden"></div>
 
-  <main id="app" class="app-shell">
-    <section id="homeView" class="home-view">
+  <main id="reader" class="reader">
+    <section id="home" class="home-view">
       <div class="hero">
         <div class="hero-cover-wrap">
-          <img src="assets/cover.jpg" class="hero-cover" alt="Couverture originale d’ÉCHOS, avec les palmiers d’Amilcar et l’ancien hôtel">
+          <img class="hero-cover" src="assets/cover.jpg" alt="Couverture de ÉCHOS">
         </div>
+
         <div class="hero-copy">
-          <div class="eyebrow">MÉMOIRE · LIEUX · ÊTRES · TEMPS</div>
+          <div class="eyebrow">ÉDITION PERSONNELLE · SEPTEMBRE 2026</div>
           <h1>ÉCHOS</h1>
-          <div class="subtitle">Des lieux, des êtres et du temps qui passe</div>
-          <div class="quote"><span class="quote-bar"></span><div><p id="heroQuote"></p><div class="quote-author">Bati</div></div></div>
+          <p class="subtitle">Des lieux, des êtres et du temps qui passe</p>
+
+          <div class="quote">
+            <span class="quote-bar" aria-hidden="true"></span>
+            <div>
+              <p>« Ce qui survit à l’oubli ne reconstitue pas une existence. Cela en garde les échos. »</p>
+              <div class="quote-author">Bati</div>
+            </div>
+          </div>
+
           <div class="home-actions">
             <button id="resumeBtn" class="primary-btn">Commencer la lecture</button>
             <button id="tocHomeBtn" class="secondary-btn">Voir le sommaire</button>
           </div>
-          <p class="edition-note">Édition personnelle provisoire, non destinée à la diffusion · Septembre 2026</p>
-          <p class="privacy-note">Version de lecture privée par lien. Les moteurs de recherche sont invités à ne pas indexer ce site.</p>
+
+          <p class="edition-note">Édition personnelle provisoire, non destinée à la diffusion</p>
         </div>
       </div>
 
-      <section class="toc-grid-section">
-        <div class="toc-grid-lede">Une lecture en trois mouvements : les lieux, les êtres, puis le temps.</div>
-        <div id="tocGrid" class="toc-grid"></div>
-      </section>
+      <div class="frontmatter">
+        <div class="section-label">OUVERTURE</div>
+        <h2>Note liminaire</h2>
+        <div id="noteLiminaire"></div>
+        <blockquote id="exergue"></blockquote>
+      </div>
     </section>
 
     <section id="chapterView" class="chapter-view hidden">
       <div class="chapter-column">
-        <div class="section-label" id="chapterSection"></div>
+        <div class="chapter-meta" id="chapterMeta"></div>
         <h1 id="chapterTitle"></h1>
-        <div class="reading-meta" id="chapterMeta"></div>
         <article id="chapterText" class="chapter-text"></article>
+
         <div class="chapter-nav">
-          <button id="prevBtn" class="nav-card"><span class="nav-label">← PRÉCÉDENT</span><strong id="prevTitle">—</strong></button>
-          <button id="nextBtn" class="nav-card nav-card-next"><span class="nav-label">SUIVANT →</span><strong id="nextTitle">—</strong></button>
+          <button id="prevBtn" class="nav-card nav-card-prev">
+            <span class="nav-label">PRÉCÉDENT</span>
+            <strong>←</strong>
+          </button>
+          <button id="nextBtn" class="nav-card nav-card-next">
+            <span class="nav-label">SUIVANT</span>
+            <strong>→</strong>
+          </button>
         </div>
-        <footer class="reader-footer">ÉCHOS · Bati · Septembre 2026</footer>
+
+        <div class="reader-footer">ÉCHOS · Édition personnelle provisoire · Septembre 2026</div>
       </div>
     </section>
 
     <section id="searchView" class="search-view hidden">
-      <div class="chapter-column narrow">
-        <div class="section-label">RECHERCHE</div>
+      <div class="chapter-column">
+        <div class="chapter-meta">RECHERCHE</div>
         <h1>Dans le manuscrit</h1>
         <input id="searchInput" class="search-input" type="search" placeholder="Chercher un mot ou une expression…" autocomplete="off">
         <div id="searchCount" class="search-count"></div>
@@ -90,6 +110,7 @@
     </section>
   </main>
 
+  <div id="backdrop" class="backdrop hidden"></div>
   <script src="app.js"></script>
 </body>
 </html>
