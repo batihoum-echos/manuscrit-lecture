@@ -352,7 +352,7 @@ Cela lui ressemblait.
 
 Je suis l’aîné d’une famille nombreuse. Cette place ne me donnait pourtant aucune autorité particulière sur mes frères et mes sœurs.
 
-À Amilcar, nous étions nombreux dans la maison. Nous dormions à plusieurs dans les mêmes chambres, parfois à deux dans un même lit. Les pièces, les repas et une grande partie de la vie quotidienne se partageaient naturellement. Un cousin a également vécu longtemps avec nous. Il portait notre nom et, pour nous, il faisait partie de la fratrie. Il a quitté la maison lorsqu’il s’est marié, comme les autres le feraient plus tard.
+À Amilcar, nous étions nombreux dans la maison. Nous dormions à plusieurs dans les mêmes chambres, parfois à deux dans un même lit. Les pièces, les repas et une grande partie de la vie quotidienne se partageaient naturellement. Un cousin a également vécu longtemps avec nous.
 
 Je revois surtout les repas autour de la mida, cette table basse et ronde autour de laquelle nous nous rassemblions. Ma mère mangeait avec nous, mais se relevait souvent pour aller chercher ce qui manquait. Chacun avait ses préférences : l’un délaissait un légume que l’autre réclamait, et nous faisions glisser les morceaux d’un bord à l’autre du plat sans même y penser.
 
