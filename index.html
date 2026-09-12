@@ -40,21 +40,44 @@
   <div id="backdrop" class="backdrop hidden"></div>
 
   <main id="app" class="app-shell">
+
     <section id="homeView" class="home-view">
       <div class="hero">
         <div class="hero-cover-wrap">
           <img src="assets/cover.jpg" class="hero-cover" alt="Couverture originale d’ÉCHOS, avec les palmiers d’Amilcar et l’ancien hôtel">
         </div>
+
         <div class="hero-copy">
           <div class="eyebrow">MÉMOIRE · LIEUX · ÊTRES · TEMPS</div>
           <h1>ÉCHOS</h1>
           <div class="subtitle">Des lieux, des êtres et du temps qui passe</div>
-          <div class="quote"><span class="quote-bar"></span><div><p id="heroQuote"></p><div class="quote-author">Bati</div></div></div>
+
+          <div class="quote">
+            <span class="quote-bar"></span>
+            <div>
+              <p id="heroQuote"></p>
+              <div class="quote-author">Bati</div>
+            </div>
+          </div>
 
           <div class="home-actions">
             <button id="resumeBtn" class="primary-btn">Commencer la lecture</button>
             <button id="tocHomeBtn" class="secondary-btn">Voir le sommaire</button>
-            <button class="secondary-btn" onclick="window.location.href='contact.html'">Contacter l’auteur</button>
+
+            <button
+              id="contactHomeBtn"
+              class="secondary-btn"
+              type="button"
+              onclick="
+                document.getElementById('homeView').classList.add('hidden');
+                document.getElementById('chapterView').classList.add('hidden');
+                document.getElementById('searchView').classList.add('hidden');
+                document.getElementById('contactView').classList.remove('hidden');
+                window.scrollTo(0,0);
+              "
+            >
+              Contacter l’auteur
+            </button>
           </div>
 
           <p class="edition-note">Édition personnelle provisoire, non destinée à la diffusion · Septembre 2026</p>
@@ -68,29 +91,156 @@
       </section>
     </section>
 
+
     <section id="chapterView" class="chapter-view hidden">
       <div class="chapter-column">
         <div class="section-label" id="chapterSection"></div>
         <h1 id="chapterTitle"></h1>
         <div class="reading-meta" id="chapterMeta"></div>
         <article id="chapterText" class="chapter-text"></article>
+
         <div class="chapter-nav">
-          <button id="prevBtn" class="nav-card"><span class="nav-label">← PRÉCÉDENT</span><strong id="prevTitle">—</strong></button>
-          <button id="nextBtn" class="nav-card nav-card-next"><span class="nav-label">SUIVANT →</span><strong id="nextTitle">—</strong></button>
+          <button id="prevBtn" class="nav-card">
+            <span class="nav-label">← PRÉCÉDENT</span>
+            <strong id="prevTitle">—</strong>
+          </button>
+
+          <button id="nextBtn" class="nav-card nav-card-next">
+            <span class="nav-label">SUIVANT →</span>
+            <strong id="nextTitle">—</strong>
+          </button>
         </div>
+
         <footer class="reader-footer">ÉCHOS · Bati · Septembre 2026</footer>
       </div>
     </section>
+
 
     <section id="searchView" class="search-view hidden">
       <div class="chapter-column narrow">
         <div class="section-label">RECHERCHE</div>
         <h1>Dans le manuscrit</h1>
-        <input id="searchInput" class="search-input" type="search" placeholder="Chercher un mot ou une expression…" autocomplete="off">
+        <input
+          id="searchInput"
+          class="search-input"
+          type="search"
+          placeholder="Chercher un mot ou une expression…"
+          autocomplete="off"
+        >
         <div id="searchCount" class="search-count"></div>
         <div id="searchResults" class="search-results"></div>
       </div>
     </section>
+
+
+    <section id="contactView" class="chapter-view hidden">
+      <div class="chapter-column">
+
+        <div class="section-label">CONTACT</div>
+
+        <h1>Contacter l’auteur</h1>
+
+        <p style="line-height:1.7; margin-bottom:32px;">
+          Vous pouvez laisser un message en remplissant simplement ce formulaire.
+        </p>
+
+        <form
+          action="https://formsubmit.co/batihoum@gmail.com"
+          method="POST"
+          style="display:grid;gap:20px;"
+        >
+
+          <input
+            type="hidden"
+            name="_subject"
+            value="Message depuis le site ÉCHOS"
+          >
+
+          <input
+            type="hidden"
+            name="_template"
+            value="table"
+          >
+
+          <div>
+            <label
+              for="contactName"
+              style="display:block;margin-bottom:8px;font-weight:600;"
+            >
+              Nom
+            </label>
+
+            <input
+              id="contactName"
+              type="text"
+              name="name"
+              required
+              style="width:100%;box-sizing:border-box;padding:14px;font:inherit;"
+            >
+          </div>
+
+          <div>
+            <label
+              for="contactEmail"
+              style="display:block;margin-bottom:8px;font-weight:600;"
+            >
+              E-mail
+            </label>
+
+            <input
+              id="contactEmail"
+              type="email"
+              name="email"
+              required
+              style="width:100%;box-sizing:border-box;padding:14px;font:inherit;"
+            >
+          </div>
+
+          <div>
+            <label
+              for="contactMessage"
+              style="display:block;margin-bottom:8px;font-weight:600;"
+            >
+              Message
+            </label>
+
+            <textarea
+              id="contactMessage"
+              name="message"
+              required
+              style="width:100%;box-sizing:border-box;padding:14px;font:inherit;min-height:180px;resize:vertical;"
+            ></textarea>
+          </div>
+
+          <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+
+            <button type="submit" class="primary-btn">
+              Envoyer
+            </button>
+
+            <button
+              type="button"
+              class="secondary-btn"
+              onclick="
+                document.getElementById('contactView').classList.add('hidden');
+                document.getElementById('homeView').classList.remove('hidden');
+                window.scrollTo(0,0);
+              "
+            >
+              Retour à l’accueil
+            </button>
+
+          </div>
+
+        </form>
+
+        <footer class="reader-footer">
+          ÉCHOS · Bati · Septembre 2026
+        </footer>
+
+      </div>
+    </section>
+
   </main>
 
   <script src="app.js"></script>
