@@ -1,9 +1,3 @@
-# ÉCHOS
-## Des lieux, des êtres et du temps qui passe
-
-> Édition personnelle provisoire, non destinée à la diffusion
-> Septembre 2026
-
 ## Note liminaire
 
 Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
@@ -58,7 +52,9 @@ Bien des années plus tard, l’hôtel a fermé en 2008. Il n’a pas disparu d�
 
 La maison où nous avions vécu a disparu elle aussi. Celle que mon père avait agrandie pièce après pièce, entourée de son petit jardin et de ses roseaux, n’est plus là. Quand j’y retourne aujourd’hui, j’essaie parfois d’en retrouver mentalement l’emplacement, comme si les murs pouvaient encore se dessiner sous ce qui les a remplacés.
 
-Au bord de la plage, quelques palmiers ont pourtant survécu. Ils sont hauts et fins. Chaque fois que je les revois, le paysage autour d’eux me paraît différent. Eux sont encore là.
+Au bord de la plage, quelques palmiers ont pourtant survécu. Ils sont hauts et fins.
+
+Chaque fois que je les revois, le paysage autour d’eux me paraît différent. Eux sont encore là.
 
 ## Le TGM
 
@@ -78,7 +74,7 @@ Lorsque le train quittait Carthage Hannibal en direction de Sidi Bou Saïd, le r
 
 Trois empires et une république pouvaient ainsi tenir dans la même fenêtre, tandis que le train poursuivait tranquillement son chemin.
 
-Vers seize ans, je descendais souvent à Carthage Hannibal pour aller à la bibliothèque municipale. J’en repartais avec deux livres, jamais davantage, puisque c’était la règle. Je commençais généralement à lire dans le train du retour, la tête appuyée contre la vitre, et il m’arrivait de ne plus faire attention aux stations.
+Vers seize ans, je descendais souvent à Carthage Hannibal pour aller à la bibliothèque municipale. J’en repartais avec deux livres, jamais davantage, puisque c’était la règle. Parmi mes lectures de cette époque, Les Misérables, de Victor Hugo, et Germinal, d’Émile Zola, m’ont particulièrement marqué. Je commençais généralement à lire dans le train du retour, la tête appuyée contre la vitre, et il m’arrivait de ne plus faire attention aux stations.
 
 Carthage Présidence annonçait normalement l’approche d’Amilcar. Je refermais alors mon livre et le rangeais dans mon cartable. Mais certains jours, trop absorbé par ma lecture, je dépassais ma station sans m’en rendre compte et ne relevais la tête qu’un peu plus tard.
 
@@ -160,7 +156,7 @@ Le plus souvent, je montais par la pente raide d’Amilcar avant de suivre la ro
 
 Le chemin remontait ensuite par des escaliers bordés d’une végétation dense vers la chapelle Sainte-Monique. Le lycée se trouvait au bout, sur la colline, entre la baie et les ruines.
 
-À l’intérieur, de larges rampes courbes remplaçaient les escaliers et reliaient les différents étages en donnant sur la cour. Près des bâtiments de l’internat s’élevaient de grands palmiers. Les internes vivaient là dans un univers qui me paraissait différent du nôtre, dont nous, les externes, ne faisions qu’entrevoir les règles et les habitudes.
+À l’intérieur, de larges rampes courbes remplaçaient les escaliers et reliaient les différents étages en donnant sur la cour. Près des bâtiments de l’internat s’élevaient de grands palmiers. Les internes vivaient là dans un univers dont nous, les externes, ne faisions qu’entrevoir les règles et les habitudes.
 
 Les salles du dernier étage ressemblaient à des balcons ouverts sur le paysage. Je m’asseyais souvent à une table tournée vers les ruines et, pendant que la leçon suivait son cours, mon regard s’attardait dehors. Il m’arrivait alors de penser à ceux qui avaient vécu sur cette colline bien avant nous. À cet âge, je ne connaissais pas encore grand-chose à l’histoire de Carthage, mais sa présence entourait le lycée et finissait par faire partie du quotidien.
 
@@ -212,7 +208,7 @@ C’était sans doute l’heure que je préférais.
 
 Un été, j’ai fait la connaissance d’un garçon italien dont la famille louait, pour les vacances, une maison située en face de la nôtre. Il nageait remarquablement bien. Dans l’eau, sa présence me rassurait et me donnait le courage d’aller plus loin que je ne l’aurais fait seul. Il savait aussi lancer une ligne, observer les vagues et comprendre leur mouvement. Il prenait des leçons de voile au club nautique du port de Sidi Bou Saïd, mais je ne l’y ai jamais accompagné.
 
-Sa sœur parlait français avec un accent italien qui donnait à ses phrases une musique particulière. Elle venait parfois me chercher pour jouer aux cartes et nous nous installions sur les marches devant notre maison. Nous jouions aux sept familles avec le sérieux que l’on peut accorder, à cet âge, à des choses très simples lorsqu’une présence leur donne soudain plus d’importance.
+Sa sœur parlait français avec un accent italien qui donnait à ses phrases une musique particulière. Elle venait parfois me chercher pour jouer aux cartes et nous nous installions sur les marches devant notre maison. Nous jouions aux sept familles avec le plus grand sérieux.
 
 Un soir, elle a apporté un transistor qui tenait presque entièrement dans sa main. Nous étions assis près de la maison lorsque la voix de Françoise Hardy s’en est échappée. J’ai entendu Mon amie la rose. Le souvenir qui m’en reste n’est pas seulement celui de la chanson, mais aussi celui de la plage toute proche, de son visage et de cette gêne heureuse que je ne savais pas encore très bien comprendre.
 
@@ -234,7 +230,7 @@ Je n’avais toujours pas de chambre à moi. Une petite pièce que nous appelion
 
 Après le lycée de Carthage, j’ai fait ma terminale au lycée Alaoui, à Tunis. Il m’a fallu deux ans pour obtenir mon baccalauréat de mathématiques. Je ne m’étais jamais vraiment habitué à la vie du Passage, et cette période avait été plus difficile que les années précédentes.
 
-Il y avait eu aussi cet incident dans le TGM. Un contrôleur m’avait fait descendre d’une rame en me poussant alors que j’avais mon abonnement scolaire. Je m’étais défendu avec la serviette que je tenais à la main et je croyais l’affaire terminée. Le contrôleur avait pourtant porté plainte à mon insu. Je ne l’ai appris que la veille de l’examen, lorsqu’un ami de mon père m’a averti que j’étais recherché. J’ai passé les épreuves avec cette inquiétude en tête. La cour d’appel m’a finalement donné raison, mais seulement après les résultats.
+Il y avait eu aussi cet incident dans le TGM. Un contrôleur m’avait fait descendre d’une rame en me poussant alors que j’avais mon abonnement scolaire. Je m’étais défendu avec le cartable que je tenais à la main et je croyais l’affaire terminée. Le contrôleur avait pourtant porté plainte à mon insu. Je ne l’ai appris que la veille de l’examen, lorsqu’un ami de mon père m’a averti que j’étais recherché. J’ai passé les épreuves avec cette inquiétude en tête. La cour d’appel m’a finalement donné raison, mais seulement après les résultats.
 
 J’ai ensuite commencé des études de mathématiques et de physique à la faculté des sciences. Je les ai poursuivies pendant deux ans avant de les interrompre pour travailler.
 
@@ -284,7 +280,7 @@ Je n’ai pourtant jamais repris place à cette table. Depuis, j’en choisis un
 
 On l’appelait tous Ommi Khira. Elle tenait la maison, qui se remplissait de frères, de sœurs, de cousins parfois lointains et de nos camarades de classe. On pouvait y manger à presque toute heure, et la table ne désemplissait jamais vraiment.
 
-Elle était belle, avec des cheveux noirs qui contrastaient avec son teint clair, et un sourire que je revois encore. Elle avait épousé mon père à dix-huit ans, et je suis né l’année suivante. Longtemps, je n’ai vu en elle que ma mère. Ce n’est qu’en vieillissant à mon tour que j’ai mesuré la jeunesse de la femme qu’elle était alors.
+Elle était belle, avec des cheveux noirs qui contrastaient avec son teint clair, et un sourire que je revois encore. Elle aimait les robes et les foulards fleuris, avec une préférence pour le lilas. Elle avait épousé mon père à dix-huit ans, et je suis né l’année suivante. Longtemps, je n’ai vu en elle que ma mère. Ce n’est qu’en vieillissant à mon tour que j’ai mesuré la jeunesse de la femme qu’elle était alors.
 
 Ses journées étaient faites des mêmes gestes : cuisiner, ranger, laver, préparer, puis recommencer le lendemain. À l’époque, nous n’y pensions guère. Avec le recul, je comprends davantage combien nos jours heureux reposaient sur cette fatigue silencieuse.
 
@@ -406,7 +402,7 @@ L’été, je les emmenais avec leur mère à la plage de l’hôtel Amilcar. Le
 
 Je leur racontais parfois mon enfance à Amilcar en leur montrant les lieux. Sans l’avoir décidé, nos sorties suivaient ainsi les stations de ma propre adolescence. Je les conduisais vers la plage, La Goulette, La Marsa ou Sidi Bou Saïd, comme si je leur faisais parcourir une géographie qui m’était restée familière. Ils s’étonnaient parfois de cette fidélité et me demandaient pourquoi je revenais toujours aux mêmes endroits. Je ne savais pas vraiment quoi leur répondre.
 
-En grandissant, ils ont naturellement trouvé leurs propres centres d’intérêt. Avec mon fils, il y avait les jeux vidéo, puis l’informatique, qui est devenue plus tard un sujet que nous partagions.
+En grandissant, ils ont naturellement trouvé leurs propres centres d’intérêt. Mon fils consacrait beaucoup de temps aux jeux vidéo. Je me suis appuyé sur cet intérêt pour l’orienter peu à peu vers des études d’informatique dans un établissement privé.
 
 Ma fille était plus réservée. Un jour, alors que nous étions en voiture, elle m’a confié quelque chose d’important pour elle. Nous en avons parlé pendant le trajet. Je n’en dirai rien ici, car cela lui appartient. Ce que j’ai gardé de ce moment, bien davantage que les mots eux-mêmes, est la confiance avec laquelle elle s’était tournée vers moi. J’en ressens, encore aujourd’hui, une gratitude que je ne lui ai peut-être jamais assez exprimée.
 
@@ -490,13 +486,13 @@ L’argent ne m’a jamais attiré pour lui-même. Il m’inspirait même une ce
 
 Ce qui m’intéressait davantage était ce que ces chiffres pouvaient révéler. J’aimais comprendre l’origine d’un écart, retrouver une anomalie dans une série de comptes, chercher l’endroit précis où quelque chose avait cessé de correspondre. Peu à peu, ce goût de l’analyse m’a attaché au métier. L’ambition, elle, n’est venue que plus tard.
 
-Tout en travaillant, j’ai repris des études d’expertise comptable à l’IHEC de Carthage. Je retrouvais ainsi la même colline où j’avais passé une partie de mon adolescence. Le soir, en sortant des cours, il m’arrivait de m’arrêter pour regarder en contrebas la plage et l’hôtel Amilcar. Entre l’étudiant que j’avais été et l’employé de banque que j’étais devenu, le paysage servait presque de trait d’union.
+Tout en travaillant, j’ai repris des études à l’IHEC de Carthage, où j’ai obtenu une maîtrise en gestion comptable en 1988. Je retrouvais ainsi la même colline où j’avais passé une partie de mon adolescence. Le soir, en sortant des cours, il m’arrivait de m’arrêter pour regarder en contrebas la plage et l’hôtel Amilcar. Entre l’étudiant que j’avais été et l’employé de banque que j’étais devenu, le paysage servait presque de trait d’union.
 
 L’informatique m’a ouvert un autre terrain. J’y ai retrouvé ce que j’aimais déjà dans les comptes : organiser, croiser, vérifier, comprendre. L’outil que j’ai conçu pour la clôture du bilan a été adopté, puis développé par d’autres. Ce goût pour l’informatique ne m’a jamais quitté.
 
-J’ai eu la chance d’avoir un supérieur qui me faisait confiance et me confiait beaucoup de responsabilités. Plus tard, lorsque j’ai moi-même dirigé des collaborateurs, je laissais généralement la porte de mon bureau ouverte. Certains venaient pour une question de travail, d’autres simplement parce qu’ils avaient besoin de parler d’un problème personnel. Avec les années, quelques-unes de ces relations ont dépassé le cadre professionnel et sont devenues de véritables amitiés.
+J’ai eu la chance d’avoir un supérieur qui me faisait confiance et me confiait beaucoup de responsabilités. Plus tard, je suis devenu directeur central chargé des finances et du contrôle, avec une cinquantaine de collaborateurs sous ma responsabilité. Je laissais généralement la porte de mon bureau ouverte. Certains venaient pour une question de travail, d’autres simplement parce qu’ils avaient besoin de parler d’un problème personnel. Avec les années, quelques-unes de ces relations ont dépassé le cadre professionnel et sont devenues de véritables amitiés.
 
-Je me suis également engagé dans les instances représentatives du personnel et dans le syndicat de la banque, avec l’idée de défendre les employés et d’améliorer leur situation. Cet engagement m’a apporté beaucoup, mais il m’a aussi coûté. Il a ralenti ma carrière, m’a fatigué et m’a parfois exposé à des risques d’ordre politique. Surtout, il m’a rendu moins disponible pour mes enfants, ce que je mesure davantage aujourd’hui qu’à l’époque.
+Je me suis également engagé dans les instances représentatives du personnel et dans le syndicat de la banque, avec l’idée de défendre les employés et d’améliorer leur situation. Cet engagement m’a valu leur respect, mais il m’a surtout attiré beaucoup d’ennuis. Il a ralenti ma carrière, m’a fatigué et m’a parfois exposé à des risques d’ordre politique. J’ai aussi été moins disponible pour mes enfants, ce que je mesure davantage aujourd’hui qu’à l’époque.
 
 Pendant ces années, ma vie familiale s’était elle aussi construite. Je m’étais marié à la salle de fêtes de l’hôtel Amilcar et nos deux enfants étaient nés. Après un premier appartement, nous avions vécu à Bellevue. Ma famille ayant quitté le Passage pour Rommana, j’avais ensuite choisi de m’installer à El Hadika, tout près, afin de rester proche de mes parents, de mes frères et de mes sœurs.
 
@@ -524,13 +520,11 @@ En 2010, la possibilité d’une retraite anticipée s’est présentée. Je n�
 
 Le dernier jour, après avoir quitté définitivement la banque, je suis allé à Amilcar. J’étais encore en costume de travail lorsque je me suis retrouvé, au crépuscule, sur la plage de mon enfance.
 
-Après tant d’années passées à compter et à vérifier les chiffres des autres, il ne me restait plus qu’un calcul qui m’intéressait vraiment : celui du temps qui restait.
-
 ## El Manar
 
 En 2004, après notre mariage, mon épouse m’a rejoint à El Manar, dans l’appartement que j’avais loué l’année précédente.
 
-L’appartement avait quatre pièces et beaucoup de lumière. Du balcon du salon, on apercevait au loin le lac de Tunis, du côté où le soleil se levait. Je m’y sentais en sécurité et, assez vite, ce logement est devenu notre maison. La petite chambre que mon épouse m’avait aménagée pour les moments où j’avais besoin d’être seul avait une fenêtre qui s’ouvrait elle aussi sur cette vue.
+L’appartement avait quatre pièces et beaucoup de lumière. Du balcon du salon, on apercevait au loin le lac de Tunis, du côté où le soleil se levait. Je m’y sentais en sécurité et, assez vite, ce logement est devenu notre maison. La fenêtre de la petite chambre donnait elle aussi sur le lac.
 
 Certains jours, notre appartement changeait complètement de visage. La famille venait, les conversations remplissaient les pièces et la maison retrouvait cette animation que mon épouse aimait tant. Puis les visiteurs repartaient et le calme revenait.
 
@@ -558,6 +552,10 @@ Aujourd’hui, j’y retrouve surtout ce qui n’est plus là. Partir me donnera
 
 ## La mémoire
 
+Certaines photographies me troublent davantage que d’autres. Je reconnais les personnes, le lieu, parfois même les vêtements, mais je ne retrouve aucun souvenir précis du moment où la photo a été prise. C’est comme si l’image avait conservé une partie de ma vie à laquelle je n’avais plus directement accès.
+
+La photographie sait alors quelque chose que j’ai oublié.
+
 Il m’arrive encore d’entendre la voix de mon épouse me dire, en plaisantant : « Bouge-toi un peu, ça te fera du bien. » L’intonation revient parfois entière, avec une netteté qui me surprend, alors que d’autres détails se sont effacés.
 
 La mémoire choisit seule ce qu’elle conserve. Elle garde une odeur et perd une date, retient une phrase isolée mais laisse disparaître le contenu d’une conversation. De certains visages, il reste un geste ou une expression tandis que les traits eux-mêmes deviennent moins précis.
@@ -569,10 +567,6 @@ Depuis que j’écris ces pages, les souvenirs reviennent aussi sans l’aide de
 D’autres souvenirs, que je sais pourtant importants, restent hors d’atteinte. Je sais qu’ils ont existé, mais je n’en retrouve presque rien. Cette absence m’étonne parfois davantage que l’oubli des choses ordinaires.
 
 La photographie m’accompagne depuis l’adolescence. J’ai beaucoup photographié les lieux, les visages et les moments ordinaires, sans penser qu’un jour ces images me restitueraient des détails que ma mémoire aurait perdus.
-
-Certaines photographies me troublent davantage que d’autres. Je reconnais les personnes, le lieu, parfois même les vêtements, mais je ne retrouve aucun souvenir précis du moment où la photo a été prise. C’est comme si l’image avait conservé une partie de ma vie à laquelle je n’avais plus directement accès.
-
-La photographie sait alors quelque chose que j’ai oublié.
 
 J’ai également gardé d’anciennes photos des lieux que j’ai connus. Il m’arrive de les comparer avec celles que j’ai prises des années plus tard, simplement pour retrouver ce qui existait autrefois et mesurer ce qui a changé. Une façade a disparu, une rue s’est élargie, un terrain a été bâti, mais un détail demeure parfois exactement à sa place et suffit à faire revenir tout un paysage.
 
@@ -586,8 +580,6 @@ Après le déjeuner, nous sommes allés à Amilcar. Nous avons marché sur la pl
 
 Ce fut le dernier anniversaire que nous avons fêté ensemble.
 
-Nous étions simplement occupés à vivre et imaginions, comme on le fait presque toujours, que les jours suivants ressembleraient aux précédents.
-
 Le 31 décembre 2024, je me suis souvenu de nos réveillons. Elle aimait beaucoup cuisiner et préparait chaque année elle-même le poulet et le gâteau, avec le même soin qu’elle apportait à tout ce qu’elle faisait dans la maison. Ce soir-là, le souvenir de ces préparatifs m’est revenu avec une précision étrange : la cuisine, les plats, son attention aux détails et cette impression que nous avions encore tout le temps devant nous.
 
 Il me reste aussi deux tasses identiques que nous avions trouvées ensemble dans un marché aux puces. Elles n’ont rien de précieux et ne représentent rien pour les autres.
@@ -598,7 +590,7 @@ Je les ai gardées.
 
 J’ai longtemps gardé le contact avec quelques amis, surtout ceux d’Amilcar et du lycée. Certains sont restés présents pendant des années, puis la vie a fini par nous éloigner sans que nous sachions exactement à quel moment cela s’était produit.
 
-Dans mon enfance, certaines séparations avaient pourtant une date précise. La famille italienne louait chaque été la maison située en face de la nôtre. Le garçon nageait mieux que nous tous, et sa sœur venait me chercher pour jouer aux cartes sur les marches devant la maison. À la fin du mois d’août, ils remontaient dans leur voiture et repartaient. Nous savions que ce jour arriverait, mais cela ne nous inquiétait pas vraiment, puisque nous nous quittions en nous disant : « À l’année prochaine. » Et, pendant plusieurs années, l’été suivant les ramenait.
+Le garçon italien et sa sœur revenaient chaque été dans la maison située en face de la nôtre. À la fin du mois d’août, nous nous quittions en nous disant : « À l’année prochaine. »
 
 Puis, un été, ils ne sont pas revenus.
 
@@ -612,7 +604,7 @@ Les appels se sont simplement espacés. Quelques semaines entre deux conversatio
 
 Je n’ai jamais eu le sentiment qu’une amitié était en train de se terminer. Il n’y avait ni dispute ni décision. Un jour, on se rend seulement compte que l’on n’a plus parlé depuis longtemps à quelqu’un qui avait autrefois fait partie de la vie quotidienne.
 
-Je ne m’en suis pas beaucoup préoccupé sur le moment. Ces éloignements se font presque sans qu’on les voie venir, et l’on ne sait presque jamais quelle rencontre sera la dernière ni quel appel ne sera jamais suivi d’un autre. C’est seulement bien plus tard que l’on regarde en arrière et que l’on comprend qu’un lien s’est défait quelque part en chemin.
+Je ne m’en suis pas beaucoup préoccupé sur le moment.
 
 Pendant longtemps, je me suis dit que ces amitiés s’étaient éteintes d’elles-mêmes. Ce n’est pas tout à fait vrai. J’ai moi aussi laissé faire le temps, et il sait très bien éloigner les êtres lorsqu’on ne fait rien pour l’en empêcher.
 
@@ -664,7 +656,7 @@ Le jour de mon anniversaire, en 2021, j’étais avec mon épouse au pied du pha
 
 Je ne savais pas qu’elle partirait avant moi.
 
-Aujourd’hui, ma fille vient souvent me voir avec ma petite-fille. Lorsqu’elles arrivent, l’appartement retrouve des voix et un mouvement qui lui manquent le reste du temps. Ma fille m’apporte à manger et m’aide pour le ménage. Je reçois ces attentions avec gratitude, même si je tiens aussi à conserver mon indépendance et mes habitudes.
+Aujourd’hui, ma fille vient souvent me voir avec ma petite-fille. Lorsqu’elles arrivent, l’appartement retrouve des voix et un mouvement qui lui manquent le reste du temps. Je sors avec ma petite-fille pour faire des courses et je l’accompagne à la foire du livre. Je l’emmène aussi à la plage d’Amilcar et au port de plaisance de Sidi Bou Saïd. Je répare son ordinateur et, lorsqu’elle me le demande, je lui montre comment utiliser certaines fonctions de son smartphone. Ma fille m’apporte à manger et m’aide pour le ménage. Je reçois ces attentions avec gratitude, même si je tiens aussi à conserver mon indépendance et mes habitudes.
 
 Je souhaite surtout pouvoir rester disponible pour mes enfants et mes petits-enfants lorsqu’ils auront besoin de moi. Avec les années, les projets que l’on forme changent de nature. Ils n’ont plus forcément besoin d’être grands ni lointains pour avoir de l’importance.
 
