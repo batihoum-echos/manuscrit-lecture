@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Contacter l’auteur — ÉCHOS">
+  <meta name="theme-color" content="#f3efe6">
+  <title>Contacter l’auteur — ÉCHOS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header class="topbar">
+    <button class="brand" onclick="window.location.href='index.html'" aria-label="Retour à l’accueil">
+      <span class="brand-mark">É</span>
+      <span class="brand-word">ÉCHOS</span>
+    </button>
+
+    <div class="current-title">Contacter l’auteur</div>
+  </header>
+
+  <main style="max-width:760px;margin:0 auto;padding:60px 24px 80px;">
+
+    <div class="section-label">CONTACT</div>
+
+    <h1>Contacter l’auteur</h1>
+
+    <p style="line-height:1.7;margin-bottom:36px;">
+      Vous pouvez laisser un message en remplissant simplement ce formulaire.
+    </p>
+
+    <form
+      action="https://formsubmit.co/batihoum@gmail.com"
+      method="POST"
+      style="display:grid;gap:22px;"
+    >
+
+      <input type="hidden" name="_subject" value="Message depuis le site ÉCHOS">
+      <input type="hidden" name="_template" value="table">
+
+      <div>
+        <label for="name" style="display:block;margin-bottom:8px;font-weight:600;">
+          Nom
+        </label>
+        <input
+          id="name"
+          type="text"
+          name="name"
+          required
+          style="width:100%;box-sizing:border-box;padding:14px;"
+        >
+      </div>
+
+      <div>
+        <label for="email" style="display:block;margin-bottom:8px;font-weight:600;">
+          E-mail
+        </label>
+        <input
+          id="email"
+          type="email"
+          name="email"
+          required
+          style="width:100%;box-sizing:border-box;padding:14px;"
+        >
+      </div>
+
+      <div>
+        <label for="message" style="display:block;margin-bottom:8px;font-weight:600;">
+          Message
+        </label>
+        <textarea
+          id="message"
+          name="message"
+          required
+          style="width:100%;box-sizing:border-box;padding:14px;min-height:180px;"
+        ></textarea>
+      </div>
+
+      <button type="submit" class="primary-btn">
+        Envoyer
+      </button>
+
+    </form>
+
+    <p style="margin-top:30px;">
+      <a href="index.html">← Retour à ÉCHOS</a>
+    </p>
+
+  </main>
+
+</body>
+</html>
