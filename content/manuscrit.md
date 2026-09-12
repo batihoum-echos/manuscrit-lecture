@@ -340,7 +340,7 @@ Il ne pouvait plus parler, mais je savais qu’il comprenait encore. Il m’arri
 
 Il est mort en 2003. Le jour de ses obsèques, malgré une pluie battante, je n’avais jamais vu autant de monde venu rendre hommage à quelqu’un. Des voisins, d’anciens collègues de plusieurs hôtels, des visages que je ne connaissais pas et qui connaissaient pourtant tous mon père étaient venus, certains de loin, rester debout sous l’averse jusqu’au bout. Ce jour-là, j’ai mesuré à quel point l’homme discret que nous avions connu à la maison avait, au-dehors, touché bien plus de personnes que je ne l’avais imaginé.
 
-Après cela, j’ai retrouvé parmi ses affaires mes bulletins. Il les avait conservés pendant toutes ces années sans jamais me le dire.
+Avant sa mort, alors qu’il était en fauteuil roulant, j’avais retrouvé parmi ses affaires mes carnets scolaires et mes bulletins. Il les avait conservés pendant toutes ces années sans jamais me le dire.
 
 Cela lui ressemblait.
 
@@ -408,7 +408,7 @@ Ma fille était plus réservée. Un jour, alors que nous étions en voiture, ell
 
 J’ai attendu que mes deux enfants aient au moins vingt ans avant de me séparer de leur mère, en pensant que leur âge les aiderait à mieux supporter notre séparation. Lorsque je suis parti, je leur ai laissé l’appartement d’El Hadika. De novembre 2002 à novembre 2003, j’ai vécu dans un studio de l’avenue de la Liberté, puis je me suis installé à El Manar afin de rester près d’eux.
 
-Ils m’en veulent parfois et me le disent. Je les écoute sans chercher à me justifier. J’assume le choix que j’ai fait, tout en sachant désormais qu’un même événement ne laisse jamais la même trace chez les parents et chez leurs enfants.
+Ils me reprochent parfois de ne pas avoir été assez présent pendant leur enfance. Je les écoute sans chercher à me justifier. Quant à ma séparation d’avec leur mère, j’assume le choix que j’ai fait, tout en sachant désormais qu’un même événement ne laisse jamais la même trace chez les parents et chez leurs enfants.
 
 Avec le temps, ma fille et moi sommes devenus très proches.
 
@@ -490,7 +490,7 @@ Tout en travaillant, j’ai repris des études à l’IHEC de Carthage, où j’
 
 L’informatique m’a ouvert un autre terrain. J’y ai retrouvé ce que j’aimais déjà dans les comptes : organiser, croiser, vérifier, comprendre. L’outil que j’ai conçu pour la clôture du bilan a été adopté, puis développé par d’autres. Ce goût pour l’informatique ne m’a jamais quitté.
 
-J’ai eu la chance d’avoir un supérieur qui me faisait confiance et me confiait beaucoup de responsabilités. Plus tard, je suis devenu directeur central chargé des finances et du contrôle, avec une cinquantaine de collaborateurs sous ma responsabilité. Je laissais généralement la porte de mon bureau ouverte. Certains venaient pour une question de travail, d’autres simplement parce qu’ils avaient besoin de parler d’un problème personnel. Avec les années, quelques-unes de ces relations ont dépassé le cadre professionnel et sont devenues de véritables amitiés.
+J’ai pris la responsabilité des finances et du contrôle. Je laissais généralement la porte de mon bureau ouverte. Certains venaient pour une question de travail, d’autres simplement parce qu’ils avaient besoin de parler d’un problème personnel. Avec les années, quelques-unes de ces relations ont dépassé le cadre professionnel et sont devenues de véritables amitiés.
 
 Je me suis également engagé dans les instances représentatives du personnel et dans le syndicat de la banque, avec l’idée de défendre les employés et d’améliorer leur situation. Cet engagement m’a valu leur respect, mais il m’a surtout attiré beaucoup d’ennuis. Il a ralenti ma carrière, m’a fatigué et m’a parfois exposé à des risques d’ordre politique. J’ai aussi été moins disponible pour mes enfants, ce que je mesure davantage aujourd’hui qu’à l’époque.
 
@@ -570,7 +570,7 @@ La photographie m’accompagne depuis l’adolescence. J’ai beaucoup photograp
 
 J’ai également gardé d’anciennes photos des lieux que j’ai connus. Il m’arrive de les comparer avec celles que j’ai prises des années plus tard, simplement pour retrouver ce qui existait autrefois et mesurer ce qui a changé. Une façade a disparu, une rue s’est élargie, un terrain a été bâti, mais un détail demeure parfois exactement à sa place et suffit à faire revenir tout un paysage.
 
-Il existe aussi une autre forme d’oubli, plus discrète : celle qui nous empêche de voir pleinement ce que nous sommes en train de vivre. Les jours passent dans leur apparente normalité, et il faut souvent qu’ils s’éloignent pour que l’on comprenne ce qu’ils avaient de précieux.
+Il y a aussi ce que nous vivons sans y prêter pleinement attention. Les jours passent dans leur apparente normalité, et il faut souvent qu’ils s’éloignent pour que l’on comprenne ce qu’ils avaient de précieux.
 
 J’ai gardé de nombreuses photographies de mon épouse et de moi, prises au fil des années pendant nos sorties. À l’époque, elles faisaient partie de la vie ordinaire. Aujourd’hui, je les regarde autrement.
 
@@ -636,7 +636,7 @@ Le matin, je m’attarde devant ma tasse encore chaude. Je n’ai plus besoin de
 
 Je lis davantage et j’écris beaucoup. J’alimente des blogs consacrés à la psychologie et aux comportements humains, et je travaille aussi à ces pages. L’écriture m’aide à remettre un peu d’ordre dans ce qui revient, à retrouver des souvenirs que je croyais perdus, mais je continue surtout parce que j’y prends plaisir.
 
-Il m’arrive également de revoir les films qui avaient compté autrefois. J’ai revu Que la bête meure, tant d’années après la première séance. Le film n’avait pas changé. C’était mon regard qui n’était plus le même, et j’y ai trouvé des choses auxquelles je n’aurais probablement pas prêté attention lorsque j’étais jeune.
+Il m’arrive également de revoir les films qui avaient compté autrefois. J’ai revu Que la bête meure, tant d’années après la première séance. Le film n’avait pas changé. C’était mon regard qui n’était plus le même. Au-delà de l’histoire de vengeance, j’ai découvert la finesse avec laquelle le film explore la psychologie des personnages.
 
 Je sors moins qu’avant. Certains jours, je prends un taxi pour aller au café Sidi Azizi, à Sidi Bou Saïd, avec un livre et mon bloc-notes. La mer et les livres sont restés parmi les choses auxquelles je reviens naturellement. Ils m’ont accompagné à des âges très différents et je ne ressens pas le besoin de m’en éloigner.
 
