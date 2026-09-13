@@ -1,5 +1,3 @@
-## Note liminaire
-
 Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
 
 Je raconte ces souvenirs depuis mon point de vue. D’autres, qui ont connu les mêmes lieux ou partagé certains moments, peuvent en garder une mémoire différente.
@@ -8,13 +6,11 @@ Pour préserver la vie privée, la plupart des personnes proches sont désignée
 
 Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliqués en fin de volume.
 
-> « Ce qui survit à l’oubli ne reconstitue pas une existence. Cela en garde les échos. »
-
-*Bati*
+Bati
 
 # Ouverture
 
-Il suffit parfois de presque rien pour que le passé revienne : un bruit rappelle un lieu, un lieu fait renaître la présence d’un être, et cette présence ramène avec elle une époque que l’on croyait éloignée.
+Il suffit parfois de presque rien pour que le passé revienne : un bruit rappelle un lieu, un lieu fait renaître la présence d’un être, et cette présence ramène avec elle une époque que l’on croyait éloignée.
 
 Tout ne remonte pas à la surface, et ce qui revient ne revient jamais tout à fait comme autrefois.
 
@@ -28,51 +24,53 @@ En 1966, nous nous sommes installés à Amilcar, où travaillait mon père. La s
 
 La mer était si proche qu’on entendait les vagues sans jamais la voir. Son bruit nous parvenait selon le temps, tantôt discret, tantôt plus présent, comme si elle faisait elle aussi partie de la maison.
 
-Le logement initial était exigu pour notre famille nombreuse. Mon père, excellent bricoleur, avait obtenu de la direction l’autorisation de l’agrandir avec l’aide du service d’entretien. La maison avait ainsi grandi par étapes, au rythme de nos besoins : une extension, puis une cloison, puis une autre, chaque pièce ajoutée lorsqu’elle devenait nécessaire. Il avait également aménagé autour un petit jardin, garni surtout de fleurs et protégé par une haie de roseaux. Il arrosait, coupait les branches mortes, plantait, et nous l’aidions volontiers, surtout pour l’arrosage. Ce logement appartenait à l’hôtel, mais mon père en avait fait notre maison.
+Notre logement se trouvait dans une annexe de l’hôtel à deux étages, qui comprenait notamment des appartements pour le personnel, dont celui du directeur général. En bas, un grand atelier technique abritait le groupe électrogène.
 
-Nous étions nombreux et je n’avais ni lit à moi ni véritable coin où m’isoler. Quand j’avais envie de lire ou simplement de rester seul, je sortais. Je montais sur la falaise jusqu’à un replat rocheux situé un peu au-dessous du sommet. J’y étais généralement tranquille. De là, je regardais le Bou Kornine et les bateaux qui traversaient le golfe. Je ne savais pas encore que je garderais longtemps cette habitude de chercher un endroit à l’écart pour regarder la mer.
+Le logement initial était exigu pour notre famille nombreuse. Pour l’agrandir, mon père, excellent bricoleur, avait obtenu de la direction l’autorisation d’aménager cet atelier avec l’aide du service d’entretien. La maison avait ainsi grandi par étapes, au rythme de nos besoins : une extension, puis une cloison, puis une autre, chaque pièce ajoutée lorsqu’elle devenait nécessaire. Il avait également aménagé autour un petit jardin, garni surtout de fleurs et protégé par une haie de roseaux. Il arrosait, coupait les branches mortes, plantait, et nous l’aidions volontiers, surtout pour l’arrosage. Ce logement appartenait à l’hôtel, mais mon père en avait fait notre maison.
+
+Nous étions nombreux et je n’avais ni lit à moi ni véritable coin où m’isoler. Quand j’avais envie de lire ou simplement de rester seul, je sortais. Je montais sur la falaise jusqu’à un replat rocheux situé un peu au-dessous du sommet. J’y étais généralement tranquille. De là, je regardais le Bou Kornine et les bateaux qui traversaient le golfe. Je ne savais pas encore que je garderais longtemps cette habitude de chercher un endroit à l’écart.
 
 Avant la construction de l’hôtel, une briqueterie occupait les lieux. La station voisine du TGM avait d’ailleurs longtemps porté le nom de la Briqueterie avant de prendre celui d’Amilcar, aujourd’hui Carthage Amilcar. À l’époque, je ne prêtais guère attention à cette histoire. Le décor qui comptait pour moi était celui que j’avais sous les yeux.
 
-L’hôtel était audacieux pour son temps. Ses lignes modernes, ses terrasses ouvertes sur le golfe de Tunis et ses mosaïques bleues semblaient répondre aux couleurs de Sidi Bou Saïd. Au sommet du bâtiment, un emblème reprenant le signe de Tanit dominait l’ensemble. La nuit, il s’allumait en néon bleu et se reflétait sur la mer. Ainsi dressé au-dessus de l’hôtel, il lui donnait une présence presque mystérieuse. Pour l’enfant que j’étais, l’hôtel avait alors des allures de monde à part.
+L’hôtel était novateur pour son temps. Ses lignes modernes, ses terrasses ouvertes sur le golfe de Tunis et ses mosaïques bleues semblaient répondre aux couleurs de Sidi Bou Saïd. Au sommet du bâtiment, un emblème reprenant le signe de Tanit dominait l’ensemble. La nuit, il s’allumait en néon bleu et se reflétait sur la mer. Ainsi dressé au-dessus de l’hôtel, il lui donnait une présence presque mystérieuse. Pour l’enfant que j’étais, l’hôtel avait alors des allures de monde à part.
 
 Chaque été apportait son décor. Les clients traversaient le hall, les soirées dansantes réunissaient familles et couples autour de la piscine, et les robes claires, la musique et les voix donnaient au lieu l’apparence d’un bonheur suspendu.
 
-Derrière cette façade vivaient les employés et les familles logées sur place. Les clients avaient leurs tables, leurs chambres et leurs parasols ; les autres avaient leurs horaires, leurs couloirs et les portes de service. Nous habitions quelque part entre ces deux mondes, assez près pour voir la fête, mais assez loin pour savoir qu’elle n’était pas la nôtre.
+Derrière cette façade vivaient les employés et les familles logées sur place. Les clients avaient leurs tables, leurs chambres et leurs parasols ; les autres avaient leurs horaires, leurs couloirs et les portes de service. Nous habitions quelque part entre ces deux mondes, assez près pour voir la fête, mais assez loin pour savoir qu’elle n’était pas la nôtre.
 
 Je revois les hommes en veste blanche, toujours disponibles près des tables. Lorsque la musique commençait et que les clients entraient dans leur soirée, eux continuaient à porter les plateaux, à débarrasser les verres et à répondre aux demandes avant de disparaître derrière des portes auxquelles, enfant, je ne prêtais presque aucune attention.
 
-Mon père, lui, ne paraissait jamais dans les salles. Son travail se déroulait derrière ces portes, dans les étages, à la lingerie. Il ne portait pas d’uniforme. Je le voyais parfois y superviser le travail, au milieu des piles de draps et de la chaleur des machines. C’était son hôtel à lui, celui que les vacanciers ne voyaient pas.
+Mon père, lui, ne paraissait jamais dans les salles. Son travail se déroulait derrière ces portes, dans les couloirs, à la lingerie. Il ne portait pas d’uniforme. Je le voyais parfois y superviser le travail, au milieu des piles de draps et de la chaleur des machines. C’était son hôtel à lui, celui que les touristes ne voyaient pas.
 
-Le soir, un groupe de musiciens animait la discothèque. Parmi eux se trouvait un jeune batteur, un peu plus âgé que nous. Il logeait sur place avec ses frères, qui faisaient eux aussi partie de l’orchestre. Les musiciens occupaient une place particulière : ils vivaient à l’hôtel sans être des clients, travaillaient le soir et disposaient de leurs journées. Le jeune batteur descendait parfois jouer au football avec nous. Il était gentil et aimait le ballon autant que nous. De tout ce monde d’été qui passait devant nos yeux, c’est lui qui s’est le plus naturellement rapproché de nous.
+Le soir, un groupe de musiciens animait la discothèque. Parmi eux se trouvait un jeune batteur, un peu plus âgé que nous. Il logeait sur place avec ses frères, qui faisaient eux aussi partie de l’orchestre. Les musiciens occupaient une place particulière : ils vivaient à l’hôtel sans être des clients, travaillaient le soir et disposaient de leurs journées. Le jeune batteur descendait parfois jouer au football avec nous. Il était gentil et aimait le ballon autant que nous. De tout ce monde d’été qui passait devant nos yeux, c’est lui qui s’est le plus naturellement rapproché de nous.
 
-L’hiver changeait complètement le visage de l’hôtel. Lorsque la saison basse vidait les chambres et que les terrasses restaient désertes, les lieux semblaient nous revenir. Mes frères et moi avions alors libre accès à la salle des jeux et à la discothèque. Nous y passions de longues heures entre le baby-foot et les disques, dans des pièces faites pour d’autres et que plus personne ne venait nous disputer. L’été nous restions à la lisière ; l’hiver, nous avions presque l’impression que l’hôtel nous appartenait.
+L’hiver changeait complètement le visage de l’hôtel. Lorsque la saison basse vidait les chambres et que les terrasses restaient désertes, les lieux semblaient nous revenir. Mes frères et moi avions alors libre accès à la salle des jeux et à la discothèque. Nous y passions de longues heures à jouer au baby-foot. Je m’éclipsais parfois pour mettre un disque sur la chaîne stéréo et jouer quelques notes au hasard sur le piano.
+
+Il m’arrivait aussi de prendre l’ascenseur jusqu’à la terrasse. De là, j’admirais la mer et le village de Sidi Bou Saïd, perché sur la falaise. L’été nous restions à la lisière ; l’hiver, nous avions presque l’impression que l’hôtel nous appartenait.
 
 Bien des années plus tard, l’hôtel a fermé en 2008. Il n’a pas disparu d’un seul coup. On l’a défait peu à peu, morceau après morceau, jusqu’à ne laisser que le squelette du bâtiment que nous avions connu. Plusieurs projets de reconstruction ont été annoncés au fil du temps, sans aboutir.
 
 La maison où nous avions vécu a disparu elle aussi. Celle que mon père avait agrandie pièce après pièce, entourée de son petit jardin et de ses roseaux, n’est plus là. Quand j’y retourne aujourd’hui, j’essaie parfois d’en retrouver mentalement l’emplacement, comme si les murs pouvaient encore se dessiner sous ce qui les a remplacés.
 
-Au bord de la plage, quelques palmiers ont pourtant survécu. Ils sont hauts et fins.
+Au bord de la plage, le restaurant L’Amphitrite est toujours là, les pieds dans l’eau depuis plus de cinquante ans. Quelques palmiers élancés avec leurs troncs minces et rectilignes ont eux aussi survécu.
 
 Chaque fois que je les revois, le paysage autour d’eux me paraît différent. Eux sont encore là.
 
 ## Le TGM
 
-Son nom seul suffit encore à faire revenir les stations, les fenêtres, les secousses et ces paysages que l’on finissait par croire immuables tant on les voyait chaque jour. J’avais un abonnement scolaire et je faisais le trajet deux fois par jour.
+Son nom seul suffit encore à faire revenir les stations, les fenêtres, les secousses et ces paysages que l’on finissait par croire immuables tant on les voyait chaque jour. J’avais un abonnement scolaire et je faisais le trajet deux fois par jour pour rejoindre mon collège à La Goulette.
 
 Le rythme des roues sur les rails me berçait, tandis que le monde défilait derrière les vitres et que mon esprit, lui, restait ailleurs.
 
-C’était un vieux train de bois. Les banquettes étaient dures, mais on s’y habituait vite, comme on s’habituait aux secousses à chaque arrêt et au bruit des portes. Les voyageurs montaient avec des paniers, des cartables ou des sacs de plage. Par les fenêtres entrouvertes entraient l’odeur du sel, la poussière des rails et parfois quelques mots d’une conversation, aussitôt perdus dans le vacarme du train.
+C’était un vieux train de bois. Les banquettes étaient dures, mais on s’y habituait vite, tout comme aux secousses à chaque arrêt et au bruit des portes. Les voyageurs montaient avec des paniers, des cartables ou des sacs de plage. Par les fenêtres entrouvertes entraient l’odeur du sel, la poussière des rails et parfois quelques mots d’une conversation, aussitôt perdus dans le vacarme du train.
 
 À force de prendre les mêmes rames aux mêmes heures, certains visages m’étaient devenus familiers. Nous ne nous parlions pas, mais je finissais par savoir à quelle station chacun monterait ou descendrait. Aux heures les plus chargées, les wagons se remplissaient et l’on cherchait instinctivement un peu d’air près d’une fenêtre.
 
-Parmi les voyageurs réguliers se trouvait une sorte d’artiste du train : un homme d’une quarantaine d’années, aux cheveux grisonnants et au visage cuit par le soleil. Il commençait ses imitations sans que personne ne lui demande rien, puis les voyageurs l’encourageaient à continuer. Il imitait le bruit du train, les sirènes, les cris des animaux et les voix que tout le monde reconnaissait, notamment celles de la radio.
+Parmi les voyageurs réguliers se trouvait un homme d’une quarantaine d’années, aux cheveux grisonnants et au visage cuit par le soleil, qui avait un véritable talent d’imitateur. Il se lançait spontanément, bientôt encouragé par les autres voyageurs. Il reproduisait le bruit du train, les sirènes, les cris des animaux et des voix familières, notamment celles que l’on entendait à la radio.
 
-Sa meilleure imitation était celle du présentateur du bulletin d’informations de la BBC en langue arabe. Il prenait soudain un ton grave et posé, marquait une courte pause, puis lançait : « Houna Loundoun. » Les voyageurs riaient avant même qu’il poursuive. Pendant quelques minutes, le trajet cessait d’être une simple succession de stations et devenait presque un petit spectacle partagé entre des inconnus.
+Sa meilleure imitation était celle du présentateur du bulletin d’informations de la BBC en langue arabe. Il prenait un ton grave et posé, marquait une courte pause, puis lançait : « Houna Loundoun. » Les voyageurs riaient avant même qu’il poursuive. Pendant quelques minutes, ces inconnus partageaient un petit spectacle improvisé au fil des stations.
 
-Lorsque le train quittait Carthage Hannibal en direction de Sidi Bou Saïd, le regard rencontrait en quelques instants plusieurs époques superposées. Il y avait les ruines sur la colline de Byrsa, où Carthage s’était élevée avant de tomber, les traces des dominations qui lui avaient succédé, l’ancienne cathédrale Saint-Louis, édifiée sous le protectorat français, le lycée, puis le palais présidentiel de la jeune République. Au-delà de tout cela s’étendait la mer, indifférente aux empires comme aux régimes qui s’étaient succédé sur ses rives.
-
-Trois empires et une république pouvaient ainsi tenir dans la même fenêtre, tandis que le train poursuivait tranquillement son chemin.
+Lorsque le train quittait Carthage Hannibal en direction de Sidi Bou Saïd, le regard rencontrait en quelques instants plusieurs époques superposées. Il y avait les ruines sur la colline de Byrsa, où Carthage s’était élevée avant sa destruction par les Romains en 146 avant J.-C. La cité avait été incendiée après près de trois ans de siège, au terme de la troisième guerre punique. Venaient ensuite les traces des dominations qui lui avaient succédé, l’ancienne cathédrale Saint-Louis, édifiée sous le protectorat français, le lycée, puis le palais présidentiel de la jeune République. Au-delà de tout cela s’étendait la mer, indifférente aux empires comme aux régimes qui s’étaient succédé sur ses rives.
 
 Vers seize ans, je descendais souvent à Carthage Hannibal pour aller à la bibliothèque municipale. J’en repartais avec deux livres, jamais davantage, puisque c’était la règle. Parmi mes lectures de cette époque, Les Misérables, de Victor Hugo, et Germinal, d’Émile Zola, m’ont particulièrement marqué. Je commençais généralement à lire dans le train du retour, la tête appuyée contre la vitre, et il m’arrivait de ne plus faire attention aux stations.
 
@@ -84,33 +82,31 @@ Je ne le vivais pas comme une contrariété. À cet âge, près d’un kilomètr
 
 ## La Goulette
 
-Je l’entends et je la sens avant même de la revoir : le crépitement de l’huile bouillante dans laquelle on jetait le poisson frais et les fruits de mer, le grésillement des briks à l’œuf qui doraient dans les poêles et celui des grillades de viandes variées le long de l’avenue Franklin-Roosevelt. Il y avait aussi les sandwichs au thon, le complet poisson avec son œuf frit posé sur une montagne de frites accompagnée d’une salade méchouicha, et les crèmes glacées qu’on mangeait en marchant. Ce n’était pas seulement l’odeur de la cuisine. C’était déjà l’été, et c’était La Goulette.
+C’est La Goulette à la fin de l’année scolaire, à l’approche de l’été, qui me revient d’abord en mémoire. Je l’entends et je la sens avant même de la revoir : le crépitement de l’huile bouillante dans laquelle on jetait le poisson frais et les fruits de mer, le grésillement des briks à l’œuf qui doraient dans les poêles et celui des grillades de viandes variées le long de l’avenue Franklin-Roosevelt. Il y avait aussi les sandwichs au thon, le complet poisson avec son œuf frit posé sur une montagne de frites accompagnée d’une salade méchouia, et les crèmes glacées qu’on mangeait en marchant. Ce n’était pas seulement l’odeur de la cuisine. C’était déjà l’été, et c’était La Goulette.
 
-Nous n’y habitions pas. Nous vivions à Amilcar, quelques stations plus loin, et j’arrivais à La Goulette par le TGM, le matin pour le collège et souvent l’après-midi simplement pour aller au cinéma. J’aimais parcourir seul les rues, regarder les passants, les vitrines et les affiches. C’est une ville que j’ai connue en descendant d’un wagon et, peut-être pour cette raison, elle m’est restée particulièrement nette. Je ne l’ai jamais connue comme on connaît un lieu où l’on vit ; c’est moi qui venais la chercher.
+Nous n’y habitions pas. À cette époque, nous vivions à Amilcar. Je venais à La Goulette par le TGM, le matin pour le collège et souvent l’après-midi simplement pour aller au cinéma. J’aimais parcourir seul les rues, regarder les passants, les vitrines et les affiches. C’est une ville que j’ai connue en descendant d’un wagon et, peut-être pour cette raison, elle m’est restée particulièrement nette. Je ne l’ai jamais connue comme on connaît un lieu où l’on vit ; c’est moi qui venais la chercher.
 
 Dans les rues se mêlaient plusieurs langues. L’arabe tunisien, le français, le sicilien et le judéo-arabe pouvaient se croiser dans une même conversation. On passait naturellement d’une langue à l’autre, sans y penser, comme si la ville avait appris depuis longtemps à vivre ainsi. Les rires des terrasses, les cris des vendeurs sur la plage, les appels des marchands de fricassés et de bambalounis formaient une rumeur familière qui accompagnait les journées.
 
 Près de la Petite Sicile et de l’église, un kiosque proposait de nombreux journaux et magazines français. J’y achetais Je sais tout, un hebdomadaire illustré dont j’avais commencé à constituer une collection. C’est grâce à ses grandes bandes dessinées que j’ai découvert Michel-Ange et Léonard de Vinci.
 
-L’avenue Franklin-Roosevelt, le Casino, le Café Vert et le restaurant Chez Bichi faisaient partie du décor. Je ne fréquentais pas ces établissements : j’étais trop jeune et je n’en avais pas les moyens. Je passais devant, par curiosité. Les tables occupaient les trottoirs jusque tard dans la soirée, entourées de familles, d’odeurs de friture et de conversations, tandis que l’été semblait prolonger les journées bien au-delà de l’heure habituelle.
+L’avenue Franklin-Roosevelt, le Casino, le Café Vert et le restaurant Chez Bichi faisaient partie du décor. Je ne fréquentais pas ces établissements : j’étais trop jeune et je n’en avais pas les moyens. Je passais devant, par curiosité. Les tables occupaient les trottoirs jusque tard dans la soirée, entourées de familles, d’odeurs de friture et de conversations, tandis que l’été semblait prolonger les journées bien au-delà de l’heure habituelle.
 
-La plage se trouvait à quelques pas des salles de classe. Entre les cours, nous descendions parfois jouer au ballon sur le sable où nous trouvions d’autres garçons de confessions différentes. Nous formions des équipes entre nous, sans nous demander ce qui pouvait nous distinguer. Les marchands passaient avec leurs cris : glaces, kaki, glibettes, cacahuètes. Le plus connu, de La Goulette à La Marsa, était surnommé « Oui‑Oui », ou « Je suis là ». À l’époque, ces appels faisaient tout simplement partie de l’été.
+La plage se trouvait à quelques pas des salles de classe. Entre les cours, nous descendions parfois jouer au ballon sur le sable où nous trouvions d’autres garçons de confessions différentes. Nous formions des équipes entre nous, sans nous demander ce qui pouvait nous distinguer. Les marchands passaient avec leurs cris : glaces, kaki, glibettes, cacahuètes. Le plus connu, de La Goulette à La Marsa, était surnommé « Oui‑Oui », ou « Je suis là ». À l’époque, ces appels faisaient tout simplement partie de l’été.
 
 En dernière année dans ce collège, à quatorze ans, j’ai eu pour professeur de mathématiques une enseignante de la coopération française. Elle était rousse, avec un visage rond et un regard vif. Dès le premier cours, j’ai ressenti une émotion nouvelle, que je ne savais pas encore très bien nommer.
 
-Pour lui plaire, je me suis mis à travailler les mathématiques avec une application que la matière seule n’aurait certainement jamais obtenue de moi. Je suis ainsi devenu l’un des meilleurs élèves de la classe dans la discipline que j’aimais pourtant le moins. Avec le recul, cela me fait encore sourire : il aura suffi d’un regard pour me réconcilier, au moins quelque temps, avec les mathématiques.
+Pour lui plaire, je me suis mis à travailler les mathématiques avec une application que la matière seule n’aurait certainement jamais obtenue de moi. Je suis ainsi devenu l’un des meilleurs élèves de la classe dans la discipline que j’aimais pourtant le moins. Avec le recul, cela me fait encore sourire : il aura suffi d’un regard pour me réconcilier, au moins quelque temps, avec les mathématiques.
 
 Les maisons étaient blanches, avec des volets bleu ciel ou vert pastel. Les après-midi d’été, la chaleur poussait les familles dehors et les trottoirs devenaient des prolongements de la maison. On alignait des chaises autour de petites tables, on servait du thé à la menthe ou du café turc, et l’on partageait des makrouds ou de la baklawa en regardant passer les gens.
 
-En fin d’après-midi, les femmes s’installaient souvent sur les trottoirs, décortiquaient des glibettes et surveillaient la rue. Lorsque passaient de jeunes baigneuses bronzées, légèrement vêtues, l’une d’elles lançait parfois, sans même élever la voix : « Khamsa we khmis. » La formule, destinée à écarter le mauvais œil, prenait alors un autre sens que tout le monde comprenait : un peu de réprobation, peut-être un peu d’envie, et surtout le plaisir de la prononcer assez fort pour être entendue. Les jeunes filles continuaient leur chemin sans se retourner, tandis que le rire restait du côté du trottoir.
+En fin d’après-midi, les femmes s’installaient souvent sur les trottoirs, décortiquaient des glibettes et surveillaient la rue. Lorsque passaient de jeunes baigneuses bronzées, légèrement vêtues, l’une d’elles lançait parfois, sans même élever la voix : « Khamsa we khmis. » La formule, destinée à écarter le mauvais œil, prenait alors un autre sens que tout le monde comprenait : un peu de réprobation, peut-être un peu d’envie, et surtout le plaisir de la prononcer assez fort pour être entendue. Les jeunes filles continuaient leur chemin sans se retourner, tandis que le rire restait du côté du trottoir.
 
-Le 15 août, la procession de la Madone de Trapani comptait parmi les grandes fêtes de l’été. Je l’ai suivie une fois, seul, par curiosité, en restant un peu à distance. Je me souviens de la statue portée dans les rues, des vêtements des hommes qui la soutenaient, des cloches et du cortège qui avançait vers la plage. Pour moi, cette fête n’avait rien d’étranger à La Goulette. Qu’elle soit chrétienne ne changeait rien : elle appartenait à la ville, et chacun pouvait venir la regarder.
-
-À intervalles réguliers, le TGM freinait, ouvrait ses portes puis repartait. On réglait inconsciemment une partie de sa journée sur ce bruit, tant il faisait partie du décor.
+Le 15 août, la procession de la Madone de Trapani comptait parmi les grandes fêtes de l’été. Je l’ai suivie une fois, seul, par curiosité, en restant un peu à distance. Je me souviens de la statue portée dans les rues, des vêtements des hommes qui la soutenaient, des cloches et du cortège qui avançait vers la plage. Pour moi, cette fête n’avait rien d’étranger à La Goulette. Qu’elle soit chrétienne ne changeait rien : elle appartenait à la ville, et chacun pouvait venir la regarder.
 
 Cette coexistence ne signifiait pas que les communautés se confondaient. Les familles se parlaient dans la rue et sur les trottoirs, mais les mariages se faisaient le plus souvent au sein de chaque communauté. Chacun savait qui était qui, et cela n’empêchait pas de vivre côte à côte. Ce qui existait relevait sans doute moins d’une véritable harmonie que d’une habitude ancienne, devenue naturelle parce que nous n’imaginions pas encore qu’il pouvait en être autrement.
 
-Puis ce monde s’est défait peu à peu. Les Italiens et les Français sont partis par vagues après l’indépendance, avec des départs particulièrement nombreux autour de 1964. Les juifs de La Goulette sont eux aussi partis progressivement, et une nouvelle vague de départs a suivi les événements de juin 1967. À mesure que les familles quittaient la ville, certaines langues se sont faites plus rares, puis se sont tues, sans que nous ayons alors conscience de ce qui disparaissait avec elles.
+Ce monde avait déjà commencé à se défaire lorsque nous nous sommes installés à Amilcar, en 1966. Les Italiens et les Français sont partis par vagues après l’indépendance, avec des départs particulièrement nombreux autour de 1964. Les juifs de La Goulette sont eux aussi partis progressivement, et une nouvelle vague de départs a suivi les événements de juin 1967. À mesure que les familles quittaient la ville, certaines langues se sont faites plus rares, puis se sont tues, sans que nous ayons alors conscience de ce qui disparaissait avec elles.
 
 Ce qui nous paraissait naturel est devenu un souvenir. Je passe encore de temps en temps par La Goulette. L’avenue a changé de visage, mais les tables occupent toujours les trottoirs et le poisson continue de griller.
 
@@ -124,29 +120,27 @@ Aller seul au cinéma, à cet âge, c’était disposer de deux heures pendant l
 
 Les salles étaient modestes. Je me souviens de l’odeur du cuir et des rideaux, de l’attente avant que les lumières ne s’éteignent et du bruit des bobines dans la cabine. Le public, lui, ne restait pas toujours silencieux. Il réagissait à voix haute aux scènes d’action, et davantage encore à certaines scènes intimes. Avant même que la première image apparaisse, une ambiance particulière s’installait, faite d’impatience, de murmures et de cette obscurité qui allait bientôt nous séparer du dehors.
 
-Bien plus tard, en passant devant le Rex, j’ai découvert qu’il avait fermé. J’en ai éprouvé de la tristesse, moins pour la salle elle-même que pour tout ce qu’elle avait contenu. Ce qui me revenait alors, ce n’était pas seulement tel ou tel film, mais l’atmosphère de la salle, le trajet pour y arriver et la sensation très particulière d’y entrer seul.
+Le premier film qui m’a profondément marqué à cet âge fut, au Cinéma Théâtre, l’adaptation d’un roman que j’avais déjà lu : Le Grand Meaulnes. Je connaissais l’histoire, mais je l’ai reçue autrement sur l’écran. Les visages et les paysages donnaient au domaine perdu une présence que la lecture avait laissée à mon imagination. J’en suis sorti amoureux de Brigitte Fossey.
 
-Le premier film qui m’a profondément marqué à cet âge fut, au Cinéma Théâtre, l’adaptation d’un roman que j’avais déjà lu : Le Grand Meaulnes. Je connaissais l’histoire, mais je l’ai reçue autrement sur l’écran. Les visages et les paysages donnaient au domaine perdu une présence que la lecture avait laissée à mon imagination. J’en suis sorti amoureux de Brigitte Fossey.
-
-Je suis retourné voir le film une deuxième fois. Je voulais surtout mieux comprendre ce qui se jouait entre Augustin et le personnage qu’elle incarnait. Certains films continuaient ainsi bien après la séance : je repassais les scènes dans ma tête, je cherchais à retrouver une expression, parfois quelques notes de musique, comme si l’histoire n’avait pas complètement pris fin lorsque les lumières s’étaient rallumées.
+Je suis retourné voir le film une deuxième fois. Je voulais surtout mieux comprendre ce qui se jouait entre Augustin et le personnage qu’elle incarnait. Certains films continuaient ainsi bien après la séance : je repassais les scènes dans ma tête, je cherchais à retrouver une expression, parfois quelques notes de musique, comme si l’histoire n’avait pas complètement pris fin lorsque les lumières s’étaient rallumées.
 
 Puis il y a eu Il était une fois dans l’Ouest. Je ne savais pas vraiment ce que j’allais voir et je suis ressorti avec le sentiment d’avoir découvert autre chose qu’un simple western. L’écran large donnait aux paysages une ampleur que je n’avais encore jamais connue. Leone laissait durer les visages et les silences, accordant au temps une place qui me surprenait.
 
-Il y avait aussi la musique de Morricone. Elle ne se contentait pas d’accompagner les images ; elle semblait parfois les précéder et les annoncer. Quelques notes suffisaient pour installer une scène avant même que l’on en comprenne tout le sens.
+Il y avait aussi la musique de Morricone. Elle ne se contentait pas d’accompagner les images ; elle semblait parfois les précéder et les annoncer. Quelques notes suffisaient pour installer une scène avant même que l’on en comprenne tout le sens.
 
-Je revois toujours cette scène, devenue célèbre, où Claudia Cardinale descend du train dans une gare poussiéreuse. Elle traverse le bâtiment, puis la caméra s’élève derrière elle et découvre peu à peu la ville. La musique accompagne sa silhouette avant que le paysage ne se déploie. J’ai appris plus tard qu’elle était née à La Goulette. Cette idée m’a amusé : une enfant de nos rues se retrouvait au milieu de l’Ouest américain.
-
-Je découvrais alors qu’un film pouvait faire autre chose que raconter une histoire : il pouvait donner à sentir un lieu, une durée, une émotion.
+Je revois toujours cette scène, devenue célèbre, où Claudia Cardinale descend du train dans une gare poussiéreuse. Elle traverse le bâtiment, puis la caméra s’élève derrière elle et découvre peu à peu la ville. La musique accompagne sa silhouette avant que le paysage ne se déploie. J’ai appris plus tard qu’elle était née à La Goulette. Cette idée m’a amusé : une enfant de nos rues se retrouvait au milieu de l’Ouest américain.
 
 Ce soir-là, le film était long et les trains se faisaient rares. Je suis rentré très tard. Mon père n’était pas là, son travail n’ayant pas d’horaires fixes. Ma mère m’attendait assise dans l’entrée. Elle ne s’est pas levée et ne m’a pas demandé où j’étais. Elle m’a seulement demandé de la prévenir désormais chaque fois que j’irais au cinéma.
 
 Je me suis couché avec le sentiment d’avoir reçu une permission plutôt qu’un reproche. À partir de ce soir-là, le cinéma est devenu encore davantage un territoire qui m’appartenait.
 
-Plus tard, j’ai vu Un été 42. C’était presque le contraire d’Il était une fois dans l’Ouest : ni grands espaces ni souffle épique, mais un adolescent, une femme, un été et la découverte progressive de ce que les sentiments peuvent avoir de trouble. L’un de ces films m’avait révélé l’ampleur ; l’autre m’apprenait la nuance.
+Plus tard, j’ai vu Un été 42. C’était presque le contraire d’Il était une fois dans l’Ouest : ni grands espaces ni souffle épique, mais un adolescent, une femme, un été et la découverte progressive de ce que les sentiments peuvent avoir de trouble.
 
-J’ai continué à fréquenter les salles pendant des années, puis j’y suis allé moins souvent. Je n’ai jamais cessé de revoir les films qui m’avaient marqué ; le streaming m’a permis d’en retrouver beaucoup.
+J’ai continué à fréquenter les salles pendant des années, puis j’y suis allé moins souvent.
 
-Certaines salles ne sont plus là. Les films demeurent. Lorsque j’en revois certains, je retrouve un peu de l’adolescent qui prenait seul le TGM pour s’asseoir dans le noir.
+Bien plus tard, en passant devant le Rex, j’ai découvert qu’il avait fermé. J’en ai éprouvé de la tristesse, moins pour la salle elle-même que pour tout ce qu’elle avait contenu. Ce qui me revenait alors, ce n’était pas seulement tel ou tel film, mais l’atmosphère de la salle, le trajet pour y arriver et la sensation très particulière d’y entrer seul.
+
+Le cinéma fait toujours partie de ma vie. Grâce au streaming, j’ai retrouvé beaucoup des films qui m’avaient marqué. Je les revois avec plaisir, même si je garde la nostalgie des salles où je les ai découverts.
 
 ## Le lycée
 
@@ -160,11 +154,9 @@ Le chemin remontait ensuite par des escaliers bordés d’une végétation dense
 
 Les salles du dernier étage ressemblaient à des balcons ouverts sur le paysage. Je m’asseyais souvent à une table tournée vers les ruines et, pendant que la leçon suivait son cours, mon regard s’attardait dehors. Il m’arrivait alors de penser à ceux qui avaient vécu sur cette colline bien avant nous. À cet âge, je ne connaissais pas encore grand-chose à l’histoire de Carthage, mais sa présence entourait le lycée et finissait par faire partie du quotidien.
 
-J’aimais cet établissement et je m’y sentais bien. Il formait à mes yeux une petite société avec son proviseur, ses deux surveillants généraux, ses professeurs, son internat et son externat. Nous savions quelle place chacun y occupait.
+J’aimais cet établissement et je m’y sentais bien. Je garde le souvenir de plusieurs personnes qui y travaillaient, parfois à travers un simple détail.
 
-Certaines figures du lycée me sont restées pour ce qu’elles étaient ; d’autres, plus curieusement, pour un détail presque insignifiant.
-
-Le proviseur s’appelait Monsieur Mohsen Ayari. Il fumait beaucoup, allumant une cigarette après l’autre. C’était une personnalité de l’établissement, et un lycée de Tunis a porté son nom.
+Le proviseur s’appelait Monsieur Mohsen Ayari. Il était trapu et fumait beaucoup, allumant une cigarette après l’autre. Je revois encore les cendres qui tombaient sur son ventre. C’était une figure de l’établissement. Il vivait avec sa famille dans un logement de fonction à l’intérieur du lycée. Comme nous habitions tout près, nous organisions certains dimanches des parties de football avec ses enfants dans la cour. Après sa mort prématurée, un lycée de Tunis a reçu son nom.
 
 Le surveillant général de l’externat, Raouf Ben Ali, était également commentateur sportif. Sa voix était connue bien au-delà du lycée et cela nous amusait parfois de le croiser dans la cour en sachant que, le dimanche, des milliers de personnes l’écoutaient commenter les rencontres.
 
@@ -184,15 +176,15 @@ Ma mère nous envoyait, mes frères et moi, faire des courses à Sidi Bou Saïd,
 
 Pour y aller, nous montions par la pente d’Amilcar. Mes frères étaient encore jeunes et ne prenaient pas d’autre chemin. Moi, lorsque rien ne pressait, je choisissais parfois de rentrer par Korsi Essolah, le long escalier de pierre qui descend du village vers la mer.
 
-Il compte plus de trois cents marches. On disait qu’il y en avait trois cent soixante-cinq, autant que les jours de l’année. Je n’ai jamais su si le compte était exact, mais cette idée me plaisait : descendre l’escalier revenait presque à parcourir une année, marche après marche.
+Il compte plus de trois cents marches. On disait qu’il y en avait trois cent soixante-cinq, autant que les jours de l’année. Je n’ai jamais su si le compte était exact, mais cette idée me plaisait : descendre l’escalier revenait presque à parcourir une année, marche après marche.
 
-Il commençait dans une ruelle, à quelques mètres du café des Nattes. Le mausolée était tout près, avec quelques marches menant à son entrée. Je ne me souviens pas s’il y avait une porte, et je n’y suis jamais entré. À cette époque, beaucoup de lieux nous étaient familiers sans que nous éprouvions le besoin de les connaître davantage.
+Il commençait dans une ruelle, à quelques mètres du café des Nattes. Tout près se trouvait le mausolée de Sidi Bou Saïd, le saint dont le village porte le nom. Quelques marches menaient à son entrée. Je n’y suis jamais entré.
 
 L’escalier était bordé d’agaves et de figuiers de Barbarie, dont les fruits apparaissaient le long du chemin. Par endroits, un petit muret blanc protégeait le passage. À mesure que je descendais, le bruit de la mer devenait plus présent, comme s’il montait à ma rencontre.
 
 Au pied des marches, le petit port vivait encore principalement au rythme des pêcheurs. Je passais devant sans m’arrêter longtemps. Plus tard est venu le club nautique, puis les bateaux de plaisance ont peu à peu pris la place des barques que j’avais connues.
 
-La descente était facile. La remontée l’était beaucoup moins. Chaque marche finissait par se faire sentir dans les jambes. Heureusement, des paliers interrompaient la montée et offraient une bonne raison de s’arrêter quelques instants.
+La descente était facile. Il m’arrivait aussi, plus rarement, de prendre cet escalier à l’aller, le couffin encore vide. La montée était une autre affaire : chaque marche finissait par se faire sentir dans les jambes. Heureusement, des paliers offraient une bonne raison de s’arrêter quelques instants.
 
 ## La plage
 
@@ -200,7 +192,7 @@ Un pêcheur du voisinage gardait ses barques sur un petit terrain attenant à sa
 
 Nous nettoyions les filets des algues qui s’y étaient prises, mais le travail le plus difficile consistait à descendre et à remonter les barques en les faisant rouler sur des rondins. Tout se faisait au rythme des ordres du pêcheur. Ses mots étaient secs, cadencés, et personne ne discutait. Nous poussions, déplacions les rondins à mesure que la barque avançait, puis recommencions jusqu’à ce qu’elle atteigne l’eau ou retrouve sa place sur le terrain.
 
-De ces matins, je garde surtout l’odeur du sable humide et des algues, mêlée à celle des filets et de la mer. À cette heure-là, la plage appartenait encore aux pêcheurs. Elle n’avait rien de celle que je retrouvais plus tard dans la journée, lorsqu’elle prenait un tout autre visage.
+De ces matins, je garde surtout l’odeur du sable humide et des algues, mêlée à celle des filets et de la mer. À cette heure-là, la plage appartenait encore aux pêcheurs. Plus tard dans la journée, je retrouvais une autre plage.
 
 Pendant la saison touristique, une barrière délimitait une partie de la plage, réservée aux clients de l’hôtel. Mon père m’en interdisait l’accès, ce qui ne m’empêchait pas toujours d’y aller. Je descendais surtout au crépuscule, lorsque la plage commençait à se vider. Le soleil disparaissait derrière la colline de Byrsa et ses rayons rasaient le sable, tandis que la mer changeait lentement de couleur.
 
@@ -210,7 +202,7 @@ Un été, j’ai fait la connaissance d’un garçon italien dont la famille lou
 
 Sa sœur parlait français avec un accent italien qui donnait à ses phrases une musique particulière. Elle venait parfois me chercher pour jouer aux cartes et nous nous installions sur les marches devant notre maison. Nous jouions aux sept familles avec le plus grand sérieux.
 
-Un soir, elle a apporté un transistor qui tenait presque entièrement dans sa main. Nous étions assis près de la maison lorsque la voix de Françoise Hardy s’en est échappée. J’ai entendu Mon amie la rose. Le souvenir qui m’en reste n’est pas seulement celui de la chanson, mais aussi celui de la plage toute proche, de son visage et de cette gêne heureuse que je ne savais pas encore très bien comprendre.
+Un jour, elle a apporté un transistor qui tenait presque entièrement dans sa main. Nous étions assis près de la maison lorsque la voix de Françoise Hardy s’en est échappée. J’ai entendu Mon amie la rose. Le souvenir qui m’en reste n’est pas seulement celui de la chanson, mais aussi celui de cette gêne heureuse en sa présence.
 
 À la fin des vacances, elle a oublié le transistor chez nous. Je n’ai jamais su si cet oubli était volontaire, et je ne me souviens plus combien de temps je l’ai gardé.
 
@@ -222,19 +214,21 @@ J’avais dix-neuf ans lorsque nous avons quitté Amilcar, en 1973. Mon père ve
 
 Nous nous sommes installés au premier étage d’un immeuble de l’avenue de Londres, au Passage. La grande station de bus se trouvait tout près et desservait une bonne partie de Tunis. Le bruit ne cessait pratiquement jamais. Aux heures de pointe, les bus passaient sous nos fenêtres et faisaient trembler l’immeuble. Il fallait fermer les fenêtres et les persiennes pour se protéger de la poussière et du vacarme, mais l’été, la chaleur devenait vite difficile à supporter dans l’appartement ainsi fermé. Même tard dans la nuit, la circulation continuait.
 
-Le changement avec Amilcar était brutal. Là-bas, presque chaque endroit était lié à une histoire : la salle des jeux de l’hôtel, les terrasses, la plage au bas de la maison, le chemin vers la station du TGM. Au Passage, je découvrais des pièces plus grandes, mais elles ne signifiaient encore rien pour moi. Je n’avais pas choisi ce quartier et je n’y retrouvais aucun de mes repères.
+Le contraste avec Amilcar était brutal. Là-bas, presque chaque endroit était lié à une histoire : la salle des jeux de l’hôtel, les terrasses, la plage au bas de la maison, le chemin vers la station du TGM. Au Passage, je découvrais des pièces plus grandes, mais elles ne signifiaient encore rien pour moi. Je n’avais pas choisi ce quartier et je n’y retrouvais aucun de mes repères.
 
 Je n’avais toujours pas de chambre à moi. Une petite pièce que nous appelions le bureau servait à la fois de bibliothèque et de lieu d’étude. Lorsque j’avais besoin de solitude, je sortais. Peu à peu, le cinéma et la bibliothèque Charles-de-Gaulle sont devenus mes refuges.
 
-À Tunis, j’ai découvert d’autres salles, ainsi que les maisons de culture Ibn Khaldoun et Ibn Rachiq, où l’on projetait des films d’auteur. J’y allais avec mon cousin, qui vivait chez nous comme un frère, et parfois avec un camarade de classe. La projection se prolongeait souvent par une discussion organisée par le ciné-club. Je me souviens particulièrement du soir où nous avons vu Que la bête meure, de Chabrol. Nous en avons parlé longtemps après la séance. Le cinéma n’était plus seulement cette solitude heureuse que j’avais connue adolescent ; il devenait aussi un lieu où l’on échangeait des idées.
+À Tunis, j’ai découvert d’autres salles, ainsi que les maisons de culture Ibn Khaldoun et Ibn Rachiq, où l’on projetait des films d’auteur. J’y allais avec mon cousin, qui vivait chez nous comme un frère, et parfois avec un camarade de classe. La projection se prolongeait souvent par une discussion organisée par le ciné-club. Je me souviens particulièrement du soir où nous avons vu Que la bête meure, de Chabrol. Nous en avons parlé longtemps après la séance. Le cinéma n’était plus seulement cette solitude heureuse que j’avais connue adolescent ; il devenait aussi un lieu où l’on échangeait des idées.
 
 Après le lycée de Carthage, j’ai fait ma terminale au lycée Alaoui, à Tunis. Il m’a fallu deux ans pour obtenir mon baccalauréat de mathématiques. Je ne m’étais jamais vraiment habitué à la vie du Passage, et cette période avait été plus difficile que les années précédentes.
 
-Il y avait eu aussi cet incident dans le TGM. Un contrôleur m’avait fait descendre d’une rame en me poussant alors que j’avais mon abonnement scolaire. Je m’étais défendu avec le cartable que je tenais à la main et je croyais l’affaire terminée. Le contrôleur avait pourtant porté plainte à mon insu. Je ne l’ai appris que la veille de l’examen, lorsqu’un ami de mon père m’a averti que j’étais recherché. J’ai passé les épreuves avec cette inquiétude en tête. La cour d’appel m’a finalement donné raison, mais seulement après les résultats.
+Il y avait eu aussi cet incident dans le TGM. Un contrôleur m’avait fait descendre de la rame en me poussant à terre, alors que j’avais mon abonnement scolaire. Je m’étais défendu avec mon cartable, puis j’avais cru l’affaire terminée.
+
+Le contrôleur avait pourtant porté plainte à mon insu. La convocation avait été envoyée à notre ancienne adresse, à Amilcar, alors que nous avions déjà déménagé au Passage. Près de deux ans après l’incident, alors que je préparais mon baccalauréat, j’ai appris que j’étais recherché à la suite d’une condamnation en première instance. Un ami de mon père, qui travaillait au poste de police en face de l’Hôtel du Lac, l’en avait informé. J’ai passé les épreuves avec cette inquiétude en tête. La cour d’appel m’a finalement donné raison.
 
 J’ai ensuite commencé des études de mathématiques et de physique à la faculté des sciences. Je les ai poursuivies pendant deux ans avant de les interrompre pour travailler.
 
-C’est au cours de ces années que j’ai rencontré une jeune femme. Entre nous, tout a commencé très vite, dès le premier regard. Pendant plus d’un an, nous nous sommes vus régulièrement et sa présence a beaucoup compté pour moi. Puis nous nous sommes séparés. J’ai essayé de poursuivre mon année comme si rien n’avait changé, mais cette séparation a pesé sur mes études plus que je ne voulais me l’avouer.
+C’est pendant cette période que j’ai connu une jeune femme. Entre nous, tout a commencé dès la première rencontre. Pendant plus d’un an, nous nous sommes vus régulièrement et sa présence a beaucoup compté pour moi. Puis nous nous sommes séparés. J’ai essayé de poursuivre mon année comme si rien n’avait changé, mais cette séparation a pesé sur mes études plus que je ne voulais me l’avouer.
 
 Environ trente-cinq ans plus tard, nous nous sommes retrouvés par hasard. Nous étions devenus deux personnes différentes, mais sa présence a fait revenir, pendant quelques instants, le jeune homme que j’avais été. Je n’ai pas cherché à renouer avec le passé. J’ai simplement été touché de retrouver quelqu’un qui avait compté dans ma jeunesse.
 
@@ -252,21 +246,21 @@ Certains matins, dans le demi-sommeil, une image ancienne revient avant même qu
 
 Un peu plus tard dans la journée, je vais au café Sidi Azizi, à Sidi Bou Saïd, avec mon porte-documents et un livre, jamais sans mon bloc-notes. La terrasse fait face à Carthage, plus précisément à la colline de Byrsa, et l’on peut y regarder le soleil descendre lentement sur le paysage. Pendant longtemps, j’ai cru que j’y cherchais seulement une table, un café et un peu de silence. Avec le temps, j’ai compris que j’y revenais surtout pour retrouver une solitude heureuse, devenue une forme de compagnie.
 
-Pendant près de vingt ans, le même serveur a connu mes habitudes. À peine installé, je n’avais généralement rien à demander : il savait que je prendrais un café turc et une chicha. Si je voulais autre chose, c’était à moi de le prévenir.
+Pendant de nombreuses années, j’ai retrouvé le même serveur. Il connaissait mes habitudes. À peine installé, je n’avais généralement rien à demander : il savait que je prendrais un café turc et une chicha. Si je voulais autre chose, c’était à moi de le prévenir.
 
 J’avais également ma table, sous un vieux palmier. Repeinte plusieurs fois en blanc et en bleu, elle portait les traces des verres, des conversations et des attentes. J’ouvrais mon porte-documents, j’en sortais une feuille et j’y écrivais ce que je ne savais pas toujours dire ailleurs.
 
-J’ai longtemps écrit ainsi, à la main. Le frottement de la plume, le contact du papier et la lenteur de l’encre m’aidaient à laisser venir les pensées avant de les fixer. La patience de ce geste me convenait.
+J’ai longtemps écrit ainsi, à la main. Le frottement de la plume et le contact du papier m’aidaient à laisser venir les pensées avant de les fixer. J’aimais prendre ce temps pour écrire.
 
-Cette habitude de prendre des notes venait de loin. Au collège, à La Goulette, un professeur d’arabe nous conseillait de recopier dans un carnet les citations qui nous interpellaient. J’avais suivi son conseil et, même si le carnet lui-même a fini par disparaître de ma vie quotidienne, je n’ai jamais vraiment perdu ce réflexe : retenir une phrase avant qu’elle ne s’efface.
+Cette habitude de prendre des notes venait de loin. Au collège, à La Goulette, un professeur d’arabe nous conseillait de recopier dans un carnet les citations qui nous interpellaient. J’avais suivi son conseil et, même si le carnet lui-même a fini par disparaître de ma vie quotidienne, je n’ai jamais vraiment perdu ce réflexe : retenir une phrase avant qu’elle ne s’efface.
 
 L’ordinateur est venu ensuite, avec sa rapidité et sa commodité, mais il n’a jamais tout à fait remplacé le temps que me laisse une feuille pour hésiter.
 
 Aujourd’hui encore, le soir, je note quelques idées sur mon bloc-notes, puis je les reprends le lendemain matin devant l’ordinateur, à l’heure où je me sens le plus lucide.
 
-Mon épouse a commencé à venir avec moi. Elle s’asseyait à cette même table, sous le palmier. Elle savait que j’écrivais, mais ne lisait pas mes textes. Elle regardait le golfe, me laissait travailler, et nous n’avions pas besoin de parler beaucoup. Sa présence ne troublait pas la solitude que je venais chercher là ; elle lui donnait simplement une autre forme.
+Mon épouse a commencé à venir avec moi. Elle s’asseyait à cette même table, sous le palmier. Elle savait que j’écrivais, mais ne lisait pas mes textes. Elle regardait le golfe, me laissait travailler, et nous n’avions pas besoin de parler beaucoup. Sa présence ne troublait pas la solitude que je venais chercher là ; elle lui donnait simplement une autre forme.
 
-Un jour, j’ai laissé traîner une feuille couverte de quelques réflexions. Le serveur m’a dit l’avoir précieusement gardée. Je n’ai jamais cherché à le vérifier. Il me suffisait qu’il le dise. Il me lançait parfois, en souriant : « Toujours rêveur, mon ami ? » Il le disait sans ironie. Il savait que je venais là pour regarder, me souvenir, écrire un peu ou seulement rester silencieux devant Carthage et le soleil couchant.
+Un jour, j’ai laissé traîner une feuille couverte de quelques réflexions. Le serveur m’a dit l’avoir précieusement gardée. Je n’ai jamais cherché à le vérifier. Il me suffisait qu’il le dise. Il me lançait parfois, en souriant : « Toujours rêveur, mon ami ? » Il le disait sans ironie. Il savait que je venais là pour regarder, me souvenir, écrire un peu ou seulement rester silencieux devant Carthage et le soleil couchant.
 
 Puis, un jour, il est parti. Je ne sais plus s’il avait pris sa retraite ou s’il avait changé de travail. Sa disparition du café s’est faite sans cérémonie, comme cela arrive souvent avec les personnes que l’on croit faire partie depuis toujours d’un lieu familier. On revient, on s’installe, et quelqu’un qui était là depuis des années ne l’est plus.
 
@@ -278,29 +272,29 @@ Je n’ai pourtant jamais repris place à cette table. Depuis, j’en choisis un
 
 ## Ma mère
 
-On l’appelait tous Ommi Khira. Elle tenait la maison, qui se remplissait de frères, de sœurs, de cousins parfois lointains et de nos camarades de classe. On pouvait y manger à presque toute heure, et la table ne désemplissait jamais vraiment.
+On l’appelait tous Ommi Khira. Elle tenait la maison, qui se remplissait de frères, de sœurs, de cousins parfois lointains et de nos camarades de classe. On pouvait y manger à presque toute heure, et la table ne désemplissait jamais vraiment. Elle adorait être entourée de ses enfants et de ses petits-enfants, surtout les jours de fête.
 
 Elle était belle, avec des cheveux noirs qui contrastaient avec son teint clair, et un sourire que je revois encore. Elle aimait les robes et les foulards fleuris, avec une préférence pour le lilas. Elle avait épousé mon père à dix-huit ans, et je suis né l’année suivante. Longtemps, je n’ai vu en elle que ma mère. Ce n’est qu’en vieillissant à mon tour que j’ai mesuré la jeunesse de la femme qu’elle était alors.
 
-Ses journées étaient faites des mêmes gestes : cuisiner, ranger, laver, préparer, puis recommencer le lendemain. À l’époque, nous n’y pensions guère. Avec le recul, je comprends davantage combien nos jours heureux reposaient sur cette fatigue silencieuse.
+Ses journées étaient faites des mêmes gestes : cuisiner, ranger, laver, préparer, puis recommencer le lendemain. À l’époque, nous n’y pensions guère. Avec le recul, je comprends davantage combien nos jours heureux reposaient sur cette fatigue silencieuse.
 
-Sa cuisine avait ses habitudes et ses saisons. Je revois la loubia, ces haricots blancs qu’elle laissait mijoter pendant des heures. Elle les accompagnait de variantes, un mélange de légumes marinés dans le vinaigre : carottes, navets, bouquets de chou-fleur, céleri et poivrons, avec des olives vertes. Certaines odeurs suffisent encore à me ramener dans sa cuisine.
+Sa cuisine avait ses habitudes et ses saisons. Je revois la loubia, ces haricots blancs qu’elle laissait mijoter pendant des heures. Elle les accompagnait de variantes, un mélange de légumes marinés dans le vinaigre : carottes, navets, bouquets de chou-fleur, céleri et poivrons, avec des olives vertes. Certaines odeurs suffisent encore à me ramener dans sa cuisine.
 
-Plus tard, lorsque nous habitions avenue de Londres, une voisine juive de notre palier lui a appris plusieurs recettes de sa cuisine, notamment la marqat loubia bel kaâber, le ragoût de haricots aux boulettes de viande, ainsi que les keftas dont nous raffolions lorsqu’elles sortaient encore croustillantes de la poêle. Elles échangeaient leurs recettes comme elles échangeaient des nouvelles. En retour, ma mère lui a transmis sa manière de préparer le thé à la menthe.
+Plus tard, lorsque nous habitions avenue de Londres, une voisine juive de notre palier lui a appris plusieurs recettes, notamment la marqat loubia bel kaâber, le ragoût de haricots aux boulettes de viande, ainsi que les keftas dont nous raffolions lorsqu’elles sortaient encore croustillantes de la poêle. Elles échangeaient leurs recettes comme elles échangeaient des nouvelles. En retour, ma mère lui a transmis sa manière de préparer le thé à la menthe.
 
 Nos camarades venaient souvent réviser à la maison et appréciaient particulièrement sa cuisine. Elle préparait toujours plus que nécessaire, comme si un invité pouvait arriver à tout moment. Quand on la remerciait ou qu’on lui demandait comment elle faisait pour que tout suffise, elle répondait simplement que c’était la baraka. Ce qui comptait pour elle, disait-elle, c’était que nous réussissions nos études.
 
 Lorsque des tensions apparaissaient entre nous, elle avait un geste bien à elle. Elle ouvrait sa main devant moi et me rappelait que nous étions cinq frères et que nous devions rester unis comme les cinq doigts d’une même main. Elle l’a fait souvent, et je n’ai jamais oublié cette image.
 
-Quand on lui demandait quelque chose, elle répondait généralement « Behi ». Cela voulait dire que c’était bien, que c’était entendu et que ce serait fait. Elle demandait rarement quoi que ce soit pour elle-même.
+Quand on lui demandait quelque chose, elle répondait généralement « Behi ». Cela voulait dire que c’était bien, que c’était entendu et que ce serait fait. Elle demandait rarement quoi que ce soit pour elle-même.
 
 La maladie qui l’a emportée a duré longtemps. Elle s’en plaignait rarement. Sa patience et sa retenue rendaient sa souffrance plus difficile encore à regarder. Elle a séjourné plusieurs fois dans la même clinique, puis le plus jeune de mes frères encore en vie l’a accueillie chez lui. Sa femme et l’une de mes sœurs se sont occupées d’elle avec attention.
 
 À la fin, nous étions tous là. On nous a permis d’entrer en réanimation, chacun à notre tour, pour la voir une dernière fois. Je ne sais plus quels mots j’ai trouvés devant elle. Je me souviens surtout du moment où il a fallu ressortir de la pièce, en sachant que je ne la reverrais sans doute pas. Elle est morte en 2015, à l’âge de quatre-vingts ans.
 
-Avec les années, ce ne sont pas seulement les grandes scènes qui me reviennent. Ce sont surtout les choses simples : sa façon de répondre « Behi », sa main ouverte devant nous, une odeur de cuisine, ou cette manière qu’elle avait de m’appeler par mon prénom.
+Avec les années, ce ne sont pas seulement les grandes scènes qui me reviennent. Ce sont surtout les choses simples : sa façon de répondre « Behi », sa main ouverte devant nous, une odeur de cuisine, ou cette manière qu’elle avait de m’appeler par mon prénom.
 
-C’est peut-être cela qui me manque le plus aujourd’hui : sa présence dans la maison, et sa voix.
+C’est peut-être cela qui me manque le plus aujourd’hui : sa présence dans la maison, et sa voix.
 
 ## Mon père
 
@@ -318,9 +312,9 @@ Le travail dans les hôtels lui avait aussi appris les langues. Il parlait le fr
 
 À la maison, il regardait souvent la télévision italienne. J’aimais particulièrement les films de Totò. Mon père traduisait certaines répliques pour nous, parfois en anticipant la chute d’une scène qui le faisait rire. Il aimait aussi beaucoup les films et les documentaires consacrés à la Seconde Guerre mondiale. Peut-être y retrouvait-il quelque chose de sa propre jeunesse, mais je ne lui ai jamais posé la question.
 
-Avec nous, il se livrait peu, mais il nous réprimandait rarement et je ne me souviens pas de l’avoir vu en colère contre l’un de nous. Il était d’un naturel souriant, avec nous comme avec les autres, et je ne crois pas avoir jamais vu quiconque repartir mécontent d’avoir croisé mon père. Il ne nous refusait aucune demande dès qu’il en avait les moyens, sans jamais en faire un sujet de discussion. Il nous faisait confiance pour les études et ne cherchait pas à décider à notre place de ce que nous devions devenir. Lorsque je voulais acheter un livre ou aller au cinéma, il me donnait généralement l’argent sans demander beaucoup d’explications. Cette confiance silencieuse m’a longtemps semblé aller de soi ; je mesure aujourd’hui la marque d’amour qu’elle représentait.
+Avec nous, il se livrait peu, mais il était d’un naturel souriant. Il nous réprimandait rarement et je ne me souviens pas de l’avoir vu en colère contre l’un de nous. Il nous faisait confiance pour les études et ne cherchait pas à décider à notre place de ce que nous devions devenir. Lorsque je voulais acheter un livre ou aller au cinéma, il me donnait généralement l’argent sans demander beaucoup d’explications. Cette confiance m’a longtemps semblé aller de soi ; je mesure aujourd’hui la marque d’amour qu’elle représentait.
 
-Il s’appelait Tayeb, un prénom qui signifie aussi « bon » ou « bienveillant ». Il lui allait bien. Ceux qui travaillaient avec lui le respectaient, beaucoup de ceux qui l’avaient connu lui étaient attachés, et il en allait de même de nos voisins.
+Il s’appelait Tayeb, un prénom qui signifie aussi « bon » ou « bienveillant ». Il lui allait bien. Ceux qui travaillaient avec lui le respectaient, beaucoup de ceux qui l’avaient connu lui étaient attachés, et il en allait de même de nos voisins.
 
 L’année de l’ouverture de l’Hôtel du Lac, il m’a fait visiter le bâtiment. Nous sommes montés jusqu’au dernier étage et avons regardé le lac depuis cette construction de béton brut, une pyramide inversée qui marquait alors fortement le paysage de Tunis. Je me souviens davantage de sa fierté ce jour-là que de ce qu’il m’avait expliqué sur l’hôtel.
 
@@ -328,7 +322,7 @@ Chaque Aïd el-Fitr, il tenait à rendre visite aux membres de la famille. C’�
 
 Lorsque je me suis marié et que nous avons occupé notre premier appartement, avant Bellevue, mon père est venu installer les meubles, fixer les tringles et poser les rideaux. Il savait tout faire de ses mains. Ce genre de travaux lui semblait naturel et il ne demandait jamais qu’on le remercie longuement.
 
-Des années plus tard, mes enfants et ceux de mes frères l’appelaient « Babati », une manière enfantine de prononcer « Baba Tayeb ». Le surnom lui est resté dans toute la famille. Avec ses petits-enfants, la pudeur qui le retenait avec nous semblait s’effacer : il les prenait sur ses genoux, riait avec eux, leur glissait des pièces ou des bonbons sans qu’on le lui demande, et son visage, d’ordinaire si sobre, s’illuminait dès que l’un d’eux entrait dans la pièce. J’aimais le voir ainsi, comme si le grand-père avait trouvé une liberté que le père ne s’était jamais accordée.
+Des années plus tard, mes enfants et ceux de mes frères l’appelaient « Babati », une manière enfantine de prononcer « Baba Tayeb ». Le surnom lui est resté dans toute la famille. Avec ses petits-enfants, la pudeur qui le retenait avec nous semblait s’effacer : il les prenait sur ses genoux, riait avec eux, leur glissait des pièces ou des bonbons sans qu’on le lui demande. J’aimais le voir ainsi, comme si le grand-père avait trouvé une liberté que le père ne s’était jamais accordée.
 
 Après son départ à la retraite de l’Hôtel du Lac, il a encore travaillé quelque temps à La Maison Dorée, l’établissement où il était entré près de cinquante ans plus tôt. Il y assurait des gardes de nuit à la réception. Cette boucle me frappait déjà, même si lui n’en faisait aucun commentaire.
 
@@ -348,23 +342,23 @@ Cela lui ressemblait.
 
 Je suis l’aîné d’une famille nombreuse. Cette place ne me donnait pourtant aucune autorité particulière sur mes frères et mes sœurs.
 
-À Amilcar, nous étions nombreux dans la maison. Nous dormions à plusieurs dans les mêmes chambres, parfois à deux dans un même lit. Les pièces, les repas et une grande partie de la vie quotidienne se partageaient naturellement. Un cousin a également vécu longtemps avec nous.
+À Amilcar, nous dormions à plusieurs dans les mêmes chambres, parfois à deux dans un même lit. Les pièces, les repas et une grande partie de la vie quotidienne se partageaient naturellement. Un cousin a également vécu longtemps avec nous.
 
-Je revois surtout les repas autour de la mida, cette table basse et ronde autour de laquelle nous nous rassemblions. Ma mère mangeait avec nous, mais se relevait souvent pour aller chercher ce qui manquait. Chacun avait ses préférences : l’un délaissait un légume que l’autre réclamait, et nous faisions glisser les morceaux d’un bord à l’autre du plat sans même y penser.
+Je revois surtout les repas autour de la mida, cette table basse et ronde autour de laquelle nous nous rassemblions. Ma mère mangeait avec nous, mais se relevait souvent pour aller chercher ce qui manquait. Chacun avait ses préférences : l’un délaissait un légume que l’autre réclamait, et nous faisions glisser les morceaux d’un bord à l’autre du plat sans même y penser.
 
 Pendant le Ramadan, l’attente faisait elle aussi partie du repas. La chorba et les briks étaient déjà posées devant nous, mais personne n’y touchait encore. Nous étions réunis autour de la mida et attendions l’appel qui annonçait la rupture du jeûne. Ces minutes paraissaient longues à l’enfant que j’étais, mais elles avaient aussi quelque chose de joyeux, parce qu’elles nous trouvaient tous au même endroit.
 
 Le dernier-né est arrivé pendant notre dernière année à Amilcar. Je suis allé seul à l’hôpital de La Marsa voir ma mère après l’accouchement, sans le dire à personne. C’est elle qui m’a demandé de choisir son prénom, et je l’ai choisi.
 
-J’avais dix-huit ans de plus que lui. C’était un bébé gai. Je le prenais dans mes bras et il m’arrivait de lui donner son biberon. Malgré la différence d’âge, je m’étais déjà attaché à lui et je le voyais moins comme mon plus jeune frère que comme un petit être dont j’aimais m’occuper.
+J’avais dix-huit ans de plus que lui. C’était un bébé gai. Je le prenais dans mes bras et il m’arrivait de lui donner son biberon. Je m’étais déjà attaché à lui et je le voyais moins comme mon plus jeune frère que comme un petit être dont j’aimais m’occuper.
 
 Je me souviens surtout qu’à la fin il avait de la fièvre et de la diarrhée. La dernière image que je garde de lui vivant est celle d’un petit enfant dans les bras d’un proche. Il est mort à neuf mois, dans l’appartement de l’avenue de Londres, l’année de notre déménagement.
 
 Ce jour-là, j’ai décidé que, si j’avais un fils un jour, il porterait son prénom. Des années plus tard, lorsque mon fils est né, j’ai tenu cette promesse que je m’étais faite. Je n’en avais averti personne.
 
-J’étais aussi très proche de ma sœur née juste après moi. Nous avions presque le même âge et elle se montrait toujours très affectueuse avec moi. Elle restait très discrète sur ma vie sentimentale, même si je la soupçonnais d’en savoir beaucoup plus qu’elle ne le laissait entendre. Elle observait, comprenait et ne s’immisçait jamais. Lorsqu’elle s’est mariée et a quitté la maison, j’ai beaucoup pleuré. Avec le recul, je crois que je pleurais aussi la fin d’une complicité que je savais irremplaçable.
+J’étais aussi très proche de ma sœur née juste après moi. Nous avions presque le même âge et elle se montrait toujours très affectueuse avec moi. Elle restait très discrète sur ma vie sentimentale, même si je la soupçonnais d’en savoir beaucoup plus qu’elle ne le laissait entendre. Elle observait, comprenait et ne s’immisçait jamais. Lorsqu’elle s’est mariée et a quitté la maison, j’ai beaucoup pleuré. Avec le recul, je crois que je pleurais aussi à l’idée de ne plus l’avoir chaque jour auprès de moi.
 
-J’étais également très proche d’un de mes frères, de deux ans plus jeune que moi. Nous jouions au football ensemble et nous allions nous baigner. Je l’aimais sans que nous ayons besoin de le dire, et je crois qu’il en allait de même pour lui.
+Avec l’un de mes frères, qui avait deux ans de moins que moi, je jouais au football et j’allais me baigner. Pendant ma deuxième année de terminale, nous avons aussi révisé ensemble pour le baccalauréat. Je l’aimais sans que nous ayons besoin de le dire, et je crois qu’il en allait de même pour lui.
 
 Puis chacun s’est marié, a eu sa maison, ses enfants et ses obligations. Ma mère continuait à nous réunir pour son anniversaire, la fête des Mères et les Aïds. Tant qu’elle était là, la famille retrouvait régulièrement son centre autour d’elle.
 
@@ -374,13 +368,13 @@ Après la mort de mon épouse, mes frères et mes sœurs sont venus, puis ils so
 
 Depuis, le plus jeune de mes frères encore en vie, celui qui avait accueilli ma mère, m’invite chaque Ramadan à rompre le jeûne chez lui. J’y vais deux ou trois fois, puis je préfère rester seul. Il le comprend et n’insiste pas.
 
-Une de mes sœurs, qui vit à l’étranger, m’a proposé sa maison de vacances. Une autre, qui habite loin, en banlieue, venait, lorsque cela lui était possible, avec un repas chaud ; sinon, elle m’appelait fréquemment pour prendre de mes nouvelles.
+Une de mes sœurs, qui vit à l’étranger, m’a proposé sa maison de vacances. Une autre, qui habite loin, en banlieue, venait, lorsque cela lui était possible, avec un repas chaud ; sinon, elle m’appelait fréquemment pour prendre de mes nouvelles.
 
 Des années ont passé depuis les repas autour de la mida, les chambres partagées et la maison pleine de voix. Nous vivons désormais chacun de notre côté. Pourtant, lorsque je pense à nous, je revois la main ouverte de ma mère.
 
 ## Mes enfants
 
-Je ne sais pas raconter mes enfants dans l’ordre où les choses se sont passées. Ce qui me revient d’eux ne vient jamais en ligne droite : une peur ancienne remonte avant une joie plus récente, un dimanche efface presque une année entière. J’ai longtemps cru qu’il fallait choisir entre assurer leur avenir et être davantage présent, entre travailler et les regarder grandir ; je n’ai pas toujours choisi le bon côté. Ce que je raconte ici n’est donc pas leur histoire, ni même la mienne avec eux : ce sont les fragments qui sont restés, ceux qui me sont revenus sans que j’aie eu à les chercher.
+J’ai longtemps cru qu’il fallait choisir entre assurer leur avenir et être davantage présent, entre travailler et les regarder grandir ; je n’ai pas toujours choisi le bon côté.
 
 Mon fils avait trois ans. Un soir, je l’ai emmené au centre-ville dans ma Simca pour acheter un magazine à l’un des grands kiosques de l’avenue. Je l’avais installé sur la banquette arrière. Je me suis garé devant le kiosque et je l’ai laissé quelques instants dans la voiture, le temps de payer.
 
@@ -396,7 +390,7 @@ Elle m’a raconté plus tard que la responsable l’avait giflée. Je l’ai au
 
 Mon travail me prenait beaucoup de temps pendant la semaine. Je ne me suis jamais complètement libéré de la culpabilité de ne pas leur avoir consacré davantage de temps pendant leur enfance. J’essayais cependant de préserver les week-ends et j’organisais presque toujours une sortie.
 
-Nous allions au parc du Belvédère et au zoo, souvent avec leurs cousins. Ces journées n’avaient rien d’exceptionnel : quelques heures dehors, des enfants qui couraient, un goûter, parfois une photographie. Elles ont pourtant pris avec les années une place que je ne leur accordais pas encore lorsque nous les vivions.
+Nous allions au parc du Belvédère et au zoo, souvent avec leurs cousins. Ces journées n’avaient rien d’exceptionnel : quelques heures dehors, des enfants qui couraient, un goûter, parfois une photographie. Elles ont pourtant pris avec les années une place que je ne leur accordais pas encore lorsque nous les vivions.
 
 L’été, je les emmenais avec leur mère à la plage de l’hôtel Amilcar. Les employés de la plage privée et de la buvette me reconnaissaient. Ils nous installaient un parasol et nous offraient des boissons fraîches. Après la baignade, nous allions manger une brik à La Goulette ou des frites au Saf Saf, à La Marsa. L’hiver, nous prenions plutôt un café ou une pizza à Sidi Bou Saïd.
 
@@ -406,7 +400,7 @@ En grandissant, ils ont naturellement trouvé leurs propres centres d’intérê
 
 Ma fille était plus réservée. Un jour, alors que nous étions en voiture, elle m’a confié quelque chose d’important pour elle. Nous en avons parlé pendant le trajet. Je n’en dirai rien ici, car cela lui appartient. Ce que j’ai gardé de ce moment, bien davantage que les mots eux-mêmes, est la confiance avec laquelle elle s’était tournée vers moi. J’en ressens, encore aujourd’hui, une gratitude que je ne lui ai peut-être jamais assez exprimée.
 
-J’ai attendu que mes deux enfants aient au moins vingt ans avant de me séparer de leur mère, en pensant que leur âge les aiderait à mieux supporter notre séparation. Lorsque je suis parti, je leur ai laissé l’appartement d’El Hadika. De novembre 2002 à novembre 2003, j’ai vécu dans un studio de l’avenue de la Liberté, puis je me suis installé à El Manar afin de rester près d’eux.
+J’ai attendu que mes deux enfants aient au moins vingt ans avant de me séparer de leur mère, en pensant que leur âge les aiderait à mieux supporter notre séparation. Lorsque je suis parti, je leur ai laissé l’appartement d’El Hadika. Après un an dans un studio à l’avenue de la Liberté, tout proche de la banque, je me suis installé à El Manar afin de rester près d’eux.
 
 Ils me reprochent parfois de ne pas avoir été assez présent pendant leur enfance. Je les écoute sans chercher à me justifier. Quant à ma séparation d’avec leur mère, j’assume le choix que j’ai fait, tout en sachant désormais qu’un même événement ne laisse jamais la même trace chez les parents et chez leurs enfants.
 
@@ -424,7 +418,7 @@ Nous nous sommes rencontrés en 2002, après ma séparation. Je n’envisageais 
 
 Peu de gens l’ont vraiment connue, parce qu’elle ne cherchait jamais à se mettre en avant.
 
-Quand je l’ai connue, elle travaillait comme éducatrice auprès d’enfants ayant une trisomie 21. Elle est ensuite devenue enseignante de français. Le soir, elle préparait ses cours et corrigeait ses copies avec beaucoup de sérieux. Elle était exigeante sur la manière de s’exprimer, mais patiente avec les élèves qui avaient des difficultés. La langue nous donnait parfois matière à discussion : un mot, une tournure, une nuance, une façon que l’un de nous jugeait plus juste que l’autre.
+Quand je l’ai connue, elle travaillait comme éducatrice auprès d’enfants ayant une trisomie 21. Elle est ensuite devenue enseignante de français. Le soir, elle préparait ses cours et corrigeait ses copies avec beaucoup de sérieux. Elle était exigeante sur la manière de s’exprimer, mais patiente avec les élèves qui avaient des difficultés. La langue nous donnait parfois matière à discussion : un mot, une tournure, une nuance, une façon que l’un de nous jugeait plus juste que l’autre.
 
 Il nous arrivait de croiser dans la rue d’anciens élèves ou leurs parents. Ils nous arrêtaient pour la remercier ou lui donner des nouvelles. Elle paraissait toujours surprise de ces témoignages et en éprouvait un plaisir discret.
 
@@ -432,13 +426,13 @@ Elle avait une voix douce et posée. Elle parlait rarement fort, et pourtant on 
 
 Dans sa famille, elle était devenue un point d’attache. On l’appelait souvent et les conversations pouvaient durer longtemps. Elle raccrochait parfois épuisée, mais c’était vers elle qu’on se tournait pour raconter les difficultés, les inquiétudes et les petites choses du quotidien.
 
-Sa mère venait souvent chez nous. Mon épouse était très attentive à elle : elle l’accompagnait chez les médecins, l’emmenait se promener et faisait tout pour qu’elle se sente chez elle. Lorsque sa mère était présente, les autres membres de la famille venaient plus volontiers, et notre appartement se remplissait de voix et de visites.
+Sa mère venait souvent chez nous. Mon épouse était très attentive à elle : elle l’accompagnait chez les médecins, l’emmenait se promener et faisait tout pour qu’elle se sente chez elle. Lorsque sa mère était présente, les autres membres de la famille venaient plus volontiers, et notre appartement se remplissait de voix et de visites.
 
 Sa mère est morte à un âge avancé. Cette disparition l’a profondément affectée, et je crois qu’elle ne s’en est jamais vraiment remise. Après la mort de sa mère, quelque chose s’est défait dans la famille, et notre maison a cessé peu à peu de se remplir comme auparavant.
 
 Ce sont pourtant nos soirées les plus ordinaires qui me reviennent aujourd’hui avec le plus de force. Lorsque le temps le permettait, nous nous installions sur le balcon. Je lui préparais un café ou un thé, elle fumait une cigarette, et nous parlions sans avoir besoin de chercher un sujet particulier.
 
-Il lui arrivait de me demander simplement : « Es-tu heureux ? » Elle ne posait pas cette question avec gravité. Je crois qu’elle craignait, sans le dire, que je lui en veuille du crédit immobilier que nous avions contracté pour acheter notre appartement d’El Manar et de tout ce à quoi nous avions dû renoncer à cause de lui. Elle accordait à ma réponse une importance que je ne mesurais peut-être pas alors. Je ne lui en ai jamais voulu : le bonheur qu’elle m’apportait valait bien plus que ce que ce crédit nous avait coûté. Je regrette seulement de ne pas le lui avoir assez souvent dit.
+Il lui arrivait de me demander simplement : « Es-tu heureux ? » Elle ne posait pas cette question avec gravité. Je crois qu’elle craignait, sans le dire, que je lui en veuille du crédit immobilier que nous avions contracté pour acheter notre appartement d’El Manar et de tout ce à quoi nous avions dû renoncer à cause de lui. Elle accordait à ma réponse une importance que je ne mesurais peut-être pas alors. Je ne lui en ai jamais voulu : le bonheur qu’elle m’apportait valait bien plus que ce que ce crédit nous avait coûté. Je regrette seulement de ne pas le lui avoir assez souvent dit.
 
 D’autres soirs, nous regardions un film ou une série sur le divan. Elle aimait particulièrement les thrillers scandinaves. Elle venait alors se blottir contre moi, la tête posée sur mon épaule, et nous restions ainsi jusqu’à la fin.
 
@@ -446,21 +440,21 @@ Quelques semaines avant sa mort, je lui ai proposé de regarder Perfect Days, de
 
 Nous faisions aussi de longs trajets en voiture, vers la côte ou dans la campagne. Elle plaisantait sur ma façon de conduire et me comparait à un pilote de Formule 1. Je protestais pour la forme, mais elle revenait régulièrement à cette comparaison.
 
-À la mort de ma mère, en 2015, c’est elle qui m’a soutenu. Ma mère l’aimait beaucoup, et elle la pleurait elle aussi. Elle me répétait : « Je n’ai pas de mots pour effacer ta peine, mais je suis là. Nous traverserons cela ensemble. » Elle me disait également : « Tu n’as pas besoin d’être fort devant moi. Tu as le droit d’être triste, de pleurer. » Je n’ai jamais oublié cette délicatesse, et je lui en suis, aujourd’hui encore, profondément reconnaissant.
+À la mort de ma mère, en 2015, c’est elle qui m’a soutenu. Ma mère l’aimait beaucoup, et elle la pleurait elle aussi. Elle me répétait : « Je n’ai pas de mots pour effacer ta peine, mais je suis là. Nous traverserons cela ensemble. » Elle me disait également : « Tu n’as pas besoin d’être fort devant moi. Tu as le droit d’être triste, de pleurer. » Je n’ai jamais oublié cette délicatesse, et je lui en suis, aujourd’hui encore, profondément reconnaissant.
 
 Elle apportait le même soin aux choses les plus simples. Je la revois devant le plan de travail, goûtant une sauce du bout de la cuillère avant d’ajouter une pincée d’épice. Lorsqu’elle était satisfaite, son visage se détendait à peine, mais je savais qu’elle avait obtenu exactement ce qu’elle voulait.
 
-Elle dressait la table avec la même attention : une nappe bien posée, les assiettes choisies avec soin, un détail déplacé au dernier moment parce qu’il ne lui convenait pas tout à fait. À la saison des agrumes, elle préparait des confitures et des marmelades d’oranges. Un jour, après plusieurs heures de travail, je l’ai vue jeter tout le contenu d’une marmite parce que la couleur ne lui plaisait pas. Je trouvais cela excessif ; pour elle, c’était simplement le signe que le résultat n’était pas assez réussi.
+Elle dressait la table avec la même attention : une nappe bien posée, les assiettes choisies avec soin, un détail déplacé au dernier moment parce qu’il ne lui convenait pas tout à fait. À la saison des agrumes, elle préparait des confitures et des marmelades d’oranges. Un jour, après plusieurs heures de travail, je l’ai vue jeter tout le contenu d’une marmite parce que la couleur ne lui plaisait pas. Je trouvais cela excessif ; pour elle, c’était simplement le signe que le résultat n’était pas assez réussi.
 
 Moi, j’accordais moins d’importance à ce genre de détails, et cette différence provoquait parfois des désaccords. Après une dispute, je pouvais laisser le silence s’installer longtemps. C’était généralement elle qui revenait vers moi pour reprendre le dialogue.
 
-Dans cette cuisine qui était surtout son domaine, je n’avais que deux territoires : le café que je lui préparais et le thé dont j’avais appris la préparation auprès de ma mère. Elle appréciait ces deux attentions plus qu’elle ne voulait l’admettre et me disait en souriant : « Au moins, tu sais faire quelque chose en cuisine. »
+Dans cette cuisine qui était surtout son domaine, je n’avais que deux territoires : le café que je lui préparais et le thé dont j’avais appris la préparation auprès de ma mère. Elle appréciait ces deux attentions plus qu’elle ne voulait l’admettre et me disait en souriant : « Au moins, tu sais faire quelque chose en cuisine. »
 
-Elle me reprochait aussi, souvent sur le ton de la plaisanterie, de ne pas l’aider suffisamment : « Ta mère vous a tellement gâtés, toi et tes frères, que le ménage et la cuisine sont pour vous strictement du ressort des femmes, et particulièrement de vos épouses. » Elle n’avait pas tort. À l’époque, cette remarque était devenue entre nous une plaisanterie familière. Aujourd’hui, elle me revient avec le regret de ne pas l’avoir davantage aidée.
+Elle me reprochait aussi, souvent sur le ton de la plaisanterie, de ne pas l’aider suffisamment : « Ta mère vous a tellement gâtés, toi et tes frères, que le ménage et la cuisine sont pour vous strictement du ressort des femmes, et particulièrement de vos épouses. » Elle n’avait pas tort. À l’époque, cette remarque était devenue entre nous une plaisanterie familière. Aujourd’hui, elle me revient avec le regret de ne pas l’avoir davantage aidée.
 
-Ses sœurs et ses nièces la consultaient souvent pour leurs choix vestimentaires. Son goût faisait autorité dans la famille. Elle-même, qui conseillait volontiers les autres, me demandait pourtant mon avis avant de choisir ce qu’elle allait porter. « Je sais que tu as bon goût pour les vêtements des femmes », me disait-elle en riant.
+Ses sœurs et ses nièces la consultaient souvent pour leurs choix vestimentaires. Son goût faisait autorité dans la famille. Elle-même, qui conseillait volontiers les autres, me demandait pourtant mon avis avant de choisir ce qu’elle allait porter. « Je sais que tu as bon goût pour les vêtements des femmes », me disait-elle en riant.
 
-Elle avait aussi sur moi quelques formules qu’elle répétait avec affection. « Tu es intelligent, tendre et paresseux », disait-elle parfois. Elle me croyait également trop vulnérable aux autres et pensait que certaines personnes profitaient facilement de ma disponibilité.
+Elle avait aussi sur moi quelques formules qu’elle répétait avec affection. « Tu es intelligent, tendre et paresseux », disait-elle parfois. Elle me croyait également trop vulnérable aux autres et pensait que certaines personnes profitaient facilement de ma disponibilité.
 
 Elle connaissait pourtant mon besoin de solitude et ne cherchait pas à le combattre. Dans l’appartement, elle m’avait aménagé une petite chambre indépendante où je pouvais me retirer lorsque j’avais besoin d’être seul. Elle avait compris qu’il ne s’agissait pas pour moi de m’éloigner d’elle, mais de retrouver un espace silencieux.
 
@@ -480,7 +474,7 @@ Certains matins, lorsque je me réveille avant le jour, il m’arrive encore de 
 
 ## La banque
 
-En 1978, j’ai été recruté par une banque commerciale. Le premier jour, je suis arrivé en costume et cravate, comme il convenait alors de le faire. On m’a confié des factures à vérifier. Je n’éprouvais aucune passion particulière pour ce travail ; j’étais surtout soulagé d’avoir trouvé un emploi.
+En 1978, j’ai été recruté par une banque commerciale. Le premier jour, je suis arrivé en costume et cravate, comme il convenait alors de le faire. On m’a confié des factures à vérifier. Je n’éprouvais aucune passion particulière pour ce travail ; j’étais surtout soulagé d’avoir trouvé un emploi.
 
 L’argent ne m’a jamais attiré pour lui-même. Il m’inspirait même une certaine aversion, ce qui pouvait sembler paradoxal pour quelqu’un qui allait passer des décennies dans une banque. J’en manipulais surtout les chiffres, avec la distance que permet la comptabilité.
 
@@ -488,19 +482,19 @@ Ce qui m’intéressait davantage était ce que ces chiffres pouvaient révéler
 
 Tout en travaillant, j’ai repris des études à l’IHEC de Carthage, où j’ai obtenu une maîtrise en gestion comptable en 1988. Je retrouvais ainsi la même colline où j’avais passé une partie de mon adolescence. Le soir, en sortant des cours, il m’arrivait de m’arrêter pour regarder en contrebas la plage et l’hôtel Amilcar. Entre l’étudiant que j’avais été et l’employé de banque que j’étais devenu, le paysage servait presque de trait d’union.
 
-L’informatique m’a ouvert un autre terrain. J’y ai retrouvé ce que j’aimais déjà dans les comptes : organiser, croiser, vérifier, comprendre. L’outil que j’ai conçu pour la clôture du bilan a été adopté, puis développé par d’autres. Ce goût pour l’informatique ne m’a jamais quitté.
+L’informatique m’a ouvert un autre terrain. J’y ai retrouvé ce que j’aimais déjà dans les comptes : organiser, croiser, vérifier, comprendre. L’outil que j’ai conçu pour la clôture du bilan a été adopté, puis développé par d’autres. Ce goût pour l’informatique ne m’a jamais quitté.
 
 J’ai pris la responsabilité des finances et du contrôle. Je laissais généralement la porte de mon bureau ouverte. Certains venaient pour une question de travail, d’autres simplement parce qu’ils avaient besoin de parler d’un problème personnel. Avec les années, quelques-unes de ces relations ont dépassé le cadre professionnel et sont devenues de véritables amitiés.
 
-Je me suis également engagé dans les instances représentatives du personnel et dans le syndicat de la banque, avec l’idée de défendre les employés et d’améliorer leur situation. Cet engagement m’a valu leur respect, mais il m’a surtout attiré beaucoup d’ennuis. Il a ralenti ma carrière, m’a fatigué et m’a parfois exposé à des risques d’ordre politique. J’ai aussi été moins disponible pour mes enfants, ce que je mesure davantage aujourd’hui qu’à l’époque.
-
-Pendant ces années, ma vie familiale s’était elle aussi construite. Je m’étais marié à la salle de fêtes de l’hôtel Amilcar et nos deux enfants étaient nés. Après un premier appartement, nous avions vécu à Bellevue. Ma famille ayant quitté le Passage pour Rommana, j’avais ensuite choisi de m’installer à El Hadika, tout près, afin de rester proche de mes parents, de mes frères et de mes sœurs.
-
-Nous nous sommes séparés en 2002. Le divorce a été prononcé en février 2004. Ce qui s’est passé entre nous appartient aussi à quelqu’un d’autre, et je préfère ne pas en dire davantage.
+Je me suis également engagé dans les instances représentatives du personnel et dans le syndicat de la banque, avec l’idée de défendre les employés et d’améliorer leur situation. Cet engagement m’a valu leur respect, mais il m’a aussi attiré des ennuis. Mon avancement est resté bloqué pendant deux ans. J’ai été pris en filature et surveillé par des représentants du pouvoir politique de l’époque. Cet engagement m’a fatigué et m’a rendu moins disponible pour mes enfants, ce que je mesure davantage aujourd’hui qu’à l’époque.
 
 À la banque, mon bureau était grand et donnait sur l’avenue de la Liberté. J’arrivais très tôt, avant presque tout le monde. C’était l’heure que je préférais, celle où les couloirs étaient encore calmes et où l’on pouvait travailler sans être interrompu.
 
-À cette époque, je partais tôt et rentrais souvent tard. Il m’arrivait de revenir au bureau le week-end, seul dans des locaux fermés. Le travail et les études occupaient beaucoup de place dans ma vie ; ils me servaient aussi parfois d’alibi pour ne pas regarder certaines choses de trop près.
+À cette époque, je partais tôt et rentrais souvent tard. Il m’arrivait de revenir au bureau le week-end, seul dans des locaux fermés. Le travail et les études occupaient beaucoup de place dans ma vie ; ils me servaient aussi parfois d’alibi pour ne pas regarder certaines choses de trop près.
+
+Pendant ces années, ma vie familiale s’était elle aussi construite. Je m’étais marié et nos deux enfants étaient nés. Après un premier appartement, nous avions vécu à Bellevue. Ma famille ayant quitté le Passage pour Rommana, j’avais ensuite choisi de m’installer à El Hadika, tout près, afin de rester proche de mes parents, de mes frères et de mes sœurs.
+
+Nous nous sommes séparés en 2002. Le divorce a été prononcé en février 2004. Ce qui s’est passé entre nous appartient aussi à quelqu’un d’autre, et je préfère ne pas en dire davantage.
 
 De novembre 2002 à novembre 2003, j’ai loué un studio avenue de la Liberté, à quelques pas de la banque. Pour la première fois de ma vie, j’avais un logement entier à moi. Je l’avais meublé selon mes goûts et, le premier soir, j’ai éprouvé un véritable bonheur à me retrouver seul entre ces murs.
 
@@ -510,7 +504,7 @@ Je me réveillais à l’aube. J’achetais un croissant encore chaud à la pât
 
 Peu à peu, les deux chichas quotidiennes étaient devenues nécessaires. Je prenais aussi des anxiolytiques et des antidépresseurs.
 
-J’ai connu d’autres femmes pendant ces années-là, mais aucune de ces relations n’a duré. Celle qui allait devenir mon épouse venait parfois au studio. Elle m’apportait à manger et restait avec moi quelque temps. Elle n’avait pas la clé, détail qui disait peut-être à lui seul que ce lieu demeurait encore entièrement le mien.
+Après ma séparation, j’ai connu d’autres femmes, mais aucune de ces relations n’a duré. Celle qui allait devenir mon épouse venait parfois au studio. Elle m’apportait à manger et restait avec moi quelque temps. Elle n’avait pas la clé, détail qui disait peut-être à lui seul que ce lieu demeurait encore entièrement le mien.
 
 En 2003, alors que j’y vivais toujours, mon père est mort. Jusqu’alors, ce studio avait représenté une solitude choisie et une liberté nouvelle. Après sa mort, le silence du soir n’avait plus tout à fait le même sens.
 
@@ -534,7 +528,7 @@ Mon épouse, elle, tenait beaucoup à rester là. Cet appartement n’était pas
 
 Elle s’est occupée elle-même de toutes les démarches nécessaires au crédit. Je la voyais avancer avec détermination et j’ai compris combien cet appartement comptait pour elle. J’ai fini par céder. Le crédit m’inquiétait toujours, mais je ne voulais pas m’opposer davantage à l’avenir qu’elle imaginait pour nous dans ce foyer.
 
-Les conséquences financières ont été lourdes. Pendant des années, les remboursements ont pesé sur notre budget. Nous avons renoncé à des voyages et reporté certaines vacances. Malgré cela, elle continuait à imaginer les améliorations qu’elle voulait apporter à l’appartement, et nous cherchions ensemble les moyens de les réaliser peu à peu.
+Pendant des années, les remboursements ont pesé sur notre budget. Nous avons renoncé à des voyages et reporté certaines vacances. Malgré cela, elle continuait à imaginer les améliorations qu’elle voulait apporter à l’appartement, et nous cherchions ensemble les moyens de les réaliser peu à peu.
 
 La cuisine occupait une place particulière dans ses projets. Elle rêvait depuis longtemps de la refaire entièrement. Elle la voulait claire, pratique et fonctionnelle, pensée jusque dans les détails. Je lui répondais souvent que nous verrions plus tard, parce qu’il y avait toujours une dépense plus urgente.
 
@@ -548,7 +542,7 @@ Ce projet est resté à l’état de conversation.
 
 Depuis sa disparition, l’appartement a peu changé. Beaucoup de choses occupent encore exactement la même place. Pourtant, je ne le regarde plus de la même manière. Le balcon, autrefois associé au café, au thé et aux longues conversations, m’est devenu difficile. Les autres pièces le sont aussi, chacune pour une raison différente.
 
-Aujourd’hui, j’y retrouve surtout ce qui n’est plus là. Partir me donnerait le sentiment d’abandonner une part de notre vie ; rester me ramène chaque jour à son absence. Je ne sais pas encore lequel de ces deux choix me sera le plus difficile. Je pense pourtant à partir.
+Aujourd’hui, j’y retrouve surtout ce qui n’est plus là. Partir me donnerait le sentiment d’abandonner une part de notre vie ; rester me ramène chaque jour à son absence. Je ne sais pas encore lequel de ces deux choix me sera le plus difficile. Je pense pourtant à partir.
 
 ## La mémoire
 
@@ -556,21 +550,19 @@ Certaines photographies me troublent davantage que d’autres. Je reconnais les 
 
 La photographie sait alors quelque chose que j’ai oublié.
 
-Il m’arrive encore d’entendre la voix de mon épouse me dire, en plaisantant : « Bouge-toi un peu, ça te fera du bien. » L’intonation revient parfois entière, avec une netteté qui me surprend, alors que d’autres détails se sont effacés.
+Il m’arrive encore d’entendre la voix de mon épouse me dire, en plaisantant : « Bouge-toi un peu, ça te fera du bien. » L’intonation revient parfois entière, avec une netteté qui me surprend, alors que d’autres détails se sont effacés.
 
 La mémoire choisit seule ce qu’elle conserve. Elle garde une odeur et perd une date, retient une phrase isolée mais laisse disparaître le contenu d’une conversation. De certains visages, il reste un geste ou une expression tandis que les traits eux-mêmes deviennent moins précis.
 
 Il y a quelque chose d’injuste dans l’oubli, mais peut-être aussi une forme d’apaisement. Si chaque absence gardait intacte la violence du premier jour, il serait difficile de continuer à vivre.
 
-Depuis que j’écris ces pages, les souvenirs reviennent aussi sans l’aide des photographies. Un détail en appelle un autre : une rue fait surgir une personne, cette personne ramène une phrase, et la phrase ouvre parfois sur une scène à laquelle je n’avais pas pensé depuis des décennies.
+Depuis que j’écris ces pages, les souvenirs reviennent aussi sans l’aide des photographies. Un détail en appelle un autre : une rue fait surgir une personne, cette personne ramène une phrase, et la phrase ouvre parfois sur une scène à laquelle je n’avais pas pensé depuis des décennies.
 
 D’autres souvenirs, que je sais pourtant importants, restent hors d’atteinte. Je sais qu’ils ont existé, mais je n’en retrouve presque rien. Cette absence m’étonne parfois davantage que l’oubli des choses ordinaires.
 
 La photographie m’accompagne depuis l’adolescence. J’ai beaucoup photographié les lieux, les visages et les moments ordinaires, sans penser qu’un jour ces images me restitueraient des détails que ma mémoire aurait perdus.
 
 J’ai également gardé d’anciennes photos des lieux que j’ai connus. Il m’arrive de les comparer avec celles que j’ai prises des années plus tard, simplement pour retrouver ce qui existait autrefois et mesurer ce qui a changé. Une façade a disparu, une rue s’est élargie, un terrain a été bâti, mais un détail demeure parfois exactement à sa place et suffit à faire revenir tout un paysage.
-
-Il y a aussi ce que nous vivons sans y prêter pleinement attention. Les jours passent dans leur apparente normalité, et il faut souvent qu’ils s’éloignent pour que l’on comprenne ce qu’ils avaient de précieux.
 
 J’ai gardé de nombreuses photographies de mon épouse et de moi, prises au fil des années pendant nos sorties. À l’époque, elles faisaient partie de la vie ordinaire. Aujourd’hui, je les regarde autrement.
 
@@ -580,7 +572,7 @@ Après le déjeuner, nous sommes allés à Amilcar. Nous avons marché sur la pl
 
 Ce fut le dernier anniversaire que nous avons fêté ensemble.
 
-Le 31 décembre 2024, je me suis souvenu de nos réveillons. Elle aimait beaucoup cuisiner et préparait chaque année elle-même le poulet et le gâteau, avec le même soin qu’elle apportait à tout ce qu’elle faisait dans la maison. Ce soir-là, le souvenir de ces préparatifs m’est revenu avec une précision étrange : la cuisine, les plats, son attention aux détails et cette impression que nous avions encore tout le temps devant nous.
+Le 31 décembre 2024, je me suis souvenu de nos réveillons. Elle aimait beaucoup cuisiner et préparait chaque année elle-même le poulet et le gâteau, avec le même soin qu’elle apportait à tout ce qu’elle faisait dans la maison. Ce soir-là, le souvenir de ces préparatifs m’est revenu avec une précision étrange : la cuisine, les plats, son attention aux détails et cette impression que nous avions encore tout le temps devant nous.
 
 Il me reste aussi deux tasses identiques que nous avions trouvées ensemble dans un marché aux puces. Elles n’ont rien de précieux et ne représentent rien pour les autres.
 
@@ -590,15 +582,15 @@ Je les ai gardées.
 
 J’ai longtemps gardé le contact avec quelques amis, surtout ceux d’Amilcar et du lycée. Certains sont restés présents pendant des années, puis la vie a fini par nous éloigner sans que nous sachions exactement à quel moment cela s’était produit.
 
-Le garçon italien et sa sœur revenaient chaque été dans la maison située en face de la nôtre. À la fin du mois d’août, nous nous quittions en nous disant : « À l’année prochaine. »
+Le garçon italien et sa sœur revenaient chaque été dans la maison située en face de la nôtre. À la fin du mois d’août, nous nous quittions en nous disant : « À l’année prochaine. »
 
 Puis, un été, ils ne sont pas revenus.
 
-Pour d’autres, c’était l’inverse : ils étaient restés à Amilcar et c’est moi qui étais parti. Il y avait le jeune batteur de l’orchestre, qui descendait jouer au football avec nous, et le fils du pêcheur que j’allais aider au petit matin. En 1973, lorsque nous avons quitté Amilcar pour Tunis, je ne me souviens pas de leur avoir véritablement dit au revoir. Sans doute pensions-nous tous que nous nous reverrions.
+Pour d’autres, c’était l’inverse : ils étaient restés à Amilcar et c’est moi qui étais parti. Il y avait le jeune batteur de l’orchestre, qui descendait jouer au football avec nous, et le fils du pêcheur que j’allais aider au petit matin. En 1973, lorsque nous avons quitté Amilcar pour Tunis, je ne me souviens pas de leur avoir véritablement dit au revoir. Sans doute pensions-nous tous que nous nous reverrions.
 
 Je suis pourtant retourné souvent à Amilcar, mais je ne les ai jamais retrouvés.
 
-Ces séparations-là avaient au moins une cause que l’on pouvait nommer : la fin d’un été, un déménagement, une famille qui repartait. D’autres éloignements ont été beaucoup plus discrets. Il ne s’est rien passé de particulier.
+Ces séparations-là avaient au moins une cause que l’on pouvait nommer : la fin d’un été, un déménagement, une famille qui repartait. D’autres éloignements ont été beaucoup plus discrets. Il ne s’est rien passé de particulier.
 
 Les appels se sont simplement espacés. Quelques semaines entre deux conversations, puis quelques mois, parfois davantage.
 
@@ -614,11 +606,11 @@ Il n’existe pas de cérémonie pour ce genre de perte. Personne ne présente d
 
 Après la mort de mon épouse, toutes ses affaires étaient encore là, à leur place, comme si leur simple présence pouvait prolonger un peu la vie qui avait été la nôtre.
 
-Mon épouse avait l’habitude d’acheter certaines choses pour plus tard. Elle préparait la maison avec l’idée que tout finirait un jour par servir : des vêtements, des objets, des réserves qu’elle rangeait soigneusement et qu’elle retrouverait lorsqu’elle en aurait besoin. Après sa disparition, tout cela m’est resté entre les mains.
+Mon épouse avait l’habitude d’acheter certaines choses pour plus tard. Elle préparait la maison avec l’idée que tout finirait un jour par servir : des vêtements, des objets, des réserves qu’elle rangeait soigneusement et qu’elle retrouverait lorsqu’elle en aurait besoin. Après sa disparition, tout cela m’est resté entre les mains.
 
 Pendant longtemps, je n’ai presque rien touché. Ouvrir une armoire suffisait à faire revenir sa présence, mais la refermer sans rien déplacer me donnait aussi l’impression de préserver quelque chose.
 
-Près d’un an plus tard, j’ai commencé à me séparer de certains de ses vêtements. Je ne pouvais pas les garder tous indéfiniment. Les voir chaque jour devenait pénible, mais les sortir de la maison l’était tout autant. Chaque vêtement portait avec lui une image : une sortie, un repas, une visite, parfois seulement sa façon de le porter.
+Près d’un an plus tard, j’ai commencé à me séparer de certains de ses vêtements. Je ne pouvais pas les garder tous indéfiniment. Les voir chaque jour devenait pénible, mais les sortir de la maison l’était tout autant. Chaque vêtement portait avec lui une image : une sortie, un repas, une visite, parfois seulement sa façon de le porter.
 
 Je savais pourtant que ces vêtements pouvaient encore être utiles. Peu à peu, j’ai presque tout donné à des personnes dans le besoin. Ce geste me paraissait raisonnable et juste, mais il me coûtait. M’en défaire me donnait parfois le sentiment absurde de la trahir, comme si je participais moi-même à l’effacement de ce qui restait d’elle dans la maison.
 
@@ -640,13 +632,13 @@ Il m’arrive également de revoir les films qui avaient compté autrefois. J’
 
 Je sors moins qu’avant. Certains jours, je prends un taxi pour aller au café Sidi Azizi, à Sidi Bou Saïd, avec un livre et mon bloc-notes. La mer et les livres sont restés parmi les choses auxquelles je reviens naturellement. Ils m’ont accompagné à des âges très différents et je ne ressens pas le besoin de m’en éloigner.
 
-Mes journées sont plus silencieuses. Je les organise désormais à ma manière, et cette liberté m’est précieuse. J’ai toujours recherché la solitude par moments ; elle m’est aujourd’hui plus nécessaire. Je ne la vis pas comme un retrait, mais comme une façon de retrouver mon propre rythme.
+Mes journées sont plus silencieuses. Je les organise désormais à ma manière, et cette liberté m’est précieuse. J’ai toujours recherché la solitude par moments ; elle m’est aujourd’hui plus nécessaire. Je ne la vis pas comme un retrait, mais comme une façon de retrouver mon propre rythme.
 
 Pendant une grande partie de ma vie, j’ai beaucoup répondu aux attentes des autres. À la banque, mon engagement me prenait l’essentiel de mes journées. Il m’arrivait même de rédiger des rapports pour des collègues en plus des miens, ce qui expliquait en partie les longues heures passées au bureau. J’avais pris l’habitude d’être disponible et de rendre service, parfois davantage qu’il n’aurait fallu.
 
 Aujourd’hui, je me sens moins tenu de répondre à toutes les sollicitations. Je choisis davantage celles auxquelles je réponds et les personnes auxquelles je consacre mon temps. Ce n’est pas de l’indifférence. Je ressens simplement moins le besoin de satisfaire tout le monde.
 
-Je sais que j’ai vieilli, même si le mot « vieux » ne me vient pas spontanément lorsque je pense à moi. Mon corps me le rappelle mieux que les mots : les forces diminuent, certaines choses demandent plus d’effort et je sais aussi que quelques projets que j’avais autrefois imaginés ne se réaliseront probablement jamais.
+Je sais que j’ai vieilli, même si le mot « vieux » ne me vient pas spontanément lorsque je pense à moi. Mon corps me le rappelle mieux que les mots : les forces diminuent, certaines choses demandent plus d’effort et je sais aussi que quelques projets que j’avais autrefois imaginés ne se réaliseront probablement jamais.
 
 Je ne lutte plus contre tout ce que l’âge m’impose. Il y a des renoncements, bien sûr, mais aussi une manière différente de regarder ce qui demeure possible. Je pense désormais davantage au temps qui reste qu’au temps déjà passé, et cela me conduit à choisir avec plus de soin la manière dont j’occupe mes journées.
 
@@ -660,15 +652,13 @@ Aujourd’hui, ma fille vient souvent me voir avec ma petite-fille. Lorsqu’ell
 
 Je souhaite surtout pouvoir rester disponible pour mes enfants et mes petits-enfants lorsqu’ils auront besoin de moi. Avec les années, les projets que l’on forme changent de nature. Ils n’ont plus forcément besoin d’être grands ni lointains pour avoir de l’importance.
 
-Les miens sont désormais plus proches et plus modestes.
+Les miens sont désormais plus modestes.
 
 # Clôture
 
 Je ne sais pas exactement ce que l’on laisse derrière soi. Peut-être moins les événements d’une vie que la manière dont on a regardé les lieux, accompagné les êtres et aimé ceux qui nous ont été proches.
 
-Avec les années, j’ai appris à prêter davantage attention aux silences et à me méfier de ce qui se dit trop clairement. Une existence ne se résume pas toujours dans les paroles que l’on prononce. Elle demeure aussi dans un geste, une habitude, une voix que l’on croit entendre au réveil, une photographie prise à un moment dont on ne se souvient plus, ou un lieu auquel on revient longtemps après l’avoir quitté.
-
-La mémoire ne nous rend pas ce que nous avons perdu. Elle ne restitue ni les êtres ni les jours exactement tels qu’ils furent. Elle en conserve des fragments, parfois infimes, parfois imprévisibles, qui nous empêchent de vivre comme si rien n’avait compté.
+Avec les années, j’ai appris à prêter davantage attention aux silences et à me méfier des discussions superficielles. Une existence ne se résume pas toujours aux paroles que l’on prononce. Elle demeure aussi dans un geste, une habitude, une voix que l’on croit entendre au réveil, une photographie prise à un moment dont on ne se souvient plus, ou un lieu auquel on revient longtemps après l’avoir quitté.
 
 Je pense souvent aux palmiers d’Amilcar. Je ne les ai pas plantés. Ils étaient déjà là lorsque nous sommes arrivés, bien avant que je sache qu’un jour ce lieu prendrait une telle place dans ma mémoire. Autour d’eux, l’hôtel a fermé, notre maison a disparu et le paysage s’est transformé.
 
@@ -684,55 +674,55 @@ Je continue d’écrire.
 
 Les mots tunisiens et arabes sont transcrits selon leur prononciation. L’écriture arabe est indiquée ici, mais n’apparaît pas dans le corps du texte.
 
-Aïd el-Fitr (عيد الفطر) : fête qui marque la fin du mois de Ramadan. Elle est à distinguer de l’Aïd el-Kébir, ou Aïd el-Adha (عيد الأضحى), fête du sacrifice célébrée un peu plus de deux mois plus tard.
+Aïd el-Fitr (عيد الفطر) : fête qui marque la fin du mois de Ramadan. Elle est à distinguer de l’Aïd el-Kébir, ou Aïd el-Adha (عيد الأضحى), fête du sacrifice célébrée un peu plus de deux mois plus tard.
 
-Baklawa (بقلاوة) : pâtisserie composée de fines couches de pâte, garnies d’amandes ou de pistaches et imbibées de sirop.
+Baklawa (بقلاوة) : pâtisserie composée de fines couches de pâte, garnies d’amandes ou de pistaches et imbibées de sirop.
 
-Bambalouni (بمبالوني) : beignet tunisien en forme d’anneau, frit puis saupoudré de sucre, particulièrement associé à Sidi Bou Saïd.
+Bambalouni (بمبالوني) : beignet tunisien en forme d’anneau, frit puis saupoudré de sucre, particulièrement associé à Sidi Bou Saïd.
 
-Baraka (بركة) : bénédiction. Le mot peut aussi désigner ce qui fait qu’une chose suffit, réussit ou dure davantage que ce que l’on aurait attendu.
+Baraka (بركة) : bénédiction. Le mot peut aussi désigner ce qui fait qu’une chose suffit, réussit ou dure davantage que ce que l’on aurait attendu.
 
-Behi (باهي) : bien, d’accord, c’est entendu.
+Behi (باهي) : bien, d’accord, c’est entendu.
 
-Bikbachi (بكباشي) : grade militaire équivalent à celui de lieutenant-colonel. Ce titre était porté par Nasser au moment de la révolution égyptienne de 1952 et est longtemps resté attaché à son nom.
+Bikbachi (بكباشي) : grade militaire équivalent à celui de lieutenant-colonel. Ce titre était porté par Nasser au moment de la révolution égyptienne de 1952 et est longtemps resté attaché à son nom.
 
-Brik (بريك) : feuille de pâte fine repliée autour d’une garniture, le plus souvent un œuf, puis frite.
+Brik (بريك) : feuille de pâte fine repliée autour d’une garniture, le plus souvent un œuf, puis frite.
 
-Chicha (شيشة) : pipe à eau dans laquelle la fumée du tabac traverse un réservoir d’eau avant d’être aspirée. On la fume notamment dans les cafés, seul ou à plusieurs.
+Chicha (شيشة) : pipe à eau dans laquelle la fumée du tabac traverse un réservoir d’eau avant d’être aspirée. On la fume notamment dans les cafés, seul ou à plusieurs.
 
-Chorba (شربة) : soupe tunisienne préparée selon de nombreuses variantes, avec de la viande, du poulet ou du poisson, et souvent de petites pâtes ou du blé vert concassé, le frik. Elle est particulièrement consommée lors de la rupture du jeûne pendant le Ramadan.
+Chorba (شربة) : soupe tunisienne préparée selon de nombreuses variantes, avec de la viande, du poulet ou du poisson, et souvent de petites pâtes ou du blé vert concassé, le frik. Elle est particulièrement consommée lors de la rupture du jeûne pendant le Ramadan.
 
-Farq (فرق) : cérémonie organisée le troisième jour après un décès dans certaines traditions funéraires tunisiennes.
+Farq (فرق) : cérémonie organisée le troisième jour après un décès dans certaines traditions funéraires tunisiennes.
 
-Fricassé (فريكاسي) : petit pain frit, garni notamment de thon, de pommes de terre, d’œuf, d’olives et de harissa.
+Fricassé (فريكاسي) : petit pain frit, garni notamment de thon, de pommes de terre, d’œuf, d’olives et de harissa.
 
-Glibette (قلوب) : graine de tournesol ou de courge, grillée et salée.
+Glibette (قلوب) : graine de tournesol ou de courge, grillée et salée.
 
-Houna Loundoun (هنا لندن) : « Ici Londres ». Formule emblématique utilisée pour identifier la BBC en langue arabe.
+Houna Loundoun (هنا لندن) : « Ici Londres ». Formule emblématique utilisée pour identifier la BBC en langue arabe.
 
-Kaki (كاكي) : petit pain sec, salé et croquant, présenté notamment sous forme de bâtonnet, d’anneau ou de petites boulettes, et vendu, entre autres, par les marchands ambulants.
+Kaki (كاكي) : petit pain sec, salé et croquant, présenté notamment sous forme de bâtonnet, d’anneau ou de petites boulettes, et vendu, entre autres, par les marchands ambulants.
 
-Kefta (كفتة) : boulette ou galette frite préparée à partir de viande hachée, souvent mêlée de pomme de terre, de persil, d’oignon, d’œuf et de chapelure.
+Kefta (كفتة) : boulette ou galette frite préparée à partir de viande hachée, souvent mêlée de pomme de terre, de persil, d’oignon, d’œuf et de chapelure.
 
-Khamsa we khmis (خمسة وخميس) : formule populaire tunisienne prononcée pour écarter le mauvais œil.
+Khamsa we khmis (خمسة وخميس) : formule populaire tunisienne prononcée pour écarter le mauvais œil.
 
-Khira (خيرة) : la bonne, la vertueuse.
+Khira (خيرة) : la bonne, la vertueuse.
 
-Loubia (لوبية) : haricots blancs, ainsi que le plat préparé à partir de ces haricots.
+Loubia (لوبية) : haricots blancs, ainsi que le plat préparé à partir de ces haricots.
 
-Makroud (مقروض) : pâtisserie à base de semoule, généralement farcie de pâte de dattes parfumée à l’eau de fleur d’oranger. Elle est découpée en losanges, frite ou cuite au four, puis trempée dans du miel ou dans un sirop sucré.
+Makroud (مقروض) : pâtisserie à base de semoule, généralement farcie de pâte de dattes parfumée à l’eau de fleur d’oranger. Elle est découpée en losanges, frite ou cuite au four, puis trempée dans du miel ou dans un sirop sucré.
 
-Marqat loubia bel kaâber (مرقة لوبية بالكعابر) : ragoût de haricots blancs préparé avec des boulettes de viande.
+Marqat loubia bel kaâber (مرقة لوبية بالكعابر) : ragoût de haricots blancs préparé avec des boulettes de viande.
 
-Méchouicha (مشوية) : salade tunisienne de poivrons, tomates, piments et souvent d’oignons grillés, puis épluchés, coupés finement et assaisonnés d’huile d’olive, parfois accompagnée de thon, d’œufs durs ou d’olives.
+Méchouia (مشوية) : salade tunisienne de poivrons, tomates, piments et souvent d’oignons grillés, puis épluchés, coupés finement et assaisonnés d’huile d’olive, parfois accompagnée de thon, d’œufs durs ou d’olives.
 
-Mida (ميدة) : table basse traditionnelle autour de laquelle la famille prend ses repas.
+Mida (ميدة) : table basse traditionnelle autour de laquelle la famille prend ses repas.
 
-Ommi (أمي) : littéralement « ma mère ». Le mot peut aussi être placé devant le prénom d’une femme comme marque de respect et d’affection.
+Ommi (أمي) : littéralement « ma mère ». Le mot peut aussi être placé devant le prénom d’une femme comme marque de respect et d’affection.
 
-Tayeb (طيب) : bon, bienveillant. Le mot est également employé comme prénom.
+Tayeb (طيب) : bon, bienveillant. Le mot est également employé comme prénom.
 
-Variantes : en Tunisie, mélange de légumes coupés et conservés au vinaigre ou en saumure, servi en accompagnement. Le terme arabe couramment employé est torchi (تورشي).
+Variantes : en Tunisie, mélange de légumes coupés et conservés au vinaigre ou en saumure, servi en accompagnement. Le terme arabe couramment employé est torchi (تورشي).
 
 ## Notes sur les lieux
 
@@ -744,17 +734,17 @@ Le Belvédère. Plus grand parc de Tunis, aménagé à la fin du XIXe siècle su
 
 La bibliothèque Charles-de-Gaulle. Créée en 1957 au sein du lycée Carnot, d’abord comme salle de lecture, elle s’est progressivement ouverte à un public plus large. Elle a pris le nom de Charles-de-Gaulle en 1972 et est aujourd’hui la médiathèque de l’Institut français de Tunisie à Tunis.
 
-Le Bou Kornine. Montagne à deux sommets dominant Hammam-Lif, sur la rive sud du golfe de Tunis. Son nom signifie en arabe tunisien « celui aux deux cornes ».
+Le Bou Kornine. Montagne à deux sommets dominant Hammam-Lif, sur la rive sud du golfe de Tunis. Son nom signifie en arabe tunisien « celui aux deux cornes ».
 
 Byrsa. Colline de Carthage où se trouvait la citadelle punique, assiégée lors de la prise et de la destruction de la ville par Rome en 146 avant notre ère. Le site archéologique y côtoie aujourd’hui l’ancienne cathédrale Saint-Louis et le musée national de Carthage.
 
-Le café des Nattes. Café situé au centre de Sidi Bou Saïd, appelé en arabe Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées. Paul Klee et August Macke y sont passés lors de leur voyage en Tunisie en 1914 ; Macke l’a représenté dans plusieurs œuvres.
+Le café des Nattes. Café situé au centre de Sidi Bou Saïd, appelé en arabe Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées. Paul Klee et August Macke y sont passés lors de leur voyage en Tunisie en 1914 ; Macke l’a représenté dans plusieurs œuvres.
 
 Carthage. Cité fondée au IXe siècle avant notre ère. Une Carthage romaine fut ensuite établie sur ses ruines. Aujourd’hui, Carthage est une commune de la banlieue nord de Tunis dont le site archéologique s’étend jusqu’au littoral.
 
 El Hadika. Cité de Tunis située dans la délégation d’Ettahrir, à proximité de Rommana.
 
-El Manar. Cité établie sur les hauteurs nord de Tunis, développée à partir des années soixante-dix et divisée en trois ensembles. Le campus universitaire Farhat Hached y est installé, à la limite de Rommana. L’Université de Tunis El Manar a été créée en 1987 sous le nom d’Université des sciences, des techniques et de médecine de Tunis, avant de prendre son appellation actuelle en 2000.
+El Manar. Cité établie sur les hauteurs nord de Tunis, développée à partir des années soixante-dix et divisée en trois ensembles. Le campus universitaire Farhat Hached y est installé, à la limite de Rommana.
 
 Ghadamès. Ancienne ville-oasis du Sahara libyen, située près du point de rencontre des frontières de la Libye, de la Tunisie et de l’Algérie. Occupée depuis au moins la fin du premier millénaire avant notre ère par des populations autochtones, elle a conservé une culture et une langue amazighes, le ghadamsi. Son architecture traditionnelle, adaptée aux conditions du climat désertique, constitue un exemple remarquable d’habitat saharien. L’ancienne ville est inscrite sur la Liste du patrimoine mondial de l’UNESCO depuis 1986. Ghadamès fut également une étape importante du commerce caravanier transsaharien.
 
