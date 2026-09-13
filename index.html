@@ -85,13 +85,23 @@
           </div>
 
           <div class="home-actions">
-            <button id="resumeBtn" class="primary-btn">
+
+            <button
+              id="startBtn"
+              class="primary-btn"
+              onclick="document.getElementById('resumeBtn').click()"
+            >
               Commencer la lecture
+            </button>
+
+            <button id="resumeBtn" class="primary-btn">
+              Reprendre la lecture
             </button>
 
             <button id="tocHomeBtn" class="secondary-btn">
               Voir le sommaire
             </button>
+
           </div>
 
           <p class="edition-note">
