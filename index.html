@@ -10,7 +10,9 @@
 </head>
 <body>
   <header class="topbar">
-    <button id="menuBtn" class="menu-button" aria-label="Ouvrir le sommaire"><span>☰</span></button>
+    <button id="menuBtn" class="menu-button" aria-label="Ouvrir le sommaire">
+      <span>☰</span>
+    </button>
 
     <button id="brandBtn" class="brand" aria-label="Retour à l’accueil">
       <span class="brand-mark">É</span>
@@ -89,7 +91,8 @@
             <button
               id="startBtn"
               class="primary-btn"
-              onclick="document.getElementById('resumeBtn').click()"
+              type="button"
+              onclick="openChapter(0)"
             >
               Commencer la lecture
             </button>
