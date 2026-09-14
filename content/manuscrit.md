@@ -1,29 +1,22 @@
-# ÉCHOS
-
-## Des lieux, des êtres et du temps qui passe
-
-> Édition provisoire à usage privé.
-> Septembre 2026
-
-## Note liminaire
+# Note liminaire
 
 Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
 
-Je raconte ces souvenirs depuis mon point de vue. D’autres, qui ont connu les mêmes lieux ou partagé certains moments, peuvent en garder une mémoire différente.
+Je raconte ici ce que j’ai vécu, tel que je m’en souviens. Ceux qui ont connu les mêmes lieux ou partagé certains de ces moments peuvent en garder un souvenir différent.
 
-Pour préserver leur vie privée, la plupart de mes proches encore en vie sont désignés par le lien qui nous unit plutôt que par leur nom. Certains détails qui les rendraient reconnaissables ont également été écartés.
+Pour préserver leur vie privée, la plupart de mes proches encore en vie sont désignés par le lien qui nous unit plutôt que par leur nom. 
 
 Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliqués en fin de volume.
 
 > « Ce qui survit à l’oubli ne reconstitue pas une existence. Cela en garde les échos. »
 
-Bati
+*Bati*
 
 # Ouverture
 
-Il suffit parfois de presque rien pour que le passé revienne : un bruit rappelle un lieu, un lieu fait renaître la présence d’un être, et cette présence ramène avec elle une époque que l’on croyait éloignée.
+Il suffit parfois de presque rien pour que le passé revienne : un écho rappelle un lieu, un lieu fait renaître la présence d’un être et, avec elle, toute une époque que l’on croyait enfouie.
 
-Tout ne remonte pas à la surface, et ce qui revient ne revient jamais tout à fait comme autrefois.
+Tout ne remonte pas à la surface. Ce qui revient, le temps l’a peut-être transformé.
 
 J’écris ce qui revient.
 
@@ -31,13 +24,15 @@ J’écris ce qui revient.
 
 ## Amilcar
 
-En 1966, nous nous sommes installés à Amilcar, où travaillait mon père. La société touristique qui l’avait recruté l’avait affecté à un établissement construit au bord de la mer, au pied de la falaise de Sidi Bou Saïd. Nous habitions un logement de fonction, à quelques pas d’une plage qui allait devenir l’un des lieux les plus présents dans ma mémoire.
+En 1966, notre famille s’est installée à Amilcar, où travaillait mon père. La société touristique qui l’avait recruté l’avait affecté à un hôtel construit au bord de la mer, au pied de la falaise de Sidi Bou Saïd. Nous habitions un logement de fonction, à quelques pas d’une plage qui allait occuper une place importante dans ma mémoire.
 
 La mer était si proche qu’on entendait les vagues sans jamais la voir. Son bruit nous parvenait selon le temps, tantôt discret, tantôt plus présent, comme si elle faisait elle aussi partie de la maison.
 
-Notre logement se trouvait dans une annexe de l’hôtel. Elle comptait deux étages et comprenait notamment des appartements pour le personnel, dont celui du directeur général. En bas, un grand atelier technique abritait le groupe électrogène.
+Notre logement se trouvait au rez-de-chaussée d’une annexe de l’hôtel. À ce même niveau, un grand atelier technique abritait le groupe électrogène. Le directeur général habitait à l’étage.
 
-Le logement initial était exigu pour notre famille nombreuse. Pour l’agrandir, mon père, excellent bricoleur, avait obtenu de la direction l’autorisation d’aménager cet atelier avec l’aide du service d’entretien. La maison avait ainsi grandi par étapes, au rythme de nos besoins : une extension, puis une cloison, puis une autre, chaque pièce ajoutée lorsqu’elle devenait nécessaire. Il avait également aménagé autour un petit jardin, garni surtout de fleurs et protégé par une haie de roseaux. Il arrosait, coupait les branches mortes, plantait, et nous l’aidions volontiers, surtout pour l’arrosage. Ce logement appartenait à l’hôtel, mais mon père en avait fait notre maison.
+L’espace était exigu pour notre famille nombreuse. Pour agrandir le logement, mon père, excellent bricoleur, avait obtenu de la direction l’autorisation d’aménager l’atelier avec l’aide du service d’entretien. 
+
+La maison avait ainsi grandi par étapes, au rythme de nos besoins : une extension, puis une cloison, puis une autre, chaque pièce ajoutée lorsqu’elle devenait nécessaire. Il avait également aménagé autour un petit jardin, garni surtout de fleurs et protégé par une haie de roseaux. Il arrosait, coupait les branches mortes, plantait, et nous l’aidions volontiers, surtout pour l’arrosage. Ce logement appartenait à l’hôtel, mais mon père en avait fait notre maison.
 
 Nous étions nombreux et je n’avais ni lit à moi ni véritable coin où m’isoler. Quand j’avais envie de lire ou simplement de rester seul, je sortais. Je montais sur la falaise jusqu’à un replat rocheux situé un peu au-dessous du sommet. J’y étais généralement tranquille. De là, je regardais le Bou Kornine et les bateaux qui traversaient le golfe. Je ne savais pas encore que je garderais longtemps cette habitude de chercher un endroit à l’écart.
 
@@ -63,7 +58,7 @@ Bien des années plus tard, l’hôtel a fermé en 2008. Il n’a pas disparu d�
 
 La maison où nous avions vécu a disparu elle aussi. Celle que mon père avait agrandie pièce après pièce, entourée de son petit jardin et de ses roseaux, n’est plus là. Quand j’y retourne aujourd’hui, j’essaie parfois d’en retrouver mentalement l’emplacement, comme si les murs pouvaient encore se dessiner sous ce qui les a remplacés.
 
-Au bord de la plage, le restaurant L’Amphitrite est toujours là, les pieds dans l’eau depuis plus de cinquante ans. Quelques palmiers élancés avec leurs troncs minces et rectilignes ont eux aussi survécu.
+Au bord de la plage, le restaurant L’Amphitrite est toujours là, les pieds dans l’eau depuis plus de cinquante ans. Quelques palmiers élancés avec leurs troncs minces et rectilignes ont eux aussi survécu. 
 
 Chaque fois que je les revois, le paysage autour d’eux me paraît différent. Eux sont encore là.
 
@@ -83,7 +78,7 @@ Sa meilleure imitation était celle du présentateur du bulletin d’information
 
 Lorsque le train quittait Carthage Hannibal en direction de Sidi Bou Saïd, le regard rencontrait en quelques instants plusieurs époques superposées. Il y avait les ruines sur la colline de Byrsa, où Carthage s’était élevée avant sa destruction par les Romains en 146 avant J.-C. La cité avait été incendiée après près de trois ans de siège, au terme de la troisième guerre punique. Venaient ensuite l’ancienne cathédrale Saint-Louis, édifiée sous le protectorat français, le lycée, puis le palais présidentiel de la jeune République. Au-delà de tout cela s’étendait la mer, indifférente aux empires comme aux régimes qui s’étaient succédé sur ses rives.
 
-Vers seize ans, je descendais souvent à Carthage Hannibal pour aller à la bibliothèque municipale. J’en repartais avec deux livres, jamais davantage, puisque c’était la règle. Parmi mes lectures de cette époque, Les Misérables, de Victor Hugo, et Germinal, d’Émile Zola, m’ont particulièrement marqué. Je commençais généralement à lire dans le train du retour, la tête appuyée contre la vitre, et il m’arrivait de ne plus faire attention aux stations.
+Vers seize ans, je descendais souvent à Carthage Hannibal pour aller à la bibliothèque municipale. J’en repartais avec deux livres, jamais davantage, puisque c’était la règle. Parmi mes lectures de cette époque, *Les Misérables*, de Victor Hugo, et *Germinal*, d’Émile Zola, m’ont particulièrement marqué. Je commençais généralement à lire dans le train du retour, la tête appuyée contre la vitre, et il m’arrivait de ne plus faire attention aux stations.
 
 Carthage Présidence annonçait normalement l’approche d’Amilcar. Je refermais alors mon livre et le rangeais dans mon cartable. Mais certains jours, trop absorbé par ma lecture, je dépassais ma station sans m’en rendre compte et ne relevais la tête qu’un peu plus tard.
 
@@ -99,7 +94,7 @@ Nous n’y habitions pas. À cette époque, nous vivions à Amilcar. Je venais �
 
 Dans les rues se mêlaient plusieurs langues. L’arabe tunisien, le français, le sicilien et le judéo-arabe pouvaient se croiser dans une même conversation. On passait naturellement d’une langue à l’autre, sans y penser, comme si la ville avait appris depuis longtemps à vivre ainsi. Les rires des terrasses, les cris des vendeurs sur la plage, les appels des marchands de fricassés et de bambalounis formaient une rumeur familière qui accompagnait les journées.
 
-Près de la Petite Sicile et de l’église, un kiosque proposait de nombreux journaux et magazines français. J’y achetais Je sais tout, un hebdomadaire illustré dont j’avais commencé à constituer une collection. C’est grâce à ses grandes bandes dessinées que j’ai découvert Michel-Ange et Léonard de Vinci.
+Près de la Petite Sicile et de l’église, un kiosque proposait de nombreux journaux et magazines français. J’y achetais *Je sais tout*, un hebdomadaire illustré dont j’avais commencé à constituer une collection. C’est grâce à ses grandes bandes dessinées que j’ai découvert Michel-Ange et Léonard de Vinci.
 
 L’avenue Franklin-Roosevelt, le Casino, le Café Vert et le restaurant Chez Bichi faisaient partie du décor. Je ne fréquentais pas ces établissements : j’étais trop jeune et je n’en avais pas les moyens. Je passais devant, par curiosité. Les tables occupaient les trottoirs jusque tard dans la soirée, entourées de familles, d’odeurs de friture et de conversations, tandis que l’été semblait prolonger les journées bien au-delà de l’heure habituelle.
 
@@ -131,11 +126,11 @@ Aller seul au cinéma, à cet âge, c’était disposer de deux heures pendant l
 
 Les salles étaient modestes. Je me souviens de l’odeur du cuir et des rideaux, de l’attente avant que les lumières ne s’éteignent et du bruit des bobines dans la cabine. Le public, lui, ne restait pas toujours silencieux. Il réagissait à voix haute aux scènes d’action, et davantage encore à certaines scènes intimes. Avant même que la première image apparaisse, une ambiance particulière s’installait, faite d’impatience, de murmures et de cette obscurité qui allait bientôt nous séparer du dehors.
 
-Le premier film qui m’a profondément marqué à cet âge fut, au Cinéma Théâtre, l’adaptation d’un roman que j’avais déjà lu : Le Grand Meaulnes. Je connaissais l’histoire, mais je l’ai reçue autrement sur l’écran. Les visages et les paysages donnaient au domaine perdu une présence que la lecture avait laissée à mon imagination. J’en suis sorti amoureux de Brigitte Fossey.
+Le premier film qui m’a profondément marqué à cet âge fut, au Cinéma Théâtre, l’adaptation d’un roman que j’avais déjà lu : *Le Grand Meaulnes*. Je connaissais l’histoire, mais je l’ai reçue autrement sur l’écran. Les visages et les paysages donnaient au domaine perdu une présence que la lecture avait laissée à mon imagination. J’en suis sorti amoureux de Brigitte Fossey.
 
 Je suis retourné voir le film une deuxième fois. Je voulais surtout mieux comprendre ce qui se jouait entre Augustin et le personnage qu’elle incarnait. Certains films continuaient ainsi bien après la séance : je repassais les scènes dans ma tête, je cherchais à retrouver une expression, parfois quelques notes de musique, comme si l’histoire n’avait pas complètement pris fin lorsque les lumières s’étaient rallumées.
 
-Puis il y a eu Il était une fois dans l’Ouest. Je ne savais pas vraiment ce que j’allais voir et je suis ressorti avec le sentiment d’avoir découvert autre chose qu’un simple western. L’écran large donnait aux paysages une ampleur que je n’avais encore jamais connue. Leone laissait durer les visages et les silences, accordant au temps une place qui me surprenait.
+Puis il y a eu *Il était une fois dans l’Ouest*. Je ne savais pas vraiment ce que j’allais voir et je suis ressorti avec le sentiment d’avoir découvert autre chose qu’un simple western. L’écran large donnait aux paysages une ampleur que je n’avais encore jamais connue. Leone laissait durer les visages et les silences, accordant au temps une place qui me surprenait.
 
 Il y avait aussi la musique de Morricone. Elle ne se contentait pas d’accompagner les images ; elle semblait parfois les précéder et les annoncer. Quelques notes suffisaient pour installer une scène avant même que l’on en comprenne tout le sens.
 
@@ -145,9 +140,9 @@ Ce soir-là, le film était long et les trains se faisaient rares. Je suis rentr
 
 Je me suis couché avec le sentiment d’avoir reçu une permission plutôt qu’un reproche. À partir de ce soir-là, le cinéma est devenu encore davantage un territoire qui m’appartenait.
 
-Plus tard, j’ai vu Un été 42. C’était presque le contraire d’Il était une fois dans l’Ouest : ni grands espaces ni souffle épique, mais un adolescent, une femme, un été et la découverte progressive de ce que les sentiments peuvent avoir de trouble.
+Plus tard, j’ai vu *Un été 42*. C’était presque le contraire d’*Il était une fois dans l’Ouest* : ni grands espaces ni souffle épique, mais un adolescent, une femme, un été et la découverte progressive de ce que les sentiments peuvent avoir de trouble. 
 
-J’ai continué à fréquenter les salles pendant des années, puis j’y suis allé moins souvent.
+J’ai continué à fréquenter les salles pendant des années, puis j’y suis allé moins souvent. 
 
 Bien plus tard, en passant devant le Rex, j’ai découvert qu’il avait fermé. J’en ai éprouvé de la tristesse, moins pour la salle elle-même que pour tout ce qu’elle avait contenu. Ce qui me revenait alors, ce n’était pas seulement tel ou tel film, mais l’atmosphère de la salle, le trajet pour y arriver et la sensation très particulière d’y entrer seul.
 
@@ -213,7 +208,7 @@ Un été, j’ai fait la connaissance d’un garçon italien dont la famille lou
 
 Sa sœur parlait français avec un accent italien qui donnait à ses phrases une musique particulière. Elle venait parfois me chercher pour jouer aux cartes et nous nous installions sur les marches devant notre maison. Nous jouions aux sept familles avec le plus grand sérieux.
 
-Un jour, elle a apporté un transistor qui tenait presque entièrement dans sa main. Nous étions assis près de la maison lorsque la voix de Françoise Hardy s’en est échappée. J’ai entendu Mon amie la rose. Le souvenir qui m’en reste n’est pas seulement celui de la chanson, mais aussi celui de cette gêne heureuse en sa présence.
+Un jour, elle a apporté un transistor qui tenait presque entièrement dans sa main. Nous étions assis près de la maison lorsque la voix de Françoise Hardy s’en est échappée. J’ai entendu *Mon amie la rose*. Le souvenir qui m’en reste n’est pas seulement celui de la chanson, mais aussi celui de cette gêne heureuse en sa présence.
 
 À la fin des vacances, elle a oublié le transistor chez nous. Je n’ai jamais su si cet oubli était volontaire, et je ne me souviens plus combien de temps je l’ai gardé.
 
@@ -229,7 +224,7 @@ Le contraste avec Amilcar était brutal. Là-bas, presque chaque endroit était 
 
 Je n’avais toujours pas de chambre à moi. Une petite pièce que nous appelions le bureau servait à la fois de bibliothèque et de lieu d’étude. Lorsque j’avais besoin de solitude, je sortais. Peu à peu, le cinéma et la bibliothèque Charles-de-Gaulle sont devenus mes refuges.
 
-À Tunis, j’ai découvert d’autres salles, ainsi que les maisons de culture Ibn Khaldoun et Ibn Rachiq, où l’on projetait des films d’auteur. J’y allais avec mon cousin, qui vivait chez nous comme un frère, et parfois avec un camarade de classe. La projection se prolongeait souvent par une discussion organisée par le ciné-club. Je me souviens particulièrement du soir où nous avons vu Que la bête meure, de Chabrol. Nous en avons parlé longtemps après la séance. Le cinéma n’était plus seulement cette solitude heureuse que j’avais connue adolescent ; il devenait aussi un lieu où l’on échangeait des idées.
+À Tunis, j’ai découvert d’autres salles, ainsi que les maisons de culture Ibn Khaldoun et Ibn Rachiq, où l’on projetait des films d’auteur. J’y allais avec mon cousin, qui vivait chez nous comme un frère, et parfois avec un camarade de classe. La projection se prolongeait souvent par une discussion organisée par le ciné-club. Je me souviens particulièrement du soir où nous avons vu *Que la bête meure*, de Chabrol. Nous en avons parlé longtemps après la séance. Le cinéma n’était plus seulement cette solitude heureuse que j’avais connue adolescent ; il devenait aussi un lieu où l’on échangeait des idées.
 
 Après le lycée de Carthage, j’ai fait ma terminale au lycée Alaoui, à Tunis. Il m’a fallu deux ans pour obtenir mon baccalauréat de mathématiques. Je ne m’étais jamais vraiment habitué à la vie du Passage, et cette période avait été plus difficile que les années précédentes.
 
@@ -243,7 +238,7 @@ C’est pendant cette période que j’ai connu une jeune femme. Entre nous, tou
 
 Environ trente-cinq ans plus tard, nous nous sommes retrouvés par hasard. Nous étions devenus deux personnes différentes, mais sa présence a fait revenir, pendant quelques instants, le jeune homme que j’avais été. Je n’ai pas cherché à renouer avec le passé. J’ai simplement été touché de retrouver quelqu’un qui avait compté dans ma jeunesse.
 
-Le soir, lorsque l’appartement devenait trop étroit pour mes pensées, la radio et les cassettes m’offraient un autre espace. J’écoutais beaucoup les Beatles et Bob Dylan, notamment Like a Rolling Stone. Je passais aussi souvent Diamonds & Rust, de Joan Baez. Il y avait Pink Floyd et The Dark Side of the Moon, sorti précisément l’année où nous nous étions installés au Passage, ainsi que Brel et Ne me quitte pas. Certaines chansons sont restées attachées à ces années au point qu’il me suffit encore aujourd’hui d’en entendre les premières notes pour que me reviennent l’appartement, la chaleur des soirs d’été et les fenêtres fermées sur le bruit de l’avenue.
+Le soir, lorsque l’appartement devenait trop étroit pour mes pensées, la radio et les cassettes m’offraient un autre espace. J’écoutais beaucoup les Beatles et Bob Dylan, notamment *Like a Rolling Stone*. Je passais aussi souvent *Diamonds & Rust*, de Joan Baez. Il y avait Pink Floyd et *The Dark Side of the Moon*, sorti précisément l’année où nous nous étions installés au Passage, ainsi que Brel et *Ne me quitte pas*. Certaines chansons sont restées attachées à ces années au point qu’il me suffit encore aujourd’hui d’en entendre les premières notes pour que me reviennent l’appartement, la chaleur des soirs d’été et les fenêtres fermées sur le bruit de l’avenue.
 
 Je suis resté sept ans au Passage sans jamais vraiment avoir le sentiment d’y être chez moi. Lorsque j’en suis parti, je ne l’ai pas regretté.
 
@@ -447,7 +442,7 @@ Il lui arrivait de me demander simplement : « Es-tu heureux ? » Elle ne posait
 
 D’autres soirs, nous regardions un film ou une série sur le divan. Elle aimait particulièrement les thrillers scandinaves. Elle venait alors se blottir contre moi, la tête posée sur mon épaule, et nous restions ainsi jusqu’à la fin.
 
-Quelques semaines avant sa mort, je lui ai proposé de regarder Perfect Days, de Wim Wenders. Pendant le film, elle m’a dit en souriant qu’elle comprenait pourquoi il m’avait plu. Elle trouvait que le personnage principal me ressemblait par son minimalisme et son détachement. Sur le moment, cette remarque m’a amusé. Aujourd’hui, il m’est difficile de revoir certaines scènes sans entendre sa voix.
+Quelques semaines avant sa mort, je lui ai proposé de regarder *Perfect Days*, de Wim Wenders. Pendant le film, elle m’a dit en souriant qu’elle comprenait pourquoi il m’avait plu. Elle trouvait que le personnage principal me ressemblait par son minimalisme et son détachement. Sur le moment, cette remarque m’a amusé. Aujourd’hui, il m’est difficile de revoir certaines scènes sans entendre sa voix.
 
 Nous faisions aussi de longs trajets en voiture, vers la côte ou dans la campagne. Elle plaisantait sur ma façon de conduire et me comparait à un pilote de Formule 1. Je protestais pour la forme, mais elle revenait régulièrement à cette comparaison.
 
@@ -639,7 +634,7 @@ Le matin, je m’attarde devant ma tasse encore chaude. Je n’ai plus besoin de
 
 Je lis davantage et j’écris beaucoup. J’alimente des blogs consacrés à la psychologie et aux comportements humains, et je travaille aussi à ces pages. L’écriture m’aide à remettre un peu d’ordre dans ce qui revient, à retrouver des souvenirs que je croyais perdus, mais je continue surtout parce que j’y prends plaisir.
 
-Il m’arrive également de revoir les films qui avaient compté autrefois. J’ai revu Que la bête meure, tant d’années après la première séance. Le film n’avait pas changé. C’était mon regard qui n’était plus le même. Au-delà de l’histoire de vengeance, j’ai découvert la finesse avec laquelle le film explore la psychologie des personnages.
+Il m’arrive également de revoir les films qui avaient compté autrefois. J’ai revu *Que la bête meure*, tant d’années après la première séance. Le film n’avait pas changé. C’était mon regard qui n’était plus le même. Au-delà de l’histoire de vengeance, j’ai découvert la finesse avec laquelle le film explore la psychologie des personnages.
 
 Je sors moins qu’avant. Certains jours, je prends un taxi pour aller au café Sidi Azizi, à Sidi Bou Saïd, avec un livre et mon bloc-notes. La mer et les livres m’ont accompagné à des âges très différents. Aujourd’hui encore, j’y reviens naturellement.
 
@@ -685,100 +680,100 @@ Je continue d’écrire.
 
 Les mots tunisiens et arabes sont transcrits selon leur prononciation. L’écriture arabe est indiquée ici, mais n’apparaît pas dans le corps du texte.
 
-Aïd el-Fitr (عيد الفطر) : fête qui marque la fin du mois de ramadan. Elle est à distinguer de l’Aïd el-Kébir, ou Aïd el-Adha (عيد الأضحى), fête du sacrifice célébrée un peu plus de deux mois plus tard.
+**Aïd el-Fitr (****عيد الفطر****) :** fête qui marque la fin du mois de ramadan. Elle est à distinguer de l’Aïd el-Kébir, ou Aïd el-Adha (عيد الأضحى), fête du sacrifice célébrée un peu plus de deux mois plus tard.
 
-Baklawa (بقلاوة) : pâtisserie composée de fines couches de pâte, garnies d’amandes ou de pistaches et imbibées de sirop.
+**Baklawa (****بقلاوة****) :** pâtisserie composée de fines couches de pâte, garnies d’amandes ou de pistaches et imbibées de sirop.
 
-Bambalouni (بمبالوني) : beignet tunisien en forme d’anneau, frit puis saupoudré de sucre, particulièrement associé à Sidi Bou Saïd.
+**Bambalouni (****بمبالوني****) :** beignet tunisien en forme d’anneau, frit puis saupoudré de sucre, particulièrement associé à Sidi Bou Saïd.
 
-Baraka (بركة) : bénédiction. Le mot peut aussi désigner ce qui fait qu’une chose suffit, réussit ou dure davantage que ce que l’on aurait attendu.
+**Baraka (****بركة****) :** bénédiction. Le mot peut aussi désigner ce qui fait qu’une chose suffit, réussit ou dure davantage que ce que l’on aurait attendu.
 
-Behi (باهي) : bien, d’accord, c’est entendu.
+**Behi (****باهي****) :** bien, d’accord, c’est entendu.
 
-Bikbachi (بكباشي) : grade militaire équivalent à celui de lieutenant-colonel. Ce titre était porté par Nasser au moment de la révolution égyptienne de 1952 et est longtemps resté attaché à son nom.
+**Bikbachi (****بكباشي****) :** grade militaire équivalent à celui de lieutenant-colonel. Ce titre était porté par Nasser au moment de la révolution égyptienne de 1952 et est longtemps resté attaché à son nom.
 
-Brik (بريك) : feuille de pâte fine repliée autour d’une garniture, le plus souvent un œuf, puis frite.
+**Brik (****بريك****) :** feuille de pâte fine repliée autour d’une garniture, le plus souvent un œuf, puis frite.
 
-Chicha (شيشة) : pipe à eau dans laquelle la fumée du tabac traverse un réservoir d’eau avant d’être aspirée. On la fume notamment dans les cafés, seul ou à plusieurs.
+**Chicha (****شيشة****) :** pipe à eau dans laquelle la fumée du tabac traverse un réservoir d’eau avant d’être aspirée. On la fume notamment dans les cafés, seul ou à plusieurs.
 
-Chorba (شربة) : soupe tunisienne préparée selon de nombreuses variantes, avec de la viande, du poulet ou du poisson, et souvent de petites pâtes ou du blé vert concassé, le frik. Elle est particulièrement consommée lors de la rupture du jeûne pendant le ramadan.
+**Chorba (****شربة****) :** soupe tunisienne préparée selon de nombreuses variantes, avec de la viande, du poulet ou du poisson, et souvent de petites pâtes ou du blé vert concassé, le frik. Elle est particulièrement consommée lors de la rupture du jeûne pendant le ramadan.
 
-Farq (فرق) : cérémonie organisée le troisième jour après un décès dans certaines traditions funéraires tunisiennes.
+**Farq (****فرق****) :** cérémonie organisée le troisième jour après un décès dans certaines traditions funéraires tunisiennes.
 
-Fricassé (فريكاسي) : petit pain frit, garni notamment de thon, de pommes de terre, d’œuf, d’olives et de harissa.
+**Fricassé (****فريكاسي****) :** petit pain frit, garni notamment de thon, de pommes de terre, d’œuf, d’olives et de harissa.
 
-Glibette (قلوب) : graine de tournesol ou de courge, grillée et salée.
+**Glibette (****قلوب****) :** graine de tournesol ou de courge, grillée et salée.
 
-Houna Loundoun (هنا لندن) : « Ici Londres ». Formule emblématique utilisée pour identifier la BBC en langue arabe.
+**Houna Loundoun (****هنا لندن****) :** « Ici Londres ». Formule emblématique utilisée pour identifier la BBC en langue arabe.
 
-Kaki (كاكي) : petit pain sec, salé et croquant, présenté notamment sous forme de bâtonnet, d’anneau ou de petites boulettes, et vendu, entre autres, par les marchands ambulants.
+**Kaki (****كاكي****) :** petit pain sec, salé et croquant, présenté notamment sous forme de bâtonnet, d’anneau ou de petites boulettes, et vendu, entre autres, par les marchands ambulants.
 
-Kefta (كفتة) : boulette ou galette frite préparée à partir de viande hachée, souvent mêlée de pomme de terre, de persil, d’oignon, d’œuf et de chapelure.
+**Kefta (****كفتة****) :** boulette ou galette frite préparée à partir de viande hachée, souvent mêlée de pomme de terre, de persil, d’oignon, d’œuf et de chapelure.
 
-Khamsa we khmis (خمسة وخميس) : formule populaire tunisienne prononcée pour écarter le mauvais œil.
+**Khamsa we khmis (****خمسة وخميس****) :** formule populaire tunisienne prononcée pour écarter le mauvais œil.
 
-Khira (خيرة) : la bonne, la vertueuse.
+**Khira (****خيرة****) :** la bonne, la vertueuse.
 
-Loubia (لوبية) : haricots blancs, ainsi que le plat préparé à partir de ces haricots.
+**Loubia (****لوبية****) :** haricots blancs, ainsi que le plat préparé à partir de ces haricots.
 
-Makroud (مقروض) : pâtisserie à base de semoule, généralement farcie de pâte de dattes parfumée à l’eau de fleur d’oranger. Elle est découpée en losanges, frite ou cuite au four, puis trempée dans du miel ou dans un sirop sucré.
+**Makroud (****مقروض****) :** pâtisserie à base de semoule, généralement farcie de pâte de dattes parfumée à l’eau de fleur d’oranger. Elle est découpée en losanges, frite ou cuite au four, puis trempée dans du miel ou dans un sirop sucré.
 
-Marqat loubia bel kaâber (مرقة لوبية بالكعابر) : ragoût de haricots blancs préparé avec des boulettes de viande.
+**Marqat loubia bel kaâber (****مرقة لوبية بالكعابر****) :** ragoût de haricots blancs préparé avec des boulettes de viande.
 
-Méchouia (مشوية) : salade tunisienne de poivrons, tomates, piments et souvent d’oignons grillés, puis épluchés, coupés finement et assaisonnés d’huile d’olive, parfois accompagnée de thon, d’œufs durs ou d’olives.
+**Méchouia (****مشوية****) :** salade tunisienne de poivrons, tomates, piments et souvent d’oignons grillés, puis épluchés, coupés finement et assaisonnés d’huile d’olive, parfois accompagnée de thon, d’œufs durs ou d’olives.
 
-Mida (ميدة) : table basse traditionnelle autour de laquelle la famille prend ses repas.
+**Mida (****ميدة****) :** table basse traditionnelle autour de laquelle la famille prend ses repas.
 
-Ommi (أمي) : littéralement « ma mère ». Le mot peut aussi être placé devant le prénom d’une femme comme marque de respect et d’affection.
+**Ommi (****أمي****) :** littéralement « ma mère ». Le mot peut aussi être placé devant le prénom d’une femme comme marque de respect et d’affection.
 
-Tayeb (طيب) : bon, bienveillant. Le mot est également employé comme prénom.
+**Tayeb (****طيب****) :** bon, bienveillant. Le mot est également employé comme prénom.
 
-Variantes : en Tunisie, mélange de légumes coupés et conservés au vinaigre ou en saumure, servi en accompagnement. Le terme arabe couramment employé est torchi (تورشي).
+**Variantes :** en Tunisie, mélange de légumes coupés et conservés au vinaigre ou en saumure, servi en accompagnement. Le terme arabe couramment employé est *torchi* (تورشي).
 
 ## Notes sur les lieux
 
-Amilcar. Quartier de Carthage situé sur le littoral de la banlieue nord de Tunis, à proximité de Sidi Bou Saïd et desservi par le TGM. Son nom évoque Hamilcar Barca, général carthaginois et père d’Hannibal. Le site était occupé par une briqueterie, dont la station voisine du TGM a d’abord porté le nom de la Briqueterie, puis celui d’Amilcar, aujourd’hui Carthage Amilcar. L’Amphitrite, restaurant installé les pieds dans l’eau, y est présent depuis plus de cinquante ans.
+**Amilcar.** Quartier de Carthage situé sur le littoral de la banlieue nord de Tunis, à proximité de Sidi Bou Saïd et desservi par le TGM. Son nom évoque Hamilcar Barca, général carthaginois et père d’Hannibal. Le site était occupé par une briqueterie, dont la station voisine du TGM a d’abord porté le nom de la Briqueterie, puis celui d’Amilcar, aujourd’hui Carthage Amilcar. L’Amphitrite, restaurant installé les pieds dans l’eau, y est présent depuis plus de cinquante ans.
 
-Bellevue. Quartier du sud de Tunis, situé dans la délégation d’El Ouardia et voisin de Montfleury. Son nom et une partie de son bâti remontent à l’époque du protectorat.
+**Bellevue.** Quartier du sud de Tunis, situé dans la délégation d’El Ouardia et voisin de Montfleury. Son nom et une partie de son bâti remontent à l’époque du protectorat.
 
-Le Belvédère. Plus grand parc de Tunis, aménagé à la fin du XIXe siècle sur près de cent dix hectares d’anciennes oliveraies, au nord de la ville. Il n’a été ouvert au public qu’en 1910. Un parc zoologique y a ensuite été créé dans les années soixante.
+**Le Belvédère.** Plus grand parc de Tunis, aménagé à la fin du XIXe siècle sur près de cent dix hectares d’anciennes oliveraies, au nord de la ville. Il n’a été ouvert au public qu’en 1910. Un parc zoologique y a ensuite été créé dans les années soixante.
 
-La bibliothèque Charles-de-Gaulle. Créée en 1957 au sein du lycée Carnot, d’abord comme salle de lecture, elle s’est progressivement ouverte à un public plus large. Elle a pris le nom de Charles-de-Gaulle en 1972 et est aujourd’hui la médiathèque de l’Institut français de Tunisie à Tunis.
+**La bibliothèque Charles-de-Gaulle.** Créée en 1957 au sein du lycée Carnot, d’abord comme salle de lecture, elle s’est progressivement ouverte à un public plus large. Elle a pris le nom de Charles-de-Gaulle en 1972 et est aujourd’hui la médiathèque de l’Institut français de Tunisie à Tunis.
 
-Le Bou Kornine. Montagne à deux sommets dominant Hammam-Lif, sur la rive sud du golfe de Tunis. Son nom signifie en arabe tunisien « celui aux deux cornes ».
+**Le Bou Kornine.** Montagne à deux sommets dominant Hammam-Lif, sur la rive sud du golfe de Tunis. Son nom signifie en arabe tunisien « celui aux deux cornes ».
 
-Byrsa. Colline de Carthage où se trouvait la citadelle punique, assiégée lors de la prise et de la destruction de la ville par Rome en 146 avant notre ère. Le site archéologique y côtoie aujourd’hui l’ancienne cathédrale Saint-Louis et le musée national de Carthage.
+**Byrsa.** Colline de Carthage où se trouvait la citadelle punique, assiégée lors de la prise et de la destruction de la ville par Rome en 146 avant notre ère. Le site archéologique y côtoie aujourd’hui l’ancienne cathédrale Saint-Louis et le musée national de Carthage.
 
-Le café des Nattes. Café situé au centre de Sidi Bou Saïd, appelé en arabe Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées. Paul Klee et August Macke y sont passés lors de leur voyage en Tunisie en 1914 ; Macke l’a représenté dans plusieurs œuvres.
+**Le café des Nattes.** Café situé au centre de Sidi Bou Saïd, appelé en arabe *Kahoua El Alia*, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées. Paul Klee et August Macke y sont passés lors de leur voyage en Tunisie en 1914 ; Macke l’a représenté dans plusieurs œuvres.
 
-Carthage. Cité fondée au IXe siècle avant notre ère. Une Carthage romaine fut ensuite établie sur ses ruines. Aujourd’hui, Carthage est une commune de la banlieue nord de Tunis dont le site archéologique s’étend jusqu’au littoral.
+**Carthage.** Cité fondée au IXe siècle avant notre ère. Une Carthage romaine fut ensuite établie sur ses ruines. Aujourd’hui, Carthage est une commune de la banlieue nord de Tunis dont le site archéologique s’étend jusqu’au littoral.
 
-El Hadika. Cité de Tunis située dans la délégation d’Ettahrir, à proximité de Rommana.
+**El Hadika.** Cité de Tunis située dans la délégation d’Ettahrir, à proximité de Rommana.
 
-El Manar. Cité établie sur les hauteurs nord de Tunis, développée à partir des années soixante-dix et divisée en trois ensembles. Le campus universitaire Farhat Hached y est installé, à la limite de Rommana.
+**El Manar.** Cité établie sur les hauteurs nord de Tunis, développée à partir des années soixante-dix et divisée en trois ensembles. Le campus universitaire Farhat Hached y est installé, à la limite de Rommana.
 
-Ghadamès. Ancienne ville-oasis du Sahara libyen, située près du point de rencontre des frontières de la Libye, de la Tunisie et de l’Algérie. Occupée depuis au moins la fin du premier millénaire avant notre ère par des populations autochtones, elle a conservé une culture et une langue amazighes, le ghadamsi. Son architecture traditionnelle, adaptée aux conditions du climat désertique, constitue un exemple remarquable d’habitat saharien. L’ancienne ville est inscrite sur la Liste du patrimoine mondial de l’UNESCO depuis 1986. Ghadamès fut également une étape importante du commerce caravanier transsaharien.
+**Ghadamès.** Ancienne ville-oasis du Sahara libyen, située près du point de rencontre des frontières de la Libye, de la Tunisie et de l’Algérie. Occupée depuis au moins la fin du premier millénaire avant notre ère par des populations autochtones, elle a conservé une culture et une langue amazighes, le ghadamsi. Son architecture traditionnelle, adaptée aux conditions du climat désertique, constitue un exemple remarquable d’habitat saharien. L’ancienne ville est inscrite sur la Liste du patrimoine mondial de l’UNESCO depuis 1986. Ghadamès fut également une étape importante du commerce caravanier transsaharien.
 
-La Goulette. Ville portuaire située à l’entrée du lac de Tunis. Le Café Vert y demeure un établissement emblématique, tandis que l’ancien Casino, autrefois très fréquenté, a fermé à la fin des années soixante-dix. Le restaurant Chez Bichi a changé de nom après la mort de son fondateur pour devenir Au Vert Galant, avant que cette enseigne ne disparaisse à son tour.
+**La Goulette.** Ville portuaire située à l’entrée du lac de Tunis. Le Café Vert y demeure un établissement emblématique, tandis que l’ancien Casino, autrefois très fréquenté, a fermé à la fin des années soixante-dix. Le restaurant Chez Bichi a changé de nom après la mort de son fondateur pour devenir Au Vert Galant, avant que cette enseigne ne disparaisse à son tour.
 
-L’Hôtel du Lac. Hôtel de Tunis ouvert en 1973 et longtemps considéré comme l’un des bâtiments les plus reconnaissables de la ville. Il a fermé au début des années 2000. Des travaux de démolition ont commencé en 2025.
+**L’Hôtel du Lac.** Hôtel de Tunis ouvert en 1973 et longtemps considéré comme l’un des bâtiments les plus reconnaissables de la ville. Il a fermé au début des années 2000. Des travaux de démolition ont commencé en 2025.
 
-Korsi Essolah. Nom donné aujourd’hui au long escalier de pierre qui descend de Sidi Bou Saïd vers le port et la plage.
+**Korsi Essolah.** Nom donné aujourd’hui au long escalier de pierre qui descend de Sidi Bou Saïd vers le port et la plage.
 
-Le lycée Alaoui. Établissement de Tunis comptant parmi les plus anciens du pays. Il est issu du collège Alaoui, fondé en 1884.
+**Le lycée Alaoui.** Établissement de Tunis comptant parmi les plus anciens du pays. Il est issu du collège Alaoui, fondé en 1884.
 
-Le lycée de Carthage. Établissement de la banlieue nord de Tunis, construit sur la colline située entre la baie et le site archéologique. Les travaux ont commencé en 1949 d’après les plans de l’architecte Jacques Marmey et se sont poursuivis au cours des années cinquante. Mis en service à la rentrée de 1950, le lycée a été inauguré le 16 octobre de la même année.
+**Le lycée de Carthage.** Établissement de la banlieue nord de Tunis, construit sur la colline située entre la baie et le site archéologique. Les travaux ont commencé en 1949 d’après les plans de l’architecte Jacques Marmey et se sont poursuivis au cours des années cinquante. Mis en service à la rentrée de 1950, le lycée a été inauguré le 16 octobre de la même année.
 
-La Maison Dorée. Ancien hôtel de Tunis ouvert en 1930, rue El Koufa. L’édifice conserve de grands volumes ainsi que des céramiques anciennes. Il a été acquis par la BIAT en vue de sa réhabilitation.
+**La Maison Dorée.** Ancien hôtel de Tunis ouvert en 1930, rue El Koufa. L’édifice conserve de grands volumes ainsi que des céramiques anciennes. Il a été acquis par la BIAT en vue de sa réhabilitation.
 
-La Marsa. Commune littorale de la banlieue nord de Tunis. La station La Marsa Plage constitue le terminus de la ligne du TGM.
+**La Marsa.** Commune littorale de la banlieue nord de Tunis. La station La Marsa Plage constitue le terminus de la ligne du TGM.
 
-Le Passage. Quartier de Tunis établi autour du carrefour qui marque l’entrée de l’avenue de la Liberté, où débouche l’avenue de Londres. Son nom vient d’un passage à niveau ferroviaire qui se trouvait autrefois à cet endroit, près de la gare. La place porte aujourd’hui le nom de place de la République, mais l’usage a conservé l’ancienne appellation.
+**Le Passage.** Quartier de Tunis établi autour du carrefour qui marque l’entrée de l’avenue de la Liberté, où débouche l’avenue de Londres. Son nom vient d’un passage à niveau ferroviaire qui se trouvait autrefois à cet endroit, près de la gare. La place porte aujourd’hui le nom de place de la République, mais l’usage a conservé l’ancienne appellation.
 
-Rommana. Cité de Tunis située dans la délégation d’El Omrane Supérieur, à proximité d’El Hadika.
+**Rommana.** Cité de Tunis située dans la délégation d’El Omrane Supérieur, à proximité d’El Hadika.
 
-Sainte-Monique. Colline de Carthage où les Franciscaines missionnaires de Marie ont autrefois tenu un couvent et un orphelinat. Le campus de l’Institut des hautes études commerciales de Carthage y est aujourd’hui installé et intègre l’ancienne chapelle ainsi que le couvent.
+**Sainte-Monique.** Colline de Carthage où les Franciscaines missionnaires de Marie ont autrefois tenu un couvent et un orphelinat. Le campus de l’Institut des hautes études commerciales de Carthage y est aujourd’hui installé et intègre l’ancienne chapelle ainsi que le couvent.
 
-Sidi Bou Saïd. Village perché sur les hauteurs dominant Carthage et le golfe de Tunis. Il porte le nom du saint soufi Abou Saïd Khalaf Ibn Yahya El Tamimi El Béji, mort en 1231. Le village a été inscrit sur la Liste du patrimoine mondial de l’UNESCO en 2026.
+**Sidi Bou Saïd.** Village perché sur les hauteurs dominant Carthage et le golfe de Tunis. Il porte le nom du saint soufi Abou Saïd Khalaf Ibn Yahya El Tamimi El Béji, mort en 1231. Le village a été inscrit sur la Liste du patrimoine mondial de l’UNESCO en 2026.
 
-Le TGM. Ligne ferroviaire de banlieue reliant Tunis à La Marsa en passant par La Goulette et Carthage. Son sigle vient de Tunis-Goulette-Marsa.
+**Le TGM.** Ligne ferroviaire de banlieue reliant Tunis à La Marsa en passant par La Goulette et Carthage. Son sigle vient de Tunis-Goulette-Marsa.
