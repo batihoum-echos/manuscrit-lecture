@@ -2,8 +2,7 @@
 
 ## Des lieux, des êtres et du temps qui passe
 
-> Édition personnelle provisoire, non destinée à la diffusion
-
+> Édition provisoire à usage privé.
 > Septembre 2026
 
 ## Note liminaire
