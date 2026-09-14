@@ -1,4 +1,4 @@
-# Note liminaire
+## Note liminaire
 
 Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
 
