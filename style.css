@@ -445,3 +445,139 @@ mark{background:transparent;color:var(--accent);text-decoration:underline;text-u
   .chapter-view{padding:0}
   .chapter-text{font-size:12pt}
 }
+
+
+/* =========================================================
+   ÉCHOS — Maquette 5 : édition numérique élégante
+   Surcouche visuelle uniquement : les IDs et comportements
+   de l'application existante sont conservés.
+   ========================================================= */
+
+body.edition-elegante {
+  background: #f4f1ea;
+}
+
+body.edition-elegante .topbar {
+  background: rgba(244, 241, 234, 0.94);
+  border-bottom: 1px solid rgba(35, 31, 28, 0.12);
+  backdrop-filter: blur(10px);
+}
+
+body.edition-elegante .brand,
+body.edition-elegante h1,
+body.edition-elegante h2,
+body.edition-elegante h3 {
+  letter-spacing: 0.01em;
+}
+
+body.edition-elegante .home {
+  min-height: calc(100vh - 64px);
+}
+
+body.edition-elegante .home-copy {
+  padding-top: 1.5rem;
+}
+
+body.edition-elegante .home-copy h1 {
+  font-size: clamp(2.8rem, 7vw, 5.4rem);
+  font-weight: 500;
+  line-height: 0.96;
+}
+
+body.edition-elegante .home-copy .subtitle {
+  max-width: 34rem;
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+body.edition-elegante .quote {
+  border-left-width: 1px;
+  padding-left: 1.25rem;
+  font-style: italic;
+}
+
+body.edition-elegante .primary-btn {
+  border-radius: 2px;
+  box-shadow: none;
+  letter-spacing: 0.03em;
+}
+
+body.edition-elegante .secondary-btn {
+  border-radius: 2px;
+}
+
+body.edition-elegante .cover-wrap {
+  box-shadow: 0 18px 45px rgba(30, 25, 20, 0.13);
+}
+
+body.edition-elegante .cover-wrap img {
+  display: block;
+}
+
+body.edition-elegante .reader {
+  max-width: 760px;
+}
+
+body.edition-elegante .reader-content {
+  font-size: 1.08rem;
+  line-height: 1.95;
+}
+
+body.edition-elegante .reader-content h1,
+body.edition-elegante .reader-content h2 {
+  font-weight: 500;
+  letter-spacing: 0.015em;
+}
+
+body.edition-elegante .reader-content p {
+  margin-bottom: 1.25em;
+}
+
+body.edition-elegante .chapter-nav {
+  border-top: 1px solid rgba(35, 31, 28, 0.13);
+}
+
+@media (max-width: 850px) {
+  body.edition-elegante .home {
+    min-height: auto;
+    padding-bottom: 3rem;
+  }
+
+  body.edition-elegante .home-copy {
+    padding-top: 0.5rem;
+  }
+
+  body.edition-elegante .home-copy h1 {
+    font-size: clamp(2.7rem, 15vw, 4.6rem);
+  }
+
+  body.edition-elegante .reader-content {
+    font-size: 1.04rem;
+    line-height: 1.9;
+  }
+}
+
+@media (max-width: 620px) {
+  body.edition-elegante .topbar {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  body.edition-elegante .home-copy h1 {
+    font-size: 3.4rem;
+  }
+
+  body.edition-elegante .quote {
+    margin-top: 1.5rem;
+  }
+}
+
+@media (max-width: 380px) {
+  body.edition-elegante .home-copy h1 {
+    font-size: 3rem;
+  }
+
+  body.edition-elegante .reader-content {
+    font-size: 1rem;
+  }
+}
