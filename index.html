@@ -4,18 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="description" content="ÉCHOS — Des lieux, des êtres et du temps qui passe.">
-  <meta name="theme-color" content="#f3efe6">
+  <meta name="theme-color" content="#f5f1e9">
   <title>ÉCHOS — Des lieux, des êtres et du temps qui passe</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="topbar">
-    <button id="menuBtn" class="menu-button" aria-label="Ouvrir le sommaire">
-      <span>☰</span>
-    </button>
+    <button id="menuBtn" class="menu-button" aria-label="Ouvrir le sommaire">☰</button>
 
     <button id="brandBtn" class="brand" aria-label="Retour à l’accueil">
-      <span class="brand-mark">É</span>
       <span class="brand-word">ÉCHOS</span>
     </button>
 
@@ -23,166 +20,97 @@
 
     <div class="top-actions">
       <button id="searchBtn" class="tool-btn" title="Rechercher" aria-label="Rechercher">⌕</button>
-      <button id="themeBtn" class="tool-btn" title="Changer de thème" aria-label="Changer de thème">◐</button>
       <button id="textMinus" class="tool-btn" title="Réduire le texte" aria-label="Réduire le texte">A−</button>
       <button id="textPlus" class="tool-btn" title="Agrandir le texte" aria-label="Agrandir le texte">A+</button>
+      <button id="themeBtn" class="tool-btn" title="Changer de thème" aria-label="Changer de thème">◐</button>
     </div>
   </header>
 
-  <div class="progress">
-    <div id="progressBar"></div>
-  </div>
+  <div class="progress"><div id="progressBar"></div></div>
 
   <aside id="sidebar" class="sidebar" aria-label="Sommaire">
     <div class="sidebar-head">
       <div>
-        <div class="eyebrow">LECTURE</div>
+        <div class="eyebrow">ÉCHOS</div>
         <h2>Sommaire</h2>
       </div>
-
       <button id="closeMenu" class="icon-btn" aria-label="Fermer le sommaire">×</button>
     </div>
-
     <div id="toc" class="toc"></div>
-
-    <div class="sidebar-foot">
-      Édition personnelle provisoire<br>
-      Septembre 2026
-    </div>
+    <div class="sidebar-foot">Édition personnelle provisoire<br>Septembre 2026</div>
   </aside>
 
   <div id="backdrop" class="backdrop hidden"></div>
 
   <main id="app" class="app-shell">
-
     <section id="homeView" class="home-view">
-      <div class="hero">
-
-        <div class="hero-cover-wrap">
-          <img
-            src="assets/cover.jpg"
-            class="hero-cover"
-            alt="Couverture originale d’ÉCHOS, avec les palmiers d’Amilcar et l’ancien hôtel"
-          >
+      <div class="home-inner">
+        <div class="home-cover-wrap">
+          <img src="assets/cover.jpg" class="hero-cover"
+               alt="Couverture originale d’ÉCHOS, avec les palmiers d’Amilcar et l’ancien hôtel">
         </div>
 
         <div class="hero-copy">
-
-          <div class="eyebrow">
-            MÉMOIRE · LIEUX · ÊTRES · TEMPS
-          </div>
-
+          <div class="eyebrow">MÉMOIRE · LIEUX · ÊTRES · TEMPS</div>
           <h1>ÉCHOS</h1>
-
-          <div class="subtitle">
-            Des lieux, des êtres et du temps qui passe
-          </div>
+          <div class="subtitle">Des lieux, des êtres et du temps qui passe</div>
 
           <div class="quote">
-            <span class="quote-bar"></span>
+            <span class="quote-bar" aria-hidden="true"></span>
             <div>
-              <p id="heroQuote"></p>
+              <p id="heroQuote">Ce qui survit à l’oubli ne reconstitue pas une existence. Cela en garde les échos.</p>
               <div class="quote-author">Bati</div>
             </div>
           </div>
 
           <div class="home-actions">
-
-            <button
-              id="startBtn"
-              class="primary-btn"
-              type="button"
-              onclick="openChapter(0)"
-            >
-              Commencer la lecture
-            </button>
-
-            <button id="resumeBtn" class="primary-btn">
-              Reprendre la lecture
-            </button>
-
-            <button id="tocHomeBtn" class="secondary-btn">
-              Voir le sommaire
-            </button>
-
+            <button id="resumeBtn" class="primary-btn">Commencer la lecture</button>
+            <button id="tocHomeBtn" class="secondary-btn">Voir le sommaire</button>
           </div>
 
-          <p class="edition-note">
-            Édition personnelle provisoire, non destinée à la diffusion · Septembre 2026
-          </p>
-
-          <p class="privacy-note">
-            Version de lecture privée par lien. Les moteurs de recherche sont invités à ne pas indexer ce site.
-          </p>
-
+          <p class="edition-note">Édition personnelle provisoire, non destinée à la diffusion · Septembre 2026</p>
+          <p class="privacy-note">Version de lecture privée par lien. Les moteurs de recherche sont invités à ne pas indexer ce site.</p>
         </div>
       </div>
 
       <section class="toc-grid-section">
-        <div class="toc-grid-lede">
-          Une lecture en trois mouvements : les lieux, les êtres, puis le temps.
-        </div>
-
+        <div class="toc-grid-lede">Une lecture en trois mouvements : les lieux, les êtres, puis le temps.</div>
         <div id="tocGrid" class="toc-grid"></div>
       </section>
     </section>
 
-
     <section id="chapterView" class="chapter-view hidden">
       <div class="chapter-column">
-
         <div class="section-label" id="chapterSection"></div>
-
         <h1 id="chapterTitle"></h1>
-
         <div class="reading-meta" id="chapterMeta"></div>
-
         <article id="chapterText" class="chapter-text"></article>
 
         <div class="chapter-nav">
-
           <button id="prevBtn" class="nav-card">
             <span class="nav-label">← PRÉCÉDENT</span>
             <strong id="prevTitle">—</strong>
           </button>
-
           <button id="nextBtn" class="nav-card nav-card-next">
             <span class="nav-label">SUIVANT →</span>
             <strong id="nextTitle">—</strong>
           </button>
-
         </div>
 
-        <footer class="reader-footer">
-          ÉCHOS · Bati · Septembre 2026
-        </footer>
-
+        <footer class="reader-footer">ÉCHOS · Bati · Septembre 2026</footer>
       </div>
     </section>
-
 
     <section id="searchView" class="search-view hidden">
       <div class="chapter-column narrow">
-
         <div class="section-label">RECHERCHE</div>
-
         <h1>Dans le manuscrit</h1>
-
-        <input
-          id="searchInput"
-          class="search-input"
-          type="search"
-          placeholder="Chercher un mot ou une expression…"
-          autocomplete="off"
-        >
-
+        <input id="searchInput" class="search-input" type="search"
+               placeholder="Chercher un mot ou une expression…" autocomplete="off">
         <div id="searchCount" class="search-count"></div>
-
         <div id="searchResults" class="search-results"></div>
-
       </div>
     </section>
-
   </main>
 
   <script src="app.js"></script>
