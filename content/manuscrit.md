@@ -30,9 +30,9 @@ Tout ne remonte pas à la surface. Ce qui revient, le temps l’a peut-être tra
 
 J’écris ce qui revient.
 
-## I. Les lieux
+# I. Les lieux
 
-Amilcar
+## Amilcar
 
 En 1966, notre famille s’est installée à Amilcar, où travaillait mon père. La société touristique qui l’avait recruté l’avait affecté à un hôtel construit au bord de la mer, au pied de la falaise de Sidi Bou Saïd. Nous habitions un logement de fonction, à quelques pas d’une plage qui allait occuper une place importante dans ma mémoire.
 
@@ -72,7 +72,7 @@ Au bord de la plage, le restaurant L’Amphitrite est toujours là, les pieds da
 
 Chaque fois que je les revois, le paysage autour d’eux me paraît différent. Eux sont encore là.
 
-Le TGM
+## Le TGM
 
 Son nom seul suffit encore à faire revenir les stations, les fenêtres, les secousses et ces paysages que l’on finissait par croire immuables tant on les voyait chaque jour. J’avais un abonnement scolaire et je faisais l’aller-retour entre Amilcar et La Goulette, où se trouvait mon collège.
 
@@ -96,7 +96,7 @@ Je descendais alors à Sidi Bou Saïd et je revenais à pied par la route.
 
 Je ne le vivais pas comme une contrariété. À cet âge, près d’un kilomètre de marche supplémentaire n’était pas vraiment du temps perdu.
 
-La Goulette
+## La Goulette
 
 C’est La Goulette à la fin de l’année scolaire, à l’approche de l’été, qui me revient d’abord en mémoire. Je l’entends et je la sens avant même de la revoir : le crépitement de l’huile bouillante dans laquelle on jetait le poisson frais et les fruits de mer, le grésillement des briks à l’œuf qui doraient dans les poêles et celui des grillades de viandes variées le long de l’avenue Franklin-Roosevelt. Il y avait aussi les sandwichs au thon, le complet poisson avec son œuf frit posé sur une montagne de frites accompagnée d’une salade méchouia, et les crèmes glacées qu’on mangeait en marchant. Ce n’était pas seulement l’odeur de la cuisine. C’était déjà l’été, et c’était La Goulette.
 
@@ -128,7 +128,7 @@ Ce qui nous paraissait naturel est devenu un souvenir. Je passe encore de temps 
 
 Ce sont surtout les langues qui me manquent.
 
-Les salles
+## Les salles
 
 J’avais treize ans quand j’ai commencé à aller seul au cinéma. Depuis Amilcar, il suffisait de quelques stations de TGM pour rejoindre le Rex ou le Cinéma Théâtre, et le trajet faisait déjà partie de la séance. Je partais sans prévenir. Personne ne m’accompagnait et personne ne m’attendait à la sortie.
 
@@ -158,7 +158,7 @@ Bien plus tard, en passant devant le Rex, j’ai découvert qu’il avait fermé
 
 Le cinéma fait toujours partie de ma vie. Grâce au streaming, j’ai retrouvé beaucoup des films qui m’avaient marqué. Je les revois avec plaisir, même si je garde la nostalgie des salles où je les ai découverts.
 
-Le lycée
+## Le lycée
 
 Le lycée de Carthage n’était qu’à une station d’Amilcar. J’y suis entré en 1969, à quinze ans. Le TGM m’y aurait conduit en quelques minutes, mais je préférais y aller à pied, seul, et le trajet me prenait environ une demi-heure.
 
@@ -186,7 +186,7 @@ Je regardais souvent cette voiture sans raison particulière. Au début des ann�
 
 Je n’y ai pas terminé ma scolarité. Lorsque j’ai quitté le lycée de Carthage, je ne savais pas encore que je reviendrais bien des années plus tard sur cette même colline, pour d’autres études.
 
-Les marches
+## Les marches
 
 Ma mère nous envoyait, mes frères et moi, faire des courses à Sidi Bou Saïd, le couffin au bras. Nous achetions des légumes, de la viande et parfois du lait en bouteille. Une partie de ces produits venait encore des derniers vergers et des petits élevages familiaux des environs. On remplissait le couffin selon les besoins du jour, jamais davantage.
 
@@ -202,7 +202,7 @@ Au pied des marches, le petit port vivait encore principalement au rythme des p�
 
 La descente était facile. Il m’arrivait aussi, plus rarement, de prendre cet escalier à l’aller, le couffin encore vide. La montée était une autre affaire : chaque marche finissait par se faire sentir dans les jambes. Heureusement, des paliers offraient une bonne raison de s’arrêter quelques instants.
 
-La plage
+## La plage
 
 Un pêcheur du voisinage gardait ses barques sur un petit terrain attenant à sa maison, entre deux collines. Il ramenait toutes sortes de poissons. L’un de ses fils, un peu plus âgé que moi, était un ami, et lorsque la famille avait besoin de bras, mes frères et moi allions volontiers les aider au petit matin.
 
@@ -224,7 +224,7 @@ Un jour, elle a apporté un transistor qui tenait presque entièrement dans sa m
 
 La chanson, elle, m’est restée.
 
-Le Passage
+## Le Passage
 
 J’avais dix-neuf ans lorsque nous avons quitté Amilcar, en 1973. Mon père venait d’être muté à Tunis, à l’Hôtel du Lac, alors nouvellement construit. Le poste était plus avantageux, notamment parce qu’il était mieux payé, et toute la famille a suivi.
 
@@ -256,7 +256,7 @@ Je n’avais d’ailleurs jamais cessé de retourner à Amilcar. Dès que je le 
 
 Mais, au fond, ce que je venais chercher était surtout la mer. Elle n’avait pas besoin de m’attendre ni de me reconnaître. Elle était là, presque semblable à elle-même, et c’était précisément ce que je lui demandais.
 
-Le café
+## Le café
 
 Certains matins, dans le demi-sommeil, une image ancienne revient avant même que je l’aie cherchée. La falaise d’Amilcar, par exemple, et la mer vue d’en haut. Puis j’entends ma cafetière italienne, et la journée commence.
 
@@ -284,9 +284,9 @@ Après la mort de mon épouse, je suis retourné au café. La terrasse était la
 
 Je n’ai pourtant jamais repris place à cette table. Depuis, j’en choisis une autre, un peu plus loin, et j’y vais moins souvent.
 
-## II. Les êtres
+# II. Les êtres
 
-Ma mère
+## Ma mère
 
 On l’appelait tous Ommi Khira. Elle tenait la maison, qui se remplissait de mes frères et sœurs, de cousins parfois lointains et de nos camarades de classe. On pouvait y manger à presque toute heure, et la table ne désemplissait jamais vraiment. Elle adorait être entourée de ses enfants et de ses petits-enfants, surtout les jours de fête.
 
@@ -312,7 +312,7 @@ Avec les années, ce sont surtout les choses simples qui me reviennent : sa fa�
 
 C’est peut-être cela qui me manque le plus aujourd’hui : sa présence dans la maison, et sa voix.
 
-Mon père
+## Mon père
 
 Mon père a travaillé dans l’hôtellerie pendant près d’un demi-siècle.
 
@@ -354,7 +354,7 @@ Avant sa mort, alors qu’il était en fauteuil roulant, j’avais retrouvé par
 
 Cela lui ressemblait.
 
-La fratrie
+## La fratrie
 
 Je suis l’aîné d’une famille nombreuse. Cette place ne me donnait pourtant aucune autorité particulière sur mes frères et mes sœurs.
 
@@ -388,7 +388,7 @@ Une de mes sœurs, qui vit à l’étranger, m’a proposé sa maison de vacance
 
 Des années ont passé depuis les repas autour de la mida, les chambres partagées et la maison pleine de voix. Nous vivons désormais chacun de notre côté. Pourtant, lorsque je pense à nous, je revois la main ouverte de ma mère.
 
-Mes enfants
+## Mes enfants
 
 J’ai longtemps cru qu’il fallait choisir entre assurer leur avenir et être davantage présent, entre travailler et les regarder grandir ; je n’ai pas toujours fait le bon choix.
 
@@ -428,7 +428,7 @@ Avec mon fils, les contacts sont moins réguliers, et cette distance me pèse pa
 
 Ceux que j’ai autrefois tenus par la main ont grandi et pris leur propre chemin. Et lorsque la vie m’a atteint à mon tour, ce sont eux qui sont venus me soutenir. Je leur en suis profondément reconnaissant.
 
-Mon épouse
+## Mon épouse
 
 Elle s’appelait Amel, un prénom qui signifie « espoir ». Nous nous sommes rencontrés en 2002, après ma séparation. Je n’envisageais pas de reconstruire une vie à deux. Avec elle, j’en ai retrouvé le désir, et avec lui, une confiance en la vie que je croyais avoir perdue. Nous nous sommes mariés deux ans plus tard.
 
@@ -486,9 +486,9 @@ Il reste aujourd’hui dans l’appartement quantité de choses qui portent enco
 
 Certains matins, lorsque je me réveille avant le jour, il m’arrive encore de croire entendre le cliquetis des cintres dans l’armoire. C’est le bruit qu’elle faisait en choisissant ses vêtements, pendant que j’étais encore au lit.
 
-## III. Le temps
+# III. Le temps
 
-La banque
+## La banque
 
 En 1978, j’ai été recruté par une banque commerciale. Le premier jour, je suis arrivé en costume et cravate, comme il convenait alors de le faire. On m’a confié des factures à vérifier. Je n’éprouvais aucune passion particulière pour ce travail ; j’étais surtout soulagé d’avoir trouvé un emploi.
 
@@ -530,7 +530,7 @@ En 2010, la possibilité d’une retraite anticipée s’est présentée. Je n�
 
 Le dernier jour, après avoir quitté définitivement la banque, je suis allé à Amilcar. J’étais encore en costume de travail lorsque je me suis retrouvé, au crépuscule, sur la plage de mon enfance.
 
-El Manar
+## El Manar
 
 En 2004, après notre mariage, Amel m’a rejoint à El Manar, dans l’appartement que j’avais loué l’année précédente.
 
@@ -560,7 +560,7 @@ Depuis sa disparition, l’appartement a peu changé. Beaucoup de choses occupen
 
 Aujourd’hui, j’y retrouve surtout ce qui n’est plus là. Partir me donnerait le sentiment d’abandonner une part de notre vie ; rester me ramène chaque jour à son absence. Je ne sais pas encore lequel de ces deux choix me sera le plus difficile. Je pense pourtant à partir.
 
-La mémoire
+## La mémoire
 
 Certaines photographies me troublent davantage que d’autres. Je reconnais les personnes, le lieu, parfois même les vêtements, mais je ne retrouve aucun souvenir précis du moment où la photo a été prise. C’est comme si l’image avait conservé une partie de ma vie à laquelle je n’avais plus directement accès.
 
@@ -594,7 +594,7 @@ Il me reste aussi deux tasses identiques que nous avions trouvées ensemble dans
 
 Je les ai gardées.
 
-Les séparations
+## Les séparations
 
 J’ai longtemps gardé le contact avec quelques amis, surtout ceux d’Amilcar et du lycée. Certains sont restés présents pendant des années, puis la vie a fini par nous éloigner sans que nous sachions exactement à quel moment cela s’était produit.
 
@@ -618,7 +618,7 @@ Pendant longtemps, je me suis dit que ces amitiés s’étaient éteintes d’el
 
 Il n’existe pas de cérémonie pour ce genre de perte. Personne ne présente de condoléances pour une amitié disparue.
 
-Le dépouillement
+## Le dépouillement
 
 Après la mort d’Amel, toutes ses affaires étaient encore là, à leur place, comme si leur simple présence pouvait prolonger un peu la vie qui avait été la nôtre.
 
@@ -638,7 +638,7 @@ La seconde est son classeur de recettes. Elle y rassemblait des coupures de maga
 
 Je ne le retrouve plus.
 
-L’âge
+## L’âge
 
 Le matin, je m’attarde devant ma tasse encore chaude. Je n’ai plus besoin de regarder l’heure comme autrefois. Un livre reste souvent ouvert près de moi et, sur le bloc-notes, une phrase attend, notée la veille au café.
 
@@ -668,7 +668,7 @@ Aujourd’hui, ma fille vient souvent me voir avec ma petite-fille. Lorsqu’ell
 
 Je souhaite surtout pouvoir rester disponible pour mes enfants et mes petits-enfants lorsqu’ils auront besoin de moi. Avec les années, les projets que l’on forme changent de nature. Ils n’ont plus forcément besoin d’être grands ni lointains pour avoir de l’importance.
 
-## Clôture
+# Clôture
 
 Je ne sais pas exactement ce que l’on laisse derrière soi. Peut-être moins les événements d’une vie que la manière dont on a regardé les lieux, accompagné les êtres et aimé ceux qui nous ont été proches.
 
