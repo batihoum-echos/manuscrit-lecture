@@ -4,7 +4,7 @@ Des lieux, des êtres et du temps qui passe
 
 Édition provisoire à usage privé.
 
-Septembre 2026
+Septembre 2
 
 ## Note liminaire
 
@@ -668,7 +668,7 @@ Aujourd’hui, ma fille vient souvent me voir avec ma petite-fille. Lorsqu’ell
 
 Je souhaite surtout pouvoir rester disponible pour mes enfants et mes petits-enfants lorsqu’ils auront besoin de moi. Avec les années, les projets que l’on forme changent de nature. Ils n’ont plus forcément besoin d’être grands ni lointains pour avoir de l’importance.
 
-# Clôture
+## Clôture
 
 Je ne sais pas exactement ce que l’on laisse derrière soi. Peut-être moins les événements d’une vie que la manière dont on a regardé les lieux, accompagné les êtres et aimé ceux qui nous ont été proches.
 
