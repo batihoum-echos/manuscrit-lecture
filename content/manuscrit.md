@@ -20,7 +20,6 @@ Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliq
 
 Bati
 
-Sommaire
 
 ## Ouverture
 
