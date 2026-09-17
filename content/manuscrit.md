@@ -20,6 +20,7 @@ Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliq
 
 Bati
 
+Sommaire
 
 ## Ouverture
 
@@ -619,23 +620,19 @@ Il n’existe pas de cérémonie pour ce genre de perte. Personne ne présente d
 
 ## Le dépouillement
 
-Après la mort d’Amel, toutes ses affaires étaient encore là, à leur place, comme si leur simple présence pouvait prolonger un peu la vie qui avait été la nôtre.
+Amel avait l’habitude de fréquenter les antiquaires et les marchés aux puces. Elle y achetait des gadgets, des objets rares et des antiquités pour décorer la maison. Elle constituait aussi des réserves d’épices, qu’elle rangeait soigneusement pour les retrouver lorsqu’elle en aurait besoin. Je ne m’immisçais jamais dans cette activité et je ne touchais pas à ses affaires. Je la voyais comme un loisir qui lui permettait de se détendre.
 
-Elle avait l’habitude d’acheter certaines choses pour plus tard. Elle préparait la maison avec l’idée que tout finirait un jour par servir : des vêtements, des objets, des réserves qu’elle rangeait soigneusement et qu’elle retrouverait lorsqu’elle en aurait besoin. Après sa disparition, tout cela m’est resté entre les mains.
+Après sa disparition, j’ai quitté l’appartement pour faire mon deuil et j’en ai confié les doubles des clés à des proches. Je n’y suis revenu qu’un an plus tard. À mon retour, tout cela m’est resté entre les mains. Ouvrir une armoire suffisait à faire revenir sa présence, mais la refermer sans rien déplacer me donnait aussi l’impression de préserver quelque chose.
 
-Pendant longtemps, je n’ai presque rien touché. Ouvrir une armoire suffisait à faire revenir sa présence, mais la refermer sans rien déplacer me donnait aussi l’impression de préserver quelque chose.
+Après bien des hésitations, j’ai commencé à me séparer de certains objets et de certains vêtements. Je ne pouvais pas tout garder indéfiniment. Les voir chaque jour devenait pénible, mais les sortir de la maison l’était tout autant. Chaque vêtement portait avec lui une image : une sortie, un repas, une visite, parfois seulement sa façon de le porter.
 
-Près d’un an plus tard, j’ai commencé à me séparer de certains de ses vêtements. Je ne pouvais pas les garder tous indéfiniment. Les voir chaque jour devenait pénible, mais les sortir de la maison l’était tout autant. Chaque vêtement portait avec lui une image : une sortie, un repas, une visite, parfois seulement sa façon de le porter.
+Peu à peu, j’ai presque tout donné à des personnes dans le besoin. Ce geste me paraissait raisonnable et juste, mais il me coûtait. M’en défaire me donnait parfois le sentiment absurde de la trahir, comme si je participais moi-même à l’effacement de ce qui restait d’elle dans la maison.
 
-Je savais pourtant que ces vêtements pouvaient encore être utiles. Peu à peu, j’ai presque tout donné à des personnes dans le besoin. Ce geste me paraissait raisonnable et juste, mais il me coûtait. M’en défaire me donnait parfois le sentiment absurde de la trahir, comme si je participais moi-même à l’effacement de ce qui restait d’elle dans la maison.
-
-Il y a deux choses dont je n’ai pas voulu me séparer.
-
-La première est un châle qu’elle portait souvent. Il est toujours plié dans une armoire.
+Il y a deux choses dont je n’ai pas voulu me séparer. La première est un châle qu’elle portait souvent.
 
 La seconde est son classeur de recettes. Elle y rassemblait des coupures de magazines qu’elle annotait à la main.
 
-Je ne le retrouve plus.
+Je ne les retrouve plus et je n’ai pas essayé de les chercher.
 
 ## L’âge
 
