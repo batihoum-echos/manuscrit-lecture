@@ -4,9 +4,9 @@ Des lieux, des êtres et du temps qui passe
 
 Édition provisoire à usage privé.
 
-Septembre 2
+Septembre 2026
 
-## Note liminaire
+# Note liminaire
 
 Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
 
@@ -22,7 +22,7 @@ Bati
 
 Sommaire
 
-## Ouverture
+# Ouverture
 
 Il suffit parfois de presque rien pour que le passé revienne : un écho rappelle un lieu, un lieu fait renaître la présence d’un être et, avec elle, toute une époque que l’on croyait enfouie.
 
@@ -104,7 +104,7 @@ Nous n’y habitions pas. À cette époque, nous vivions à Amilcar. Je venais �
 
 Dans les rues se mêlaient plusieurs langues. L’arabe tunisien, le français, le sicilien et le judéo-arabe pouvaient se croiser dans une même conversation. On passait naturellement d’une langue à l’autre, sans y penser, comme si la ville avait appris depuis longtemps à vivre ainsi. Les rires des terrasses, les cris des vendeurs sur la plage, les appels des marchands de fricassés et de bambalounis formaient une rumeur familière qui accompagnait les journées.
 
-Près de la Petite Sicile et de l’église, un kiosque proposait de nombreux journaux et magazines français. J’y achetais Je sais tout, un hebdomadaire illustré dont j’avais commencé à constituer une collection. C’est grâce à ses grandes bandes dessinées que j’ai découvert Michel-Ange et Léonard de Vinci.
+Près de la Petite Sicile et de l’église, un kiosque proposait de nombreux journaux et magazines français. J’y achetais Je sais tout, un magazine illustré dont j’avais commencé à constituer une collection. C’est grâce à ses grandes bandes dessinées que j’ai découvert Michel-Ange et Léonard de Vinci.
 
 L’avenue Franklin-Roosevelt, le Casino, le Café Vert et le restaurant Chez Bichi faisaient partie du décor. Je ne fréquentais pas ces établissements : j’étais trop jeune et je n’en avais pas les moyens. Je passais devant, par curiosité. Les tables occupaient les trottoirs jusque tard dans la soirée, entourées de familles, d’odeurs de friture et de conversations, tandis que l’été semblait prolonger les journées bien au-delà de l’heure habituelle.
 
@@ -198,7 +198,7 @@ Il commençait dans une ruelle, à quelques mètres du café des Nattes. Tout pr
 
 L’escalier était bordé d’agaves et de figuiers de Barbarie, dont les fruits apparaissaient le long du chemin. Par endroits, un petit muret blanc protégeait le passage. À mesure que je descendais, le bruit de la mer devenait plus présent, comme s’il montait à ma rencontre.
 
-Au pied des marches, le petit port vivait encore principalement au rythme des pêcheurs. Je passais devant sans m’arrêter longtemps. Plus tard est venu le club nautique, puis les bateaux de plaisance ont peu à peu pris la place des barques que j’avais connues.
+Au pied des marches, le petit port vivait encore principalement au rythme des pêcheurs. Je passais devant sans m’arrêter longtemps. Plus tard, les bateaux de plaisance ont peu à peu pris la place des barques que j’avais connues.
 
 La descente était facile. Il m’arrivait aussi, plus rarement, de prendre cet escalier à l’aller, le couffin encore vide. La montée était une autre affaire : chaque marche finissait par se faire sentir dans les jambes. Heureusement, des paliers offraient une bonne raison de s’arrêter quelques instants.
 
@@ -314,7 +314,7 @@ C’est peut-être cela qui me manque le plus aujourd’hui : sa présence dans
 
 ## Mon père
 
-Mon père a travaillé dans l’hôtellerie pendant près d’un demi-siècle.
+Mon père a travaillé dans l’hôtellerie pendant plus d’un demi-siècle.
 
 Il avait commencé très jeune, vers quatorze ans, dans un hôtel de tourisme saharien à Ghadamès, avant de partir travailler à Tripoli. Lorsque je l’entendais raconter ces années, j’y voyais surtout les péripéties d’une vie lointaine. Aujourd’hui, je pense davantage à l’adolescent qu’il était et à ce que cela signifiait, pour lui, de partir travailler si tôt, loin des siens.
 
@@ -426,7 +426,7 @@ Avec mon fils, les contacts sont moins réguliers, et cette distance me pèse pa
 
 À la mort de mon épouse, il était là. Je me souviens de la manière dont il a essayé de me consoler et de l’aide qu’il m’a apportée pour les obsèques.
 
-Ceux que j’ai autrefois tenus par la main ont grandi et pris leur propre chemin. Et lorsque la vie m’a atteint à mon tour, ce sont eux qui sont venus me soutenir. Je leur en suis profondément reconnaissant.
+Ceux que j’ai autrefois tenus par la main ont grandi et pris leur propre chemin. Et lorsque la vie m’a atteint à mon tour, ce sont eux qui sont venus me soutenir. Je ne l’oublie pas.
 
 ## Mon épouse
 
@@ -520,11 +520,11 @@ Je me réveillais à l’aube. J’achetais un croissant encore chaud à la pât
 
 Peu à peu, les deux chichas quotidiennes étaient devenues nécessaires. Je prenais aussi des anxiolytiques et des antidépresseurs.
 
-Après ma séparation et avant de rencontrer Amel, j’ai connu d’autres femmes, mais aucune de ces relations n’a duré.  Amel venait parfois au studio. Elle m’apportait à manger et restait avec moi quelque temps. Elle n’avait pas la clé, détail qui disait peut-être à lui seul que ce lieu demeurait encore entièrement le mien.
+Après ma séparation, j’ai connu d’autres femmes, mais aucune de ces relations n’a duré. Amel venait parfois au studio. Elle m’apportait à manger et restait avec moi quelque temps. Elle n’avait pas la clé, détail qui disait peut-être à lui seul que ce lieu demeurait encore entièrement le mien.
 
 En 2003, alors que j’y vivais toujours, mon père est mort. Jusqu’alors, ce studio avait représenté une solitude choisie et une liberté nouvelle. Après sa mort, le silence du soir n’avait plus tout à fait le même sens.
 
-J’ai quitté le studio en novembre de la même année, avec regret. Je ne savais pas encore ce que serait la suite, mais je garde de cette année solitaire le souvenir d’une liberté provisoire.
+J’ai quitté le studio en novembre de la même année, avec regret. J’ignorais ce que serait la suite, mais je garde de cette année solitaire le souvenir d’une liberté provisoire.
 
 En 2010, la possibilité d’une retraite anticipée s’est présentée. Je n’ai pas hésité. Je suis parti quatre ans avant l’âge prévu, sans regret pour le métier. Je quittais une activité à laquelle j’avais pourtant consacré plus de trente ans et qui avait parfois pris trop de place dans ma vie.
 
@@ -556,7 +556,7 @@ Nous avions parfois parlé d’un autre avenir. Amel envisageait de revendre l�
 
 Ce projet est resté à l’état de conversation.
 
-Depuis sa disparition, l’appartement a peu changé. Beaucoup de choses occupent encore exactement la même place. Pourtant, je ne le regarde plus de la même manière. Il m’est devenu difficile de passer du temps sur le balcon, où nous prenions le café ou le thé et parlions longuement. J’éprouve la même difficulté dans les autres pièces, pour des raisons différentes.
+J’en suis resté absent une année entière. Depuis sa disparition, l’appartement a peu changé. Beaucoup de choses occupent encore exactement la même place. Pourtant, je ne le regarde plus de la même manière. Il m’est devenu difficile de passer du temps sur le balcon, où nous prenions le café ou le thé et parlions longuement. J’éprouve la même difficulté dans les autres pièces, pour des raisons différentes.
 
 Aujourd’hui, j’y retrouve surtout ce qui n’est plus là. Partir me donnerait le sentiment d’abandonner une part de notre vie ; rester me ramène chaque jour à son absence. Je ne sais pas encore lequel de ces deux choix me sera le plus difficile. Je pense pourtant à partir.
 
@@ -602,7 +602,7 @@ Le garçon italien et sa sœur revenaient chaque été dans la maison située en
 
 Puis, un été, ils ne sont pas revenus.
 
-Pour d’autres, c’était l’inverse : ils étaient restés à Amilcar et c’est moi qui étais parti. Il y avait le jeune batteur de l’orchestre, qui descendait jouer au football avec nous, et le fils du pêcheur que j’allais aider au petit matin. En 1973, lorsque nous avons quitté Amilcar pour Tunis, je ne me souviens pas de leur avoir véritablement dit au revoir. Sans doute pensions-nous tous que nous nous reverrions.
+Pour d’autres, c’était l’inverse : ils étaient restés à Amilcar et c’est moi qui étais parti. Il y avait le jeune batteur de l’orchestre et le fils du pêcheur que j’allais aider au petit matin. En 1973, lorsque nous avons quitté Amilcar pour Tunis, je ne me souviens pas de leur avoir véritablement dit au revoir. Sans doute pensions-nous tous que nous nous reverrions.
 
 Je suis pourtant retourné souvent à Amilcar, mais je ne les ai jamais retrouvés.
 
@@ -642,7 +642,7 @@ Je lis davantage et j’écris beaucoup. J’alimente des blogs consacrés à la
 
 Il m’arrive également de revoir les films qui avaient compté autrefois. J’ai revu Que la bête meure, tant d’années après la première séance. Le film n’avait pas changé. C’était mon regard qui n’était plus le même. Au-delà de l’histoire de vengeance, j’ai découvert la finesse avec laquelle le film explore la psychologie des personnages.
 
-Je sors moins qu’avant. Certains jours, je prends un taxi pour aller au café Sidi Azizi, à Sidi Bou Saïd, avec un livre et mon bloc-notes. La mer et les livres m’ont accompagné à des âges très différents. Aujourd’hui encore, j’y reviens naturellement.
+Je sors moins qu’avant. Certains jours, je prends un taxi pour retourner au café Sidi Azizi, avec un livre et mon bloc-notes. La mer et les livres m’ont accompagné à des âges très différents. Aujourd’hui encore, j’y reviens naturellement.
 
 Mes journées sont plus silencieuses. Je les organise désormais à ma manière, et cette liberté m’est précieuse. J’ai toujours recherché la solitude par moments ; elle m’est aujourd’hui plus nécessaire. Je ne la vis pas comme un retrait, mais comme une façon de retrouver mon propre rythme.
 
@@ -664,7 +664,7 @@ Aujourd’hui, ma fille vient souvent me voir avec ma petite-fille. Lorsqu’ell
 
 Je souhaite surtout pouvoir rester disponible pour mes enfants et mes petits-enfants lorsqu’ils auront besoin de moi. Avec les années, les projets que l’on forme changent de nature. Ils n’ont plus forcément besoin d’être grands ni lointains pour avoir de l’importance.
 
-## Clôture
+# Clôture
 
 Je ne sais pas exactement ce que l’on laisse derrière soi. Peut-être moins les événements d’une vie que la manière dont on a regardé les lieux, accompagné les êtres et aimé ceux qui nous ont été proches.
 
@@ -678,13 +678,15 @@ Ils resteront sans doute après moi.
 
 Je continue d’écrire.
 
-Annexes
+# Annexes
 
 ## Glossaire
 
 Les mots tunisiens et arabes sont transcrits selon leur prononciation. L’écriture arabe est indiquée ici, mais n’apparaît pas dans le corps du texte.
 
 Aïd el-Fitr (عيد الفطر) : fête qui marque la fin du mois de ramadan. Elle est à distinguer de l’Aïd el-Kébir, ou Aïd el-Adha (عيد الأضحى), fête du sacrifice célébrée un peu plus de deux mois plus tard.
+
+Amel (أمل) : espoir. Le mot est également employé comme prénom.
 
 Baklawa (بقلاوة) : pâtisserie composée de fines couches de pâte, garnies d’amandes ou de pistaches et imbibées de sirop.
 
@@ -701,6 +703,8 @@ Brik (بريك) : feuille de pâte fine repliée autour d’une garniture, le p
 Chicha (شيشة) : pipe à eau dans laquelle la fumée du tabac traverse un réservoir d’eau avant d’être aspirée. On la fume notamment dans les cafés, seul ou à plusieurs.
 
 Chorba (شربة) : soupe tunisienne préparée selon de nombreuses variantes, avec de la viande, du poulet ou du poisson, et souvent de petites pâtes ou des céréales concassées, comme l’orge ou le blé. Elle est particulièrement consommée lors de la rupture du jeûne pendant le ramadan.
+
+Complet poisson : assiette composée de poisson, de frites, d’un œuf frit et d’une salade méchouia.
 
 Farq (فرق) : cérémonie organisée le troisième jour après un décès dans certaines traditions funéraires tunisiennes.
 
@@ -730,6 +734,8 @@ Mida (ميدة) : table basse traditionnelle autour de laquelle la famille pren
 
 Ommi (أمي) : littéralement « ma mère ». Le mot peut aussi être placé devant le prénom d’une femme comme marque de respect et d’affection.
 
+Tanit (تانيت) : principale divinité de Carthage, dont le signe, un triangle surmonté d’une barre et d’un disque, est devenu un motif décoratif répandu en Tunisie.
+
 Tayeb (طيب) : bon, bienveillant. Le mot est également employé comme prénom.
 
 Variantes : en Tunisie, mélange de légumes coupés et conservés au vinaigre ou en saumure, servi en accompagnement. Le terme arabe couramment employé est torchi (تورشي).
@@ -748,7 +754,9 @@ Le Bou Kornine. Montagne à deux sommets dominant Hammam-Lif, sur la rive sud du
 
 Byrsa. Colline de Carthage où se trouvait la citadelle punique, assiégée lors de la prise et de la destruction de la ville par Rome en 146 avant notre ère. Le site archéologique y côtoie aujourd’hui l’ancienne cathédrale Saint-Louis et le musée national de Carthage.
 
-Le café des Nattes. Café situé au centre de Sidi Bou Saïd, appelé en arabe Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées. Paul Klee et August Macke y sont passés lors de leur voyage en Tunisie en 1914 ; Macke l’a représenté dans plusieurs œuvres.
+Le café des Nattes. Café situé au centre de Sidi Bou Saïd, appelé en arabe Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées. Paul Klee et August Macke y sont passés lors de leur voyage en Tunisie en 1914 ; Macke a peint plusieurs vues de Sidi Bou Saïd.
+
+Le café Sidi Azizi. Café de Sidi Bou Saïd dont la terrasse fait face à la colline de Byrsa.
 
 Carthage. Cité fondée au IXe siècle avant notre ère. Une Carthage romaine fut ensuite établie sur ses ruines. Aujourd’hui, Carthage est une commune de la banlieue nord de Tunis dont le site archéologique s’étend jusqu’au littoral.
 
@@ -760,7 +768,7 @@ Ghadamès. Ancienne ville-oasis du Sahara libyen, située près du point de renc
 
 La Goulette. Ville portuaire située à l’entrée du lac de Tunis. Le Café Vert y demeure un établissement emblématique, tandis que l’ancien Casino, autrefois très fréquenté, a fermé à la fin des années soixante-dix. Le restaurant Chez Bichi a changé de nom après la mort de son fondateur pour devenir Au Vert Galant, avant que cette enseigne ne disparaisse à son tour.
 
-L’Hôtel du Lac. Hôtel de Tunis ouvert en 1973 et longtemps considéré comme l’un des bâtiments les plus reconnaissables de la ville. Il a fermé au début des années 2000. Des travaux de démolition ont commencé en 2025.
+L’Hôtel du Lac. Hôtel de Tunis ouvert en 1973 et longtemps considéré comme l’un des bâtiments les plus reconnaissables de la ville. Il a fermé en 2000. Des travaux de démolition ont commencé en 2025.
 
 Korsi Essolah. Nom donné aujourd’hui au long escalier de pierre qui descend de Sidi Bou Saïd vers le port et la plage.
 
@@ -768,13 +776,17 @@ Le lycée Alaoui. Établissement de Tunis comptant parmi les plus anciens du pay
 
 Le lycée de Carthage. Établissement de la banlieue nord de Tunis, construit sur la colline située entre la baie et le site archéologique. Les travaux ont commencé en 1949 d’après les plans de l’architecte Jacques Marmey et se sont poursuivis au cours des années cinquante. Mis en service à la rentrée de 1950, le lycée a été inauguré le 16 octobre de la même année.
 
-La Maison Dorée. Ancien hôtel de Tunis ouvert en 1930, rue El Koufa. L’édifice conserve de grands volumes ainsi que des céramiques anciennes. Il a été acquis par la BIAT en vue de sa réhabilitation.
+La Maison Dorée. Ancien hôtel de Tunis, à l’angle de la rue de Hollande et de la rue El Koufa. L’édifice conserve de grands volumes ainsi que des céramiques anciennes.
 
 La Marsa. Commune littorale de la banlieue nord de Tunis. La station La Marsa Plage constitue le terminus de la ligne du TGM.
 
 Le Passage. Quartier de Tunis établi autour du carrefour qui marque l’entrée de l’avenue de la Liberté, où débouche l’avenue de Londres. Son nom vient d’un passage à niveau ferroviaire qui se trouvait autrefois à cet endroit, près de la gare. La place porte aujourd’hui le nom de place de la République, mais l’usage a conservé l’ancienne appellation.
 
+La Petite Sicile. Quartier de La Goulette où s’était établie la communauté d’origine sicilienne. La procession du 15 août y était consacrée à la Madone de Trapani, dévotion venue de Sicile.
+
 Rommana. Cité de Tunis située dans la délégation d’El Omrane Supérieur, à proximité d’El Hadika.
+
+Le Saf Saf. Café et restaurant de La Marsa établi autour d’un ancien puits à noria.
 
 Sainte-Monique. Colline de Carthage où les Franciscaines missionnaires de Marie ont autrefois tenu un couvent et un orphelinat. Le campus de l’Institut des hautes études commerciales de Carthage (IHEC) y est aujourd’hui installé et intègre l’ancienne chapelle ainsi que le couvent.
 
