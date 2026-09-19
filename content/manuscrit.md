@@ -2,7 +2,7 @@
 
 Des lieux, des êtres et du temps qui passe
 
-Édition provisoire à usage privé.
+Édition à usage privé.
 
 Septembre 2026
 
@@ -118,7 +118,7 @@ Les maisons étaient blanches, avec des volets bleu ciel ou vert pastel. Les apr
 
 En fin d’après-midi, les femmes s’installaient souvent sur les trottoirs, décortiquaient des glibettes et surveillaient la rue. Lorsque passaient de jeunes baigneuses bronzées, légèrement vêtues, l’une d’elles lançait parfois, sans même élever la voix : « Khamsa we khmis. » La formule, destinée à écarter le mauvais œil, prenait alors un autre sens que tout le monde comprenait : un peu de réprobation, peut-être un peu d’envie, et surtout le plaisir de la prononcer assez fort pour être entendue. Les jeunes filles continuaient leur chemin sans se retourner, tandis que le rire restait du côté du trottoir.
 
-Le 15 août, la procession de la Madone de Trapani comptait parmi les grandes fêtes de l’été. Je l’ai suivie une fois, seul, par curiosité, en restant un peu à distance. Je me souviens de la statue portée dans les rues, des vêtements des hommes qui la soutenaient, des cloches et du cortège qui avançait vers la plage. Pour moi, cette fête n’avait rien d’étranger à La Goulette. Qu’elle soit chrétienne ne changeait rien : elle appartenait à la ville, et chacun pouvait venir la regarder.
+La procession du 15 août, consacrée à la Madone de Trapani, avait longtemps compté parmi les grandes fêtes de La Goulette. Des habitants de différentes confessions se joignaient à cette célébration chrétienne, qui faisait partie de la vie de la ville.
 
 Cette coexistence ne signifiait pas que les communautés se confondaient. Les familles se parlaient dans la rue et sur les trottoirs, mais les mariages se faisaient le plus souvent au sein de chaque communauté. Chacun savait qui était qui, et cela n’empêchait pas de vivre côte à côte.
 
@@ -260,7 +260,7 @@ Mais, au fond, ce que je venais chercher était surtout la mer. Elle était là,
 
 Certains matins, dans le demi-sommeil, une image ancienne revient avant même que je l’aie cherchée. La falaise d’Amilcar, par exemple, et la mer vue d’en haut. Puis j’entends ma cafetière italienne, et la journée commence.
 
-Un peu plus tard dans la journée, je vais au café Sidi Azizi, à Sidi Bou Saïd, avec mon porte-documents et un livre, jamais sans mon bloc-notes. La terrasse fait face à Carthage, plus précisément à la colline de Byrsa, et l’on peut y regarder le soleil descendre lentement sur le paysage. Pendant longtemps, j’ai cru que j’y cherchais seulement une table, un café et un peu de silence. Avec le temps, j’ai compris que j’y revenais surtout pour retrouver une solitude heureuse, devenue une forme de compagnie.
+Un peu plus tard dans la journée, il m’arrive d’aller au café Sidi Azizi, à Sidi Bou Saïd, avec mon porte-documents et un livre, jamais sans mon bloc-notes. La terrasse fait face à Carthage, plus précisément à la colline de Byrsa, et l’on peut y regarder le soleil descendre lentement sur le paysage. Pendant longtemps, j’ai cru que j’y cherchais seulement une table, un café et un peu de silence. Avec le temps, j’ai compris que j’y revenais surtout pour retrouver une solitude heureuse, devenue une forme de compagnie.
 
 Pendant de nombreuses années, j’ai retrouvé le même serveur. Il connaissait mes habitudes. À peine installé, je n’avais généralement rien à demander : il savait que je prendrais un café turc et une chicha. Si je voulais autre chose, c’était à moi de le prévenir.
 
@@ -556,7 +556,7 @@ Nous avions parfois parlé d’un autre avenir. Amel envisageait de revendre l�
 
 Ce projet est resté à l’état de conversation.
 
-Après la mort d’Amel, je suis resté absent de l’appartement une année entière. Il a peu changé depuis. Les meubles occupent encore la même place. Pourtant, je ne le regarde plus de la même manière. Il m’est devenu difficile de passer du temps sur le balcon, où nous prenions le café ou le thé et parlions longuement. J’éprouve la même difficulté dans les autres pièces, pour des raisons différentes.
+L’appartement a peu changé. Les meubles occupent encore la même place. Pourtant, je ne le regarde plus de la même manière. Il m’est devenu difficile de passer du temps sur le balcon, où nous prenions le café ou le thé et parlions longuement. J’éprouve la même difficulté dans les autres pièces, pour des raisons différentes.
 
 Aujourd’hui, j’y retrouve surtout ce qui n’est plus là. Partir me donnerait le sentiment d’abandonner une part de notre vie ; rester me ramène chaque jour à son absence. Je ne sais pas encore lequel de ces deux choix me sera le plus difficile. Je pense pourtant à partir.
 
@@ -628,7 +628,7 @@ Après bien des hésitations, j’ai commencé à me séparer de ses vêtements.
 
 Peu à peu, j’ai donné presque tous ses vêtements à des personnes dans le besoin. Ce geste me paraissait raisonnable et juste, mais il me coûtait. M’en défaire me donnait parfois le sentiment absurde de la trahir, comme si je participais moi-même à l’effacement de ce qui restait d’elle dans la maison.
 
-Il y a deux choses dont je n’ai pas voulu me séparer. La première est un châle qu’elle portait souvent.
+Il y a notamment deux choses dont je n’ai pas voulu me séparer. La première est un châle qu’elle portait souvent.
 
 La seconde est son classeur de recettes. Elle y rassemblait des coupures de magazines qu’elle annotait à la main.
 
