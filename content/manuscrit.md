@@ -480,7 +480,7 @@ Certains matins, lorsque je me réveille avant le jour, il m’arrive encore de 
 
 ## La banque
 
-En 1978, j’ai été recruté par une banque commerciale. Le premier jour, je suis arrivé en costume et cravate, comme il convenait alors de le faire. On m’a confié des factures à vérifier. Je n’éprouvais aucune passion particulière pour ce travail ; j’étais surtout soulagé d’avoir trouvé un emploi.
+En 1978, j’ai été recruté par une banque commerciale. Le premier jour, je suis arrivé en costume et cravate, comme il convenait alors de le faire. Je n’éprouvais aucune passion particulière pour ce travail ; j’étais surtout soulagé d’avoir trouvé un emploi.
 
 L’argent ne m’a jamais attiré pour lui-même. Il m’inspirait même une certaine aversion, ce qui pouvait sembler paradoxal pour quelqu’un qui allait passer des décennies dans une banque. J’en manipulais surtout les chiffres, avec la distance que permet la comptabilité.
 
