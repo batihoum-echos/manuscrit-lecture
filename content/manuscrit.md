@@ -480,7 +480,7 @@ Certains matins, lorsque je me réveille avant le jour, il m’arrive encore de 
 
 ## La banque
 
-En 1978, j’ai été recruté par une banque commerciale. Le premier jour, je suis arrivé en costume et cravate, comme il convenait alors de le faire. Je n’éprouvais aucune passion particulière pour ce travail ; j’étais surtout soulagé d’avoir trouvé un emploi.
+En 1978, j’ai été recruté par une banque commerciale. Pour mon premier jour, j’avais mis un costume et une cravate, comme il convenait alors de le faire. Je n’en avais jamais porté auparavant. Je n’éprouvais aucune passion particulière pour ce travail ; j’étais surtout soulagé d’avoir trouvé un emploi.
 
 L’argent ne m’a jamais attiré pour lui-même. Il m’inspirait même une certaine aversion, ce qui pouvait sembler paradoxal pour quelqu’un qui allait passer des décennies dans une banque. J’en manipulais surtout les chiffres, avec la distance que permet la comptabilité.
 
@@ -504,11 +504,11 @@ Ma première épouse et moi nous sommes séparés en 2002. Le divorce a été pr
 
 De novembre 2002 à novembre 2003, j’ai loué un studio avenue de la Liberté, à quelques pas de la banque. Pour la première fois de ma vie, j’avais un logement entier à moi. Je l’avais meublé selon mes goûts et, le premier soir, j’ai éprouvé un véritable bonheur à me retrouver seul entre ces murs.
 
-J’y avais apporté mes livres, mes cassettes, ce qui restait de mes photographies, ainsi que mon ordinateur et la télévision. Je pouvais organiser mes journées sans avoir à tenir compte des habitudes de quelqu’un d’autre, et cette liberté très simple me convenait.
+J’y avais apporté mes livres, mes cassettes, ce qui restait de mes photographies, ainsi que mon ordinateur. Je pouvais organiser mes journées sans avoir à tenir compte des habitudes de quelqu’un d’autre, et cette liberté très simple me convenait.
 
 Je me réveillais à l’aube. J’achetais un croissant encore chaud à la pâtisserie du quartier et le mangeais au café voisin avec un café crème et une chicha, avant de monter au bureau.
 
-Le soir, en sortant du bureau, je passais d’abord au Bardo. Je prenais la relève de l’infirmier qui s’occupait de mon père pendant la journée et restais auprès de lui jusqu’à l’arrivée de l’un de mes frères. Ensuite, je m’arrêtais souvent à la pâtisserie pour prendre quelques petits fours, puis je prenais un autre café crème et une seconde chicha. Les petits fours me servaient parfois de dîner. De retour au studio, je repassais la chemise du lendemain, prenais une douche et regardais un documentaire ou le film diffusé tard dans la soirée..
+Le soir, en sortant du bureau, je passais d’abord au Bardo. Je prenais la relève de l’infirmier qui s’occupait de mon père pendant la journée et restais auprès de lui jusqu’à l’arrivée de l’un de mes frères. Ensuite, je m’arrêtais souvent à la pâtisserie pour prendre quelques petits fours, puis je prenais un autre café crème et une seconde chicha. Les petits fours me servaient parfois de dîner. De retour au studio, je repassais la chemise du lendemain, prenais une douche et regardais un documentaire ou le film diffusé tard dans la soirée.
 
 Peu à peu, les deux chichas quotidiennes étaient devenues nécessaires. Je prenais aussi des anxiolytiques et des antidépresseurs.
 
@@ -612,9 +612,9 @@ Pendant longtemps, je me suis dit que ces amitiés s’étaient éteintes d’el
 
 Amel avait l’habitude de fréquenter les antiquaires et les marchés aux puces. Elle y achetait des gadgets, des objets rares et des antiquités pour décorer la maison. Elle constituait aussi des réserves d’épices, qu’elle rangeait soigneusement pour les retrouver lorsqu’elle en aurait besoin. Je ne m’immisçais jamais dans cette activité et je ne touchais pas à ses affaires. Je la voyais comme un loisir qui lui permettait de se détendre.
 
-Après sa disparition, j’ai quitté l’appartement pour faire mon deuil et j’en ai confié les doubles des clés à des proches. Je n’y suis revenu qu’un an plus tard. À mon retour, tout cela m’est resté entre les mains. Ouvrir une armoire suffisait à faire revenir sa présence, mais la refermer sans rien déplacer me donnait aussi l’impression de préserver quelque chose.
+Après sa disparition, j’ai quitté l’appartement pour faire mon deuil et j’en ai confié les doubles des clés à des proches. Je n’y suis revenu qu’un an plus tard. À mon retour, j’avais peur d’ouvrir les armoires. Les ouvrir suffisait à faire revenir sa présence. Après bien des hésitations, je m’y suis résolu. Je n’ai pas retrouvé la plupart de ses affaires ni de ses vêtements. Cela m’a paradoxalement soulagé.
 
-Après bien des hésitations, j’ai commencé à me séparer de ses vêtements. Je ne pouvais pas tout garder indéfiniment. Les voir chaque jour devenait pénible, mais les sortir de la maison l’était tout autant. Chaque vêtement portait avec lui une image : une sortie, un repas, une visite, parfois seulement sa façon de le porter.
+J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder le châle qu’elle avait porté le jour du dernier anniversaire que nous avions fêté ensemble. Je ne l’ai pas trouvé et je n’ai pas essayé de le chercher.
 
 Peu à peu, j’ai donné presque tous ses vêtements à des personnes dans le besoin. Ce geste me paraissait raisonnable et juste, mais il me coûtait. M’en défaire me donnait parfois le sentiment absurde de la trahir, comme si je participais moi-même à l’effacement de ce qui restait d’elle dans la maison.
 
@@ -624,9 +624,11 @@ La seconde est son classeur de recettes. Elle y rassemblait des coupures de maga
 
 Je ne sais plus où ils sont. Je n’ai pas essayé de les chercher.
 
+Je sais qu’un jour je quitterai définitivement l’appartement pour un petit logement près de la mer, comme Amel le souhaitait.
+
 ## L’âge
 
-Le matin, je m’attarde devant ma tasse encore chaude. Je n’ai plus besoin de regarder l’heure comme autrefois. Un livre reste souvent ouvert près de moi et, sur le bloc-notes, une phrase attend, notée la veille au café.
+Le matin, je m’attarde devant mon café. Je n’ai plus besoin de regarder l’heure comme autrefois. Un livre reste souvent ouvert près de moi et, sur le bloc-notes, une phrase attend, notée la veille au café.
 
 Je lis davantage et j’écris beaucoup. J’alimente des blogs consacrés à la psychologie et aux comportements humains, et je travaille aussi à ces pages. L’écriture m’aide à remettre un peu d’ordre dans ce qui revient, à retrouver des souvenirs que je croyais perdus, mais je continue surtout parce que j’y prends plaisir.
 
