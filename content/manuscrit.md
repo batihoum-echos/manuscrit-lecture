@@ -514,8 +514,6 @@ Peu à peu, les deux chichas quotidiennes étaient devenues nécessaires. Je pre
 
 Après ma séparation, j’ai connu d’autres femmes, mais aucune de ces relations n’a duré. Amel, elle, venait parfois au studio. Elle m’apportait à manger et restait avec moi quelque temps. Elle n’avait pas la clé.
 
-Le soir, en sortant du bureau, je passais d’abord au Bardo. Je prenais la relève de l’infirmier qui s’occupait de mon père pendant la journée et restais auprès de lui jusqu’à l’arrivée de l’un de mes frères.
-
 En 2003, alors que j’y vivais toujours, mon père est mort. Jusqu’alors, ce studio avait représenté une solitude choisie et une liberté nouvelle. Après sa mort, le silence du soir n’avait plus tout à fait le même sens.
 
 J’ai quitté le studio en novembre de la même année, avec regret. J’ignorais ce que serait la suite, mais je garde de cette année solitaire le souvenir d’une liberté provisoire.
