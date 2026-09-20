@@ -616,14 +616,6 @@ Après sa disparition, j’ai quitté l’appartement pour faire mon deuil et j�
 
 J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder le châle qu’elle avait porté le jour du dernier anniversaire que nous avions fêté ensemble. Je ne l’ai pas trouvé et je n’ai pas essayé de le chercher.
 
-Peu à peu, j’ai donné presque tous ses vêtements à des personnes dans le besoin. Ce geste me paraissait raisonnable et juste, mais il me coûtait. M’en défaire me donnait parfois le sentiment absurde de la trahir, comme si je participais moi-même à l’effacement de ce qui restait d’elle dans la maison.
-
-Il y a notamment deux choses dont je n’ai pas voulu me séparer. La première est un châle qu’elle portait souvent.
-
-La seconde est son classeur de recettes. Elle y rassemblait des coupures de magazines qu’elle annotait à la main.
-
-Je ne sais plus où ils sont. Je n’ai pas essayé de les chercher.
-
 Je sais qu’un jour je quitterai définitivement l’appartement pour un petit logement près de la mer, comme Amel le souhaitait.
 
 ## L’âge
