@@ -332,7 +332,7 @@ Nous allions parfois le voir. Je l’aidais à remplir certains formulaires ou �
 
 Avant sa maladie, je l’emmenais au café le matin, le week-end, pour prendre ensemble un petit déjeuner. Certains après-midi, nous allions faire une petite marche au parc du Belvédère.
 
-Ses dernières années ont été difficiles. Début 2002, lorsqu’il est tombé malade, la famille a déménagé dans une villa au Bardo, car il ne pouvait plus monter les escaliers à Rommana. Plusieurs accidents vasculaires cérébraux l’ont peu à peu privé de la vue, puis de la parole et enfin de ses mouvements.
+Ses dernières années ont été difficiles. Début 2002, lorsqu’il est tombé malade, mes parents ont déménagé dans une villa au Bardo, car il ne pouvait plus monter les escaliers à Rommana. Plusieurs accidents vasculaires cérébraux l’ont peu à peu privé de la vue, puis de la parole et enfin de ses mouvements.
 
 Mes frères et moi nous relayions pour nous occuper de lui. Le soir, je restais souvent près de son fauteuil roulant en lui tenant la main.
 
@@ -416,7 +416,7 @@ Avec mon fils, les contacts sont moins réguliers, et cette distance me pèse pa
 
 À la mort de mon épouse, il était là. Je me souviens de la manière dont il a essayé de me consoler et de l’aide qu’il m’a apportée pour les obsèques.
 
-Ceux que j’ai autrefois tenus par la main ont grandi et pris leur propre chemin. Et lorsque la vie m’a atteint à mon tour, ce sont eux qui sont venus me soutenir. Je ne l’oublie pas.
+Ceux que j’ai autrefois tenus par la main ont grandi et pris leur propre chemin. Et lorsque la vie m’a atteint à mon tour, ce sont eux qui sont venus me soutenir.
 
 ## Mon épouse
 
@@ -450,7 +450,7 @@ Nous faisions aussi de longs trajets en voiture, vers la côte ou dans la campag
 
 Elle apportait le même soin aux choses les plus simples. Je la revois devant le plan de travail, goûtant une sauce du bout de la cuillère avant d’ajouter une pincée d’épice. Lorsqu’elle était satisfaite, son visage se détendait à peine, mais je savais qu’elle avait obtenu exactement ce qu’elle voulait.
 
-Elle dressait la table avec la même attention : une nappe bien posée, les assiettes choisies avec soin, un détail déplacé au dernier moment parce qu’il ne lui convenait pas tout à fait. À la saison des agrumes, elle préparait des confitures et des marmelades d’oranges. Un jour, après plusieurs heures de travail, je l’ai vue jeter tout le contenu d’une marmite parce que la couleur ne lui plaisait pas. Je trouvais cela excessif ; pour elle, c’était simplement le signe que le résultat n’était pas assez réussi.
+Elle dressait la table avec la même attention : une nappe bien posée, les assiettes choisies avec soin, un détail déplacé au dernier moment parce qu’il ne lui convenait pas tout à fait. À la saison des agrumes, elle préparait des confitures et des marmelades d’oranges. Un jour, après plusieurs heures de travail, je l’ai vue jeter tout le contenu d’une marmite parce que la couleur ne lui plaisait pas. Je trouvais cela excessif.
 
 Moi, j’accordais moins d’importance à ce genre de détails, et cette différence provoquait parfois des désaccords. Après une dispute, je pouvais laisser le silence s’installer longtemps. C’était généralement elle qui revenait vers moi pour reprendre le dialogue.
 
@@ -486,7 +486,7 @@ L’argent ne m’a jamais attiré pour lui-même. Il m’inspirait même une ce
 
 Ce qui m’intéressait davantage était ce que ces chiffres pouvaient révéler. J’aimais comprendre l’origine d’un écart, retrouver une anomalie dans une série de comptes, chercher l’endroit précis où quelque chose avait cessé de correspondre. Peu à peu, ce goût de l’analyse m’a attaché au métier. L’ambition, elle, n’est venue que plus tard.
 
-Tout en travaillant, j’ai repris des études à l’IHEC de Carthage, où j’ai obtenu une maîtrise en gestion comptable en 1988. Je retrouvais ainsi la même colline où j’avais passé une partie de mon adolescence. Le soir, en sortant des cours, il m’arrivait de m’arrêter pour regarder en contrebas la plage et l’hôtel Amilcar. Entre l’adolescent que j’avais été et l’employé de banque que j’étais devenu, le paysage servait presque de trait d’union.
+Tout en travaillant, j’ai repris des études à l’Institut des hautes études commerciales de Carthage, l’IHEC, où j’ai obtenu une maîtrise en gestion comptable en 1988. Je retrouvais ainsi la même colline où j’avais passé une partie de mon adolescence. Le soir, en sortant des cours, il m’arrivait de m’arrêter pour regarder en contrebas la plage et l’hôtel Amilcar. Entre l’adolescent que j’avais été et l’employé de banque que j’étais devenu, le paysage servait presque de trait d’union.
 
 L’informatique m’a ouvert un autre terrain. J’y ai retrouvé ce que j’aimais déjà dans les comptes : organiser, croiser, vérifier, comprendre. L’outil que j’ai conçu pour la clôture du bilan a été adopté, puis développé par d’autres. Ce goût pour l’informatique ne m’a jamais quitté.
 
@@ -582,7 +582,7 @@ Ce fut le dernier anniversaire que nous avons fêté ensemble.
 
 Le 31 décembre 2024, je me suis souvenu de nos réveillons. Elle aimait beaucoup cuisiner et préparait elle-même, chaque année, le poulet et le gâteau. Ce soir-là, le souvenir de ces préparatifs m’est revenu avec une précision étrange : la cuisine, les plats, son attention aux détails et cette impression que nous avions encore tout le temps devant nous.
 
-Il me reste aussi deux tasses identiques que nous avions trouvées ensemble dans un marché aux puces. Elles n’ont rien de précieux et ne représentent rien pour les autres.
+Il me reste aussi deux tasses identiques que nous avions trouvées ensemble dans un marché aux puces. Elles n’ont rien de précieux.
 
 Je les ai gardées.
 
@@ -614,7 +614,7 @@ Amel avait l’habitude de fréquenter les antiquaires et les marchés aux puces
 
 Après sa disparition, j’ai quitté l’appartement pour faire mon deuil et j’en ai confié les doubles des clés à des proches. Je n’y suis revenu qu’un an plus tard. À mon retour, j’avais peur d’ouvrir les armoires. Les ouvrir suffisait à faire revenir sa présence. Après bien des hésitations, je m’y suis résolu. Je n’ai pas retrouvé la plupart de ses affaires ni de ses vêtements. Cela m’a paradoxalement soulagé.
 
-J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder le châle qu’elle avait porté le jour du dernier anniversaire que nous avions fêté ensemble. Je ne l’ai pas trouvé et je n’ai pas essayé de le chercher.
+J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder le châle qu’elle avait porté le jour du dernier anniversaire que nous avions fêté ensemble. Je ne l’ai pas vu parmi les affaires qui restaient et je n’ai pas cherché à le retrouver.
 
 Je sais qu’un jour je quitterai définitivement l’appartement pour un petit logement près de la mer, comme Amel le souhaitait.
 
