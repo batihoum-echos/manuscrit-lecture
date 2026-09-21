@@ -230,7 +230,7 @@ Le contrôleur avait pourtant porté plainte à mon insu. La convocation avait �
 
 J’ai ensuite commencé des études de mathématiques et de physique à la faculté des sciences. Je les ai poursuivies pendant deux ans avant de les interrompre pour travailler.
 
-C’est pendant ces études que j’ai connu une jeune femme. Entre nous, tout a commencé dès la première rencontre. Pendant plus d’un an, nous nous sommes vus régulièrement et sa présence a beaucoup compté pour moi. Puis nous nous sommes séparés. J’ai essayé de poursuivre mon année comme si rien n’avait changé, mais cette séparation a pesé sur mes études plus que je ne voulais me l’avouer.
+C’est pendant ces études que j’ai connu une jeune femme. Entre nous, tout a commencé dès la première rencontre. Pendant plus d’un an, nous nous sommes vus régulièrement. Nous nous aimions, et j’étais heureux auprès d’elle. Puis nous nous sommes séparés. J’ai essayé de poursuivre mon année, mais son absence me pesait. Cette relation a affecté mes études plus que je ne voulais me l’avouer.
 
 Environ trente-cinq ans plus tard, nous nous sommes retrouvés par hasard. Nous étions devenus deux personnes différentes, mais sa présence a fait revenir, pendant quelques instants, le jeune homme que j’avais été. Je n’ai pas cherché à renouer avec le passé. J’ai simplement été touché de retrouver quelqu’un qui avait compté dans ma jeunesse.
 
