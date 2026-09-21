@@ -98,7 +98,7 @@ La plage se trouvait à quelques pas des salles de classe. Entre les cours, nous
 
 En dernière année dans ce collège, à quatorze ans, j’ai eu pour professeur de mathématiques une enseignante de la coopération française. Elle était rousse, avec un visage rond et un regard vif. Dès le premier cours, j’ai ressenti une émotion nouvelle, que je ne savais pas encore très bien nommer.
 
-Pour lui plaire, je me suis mis à travailler les mathématiques avec une application que la matière seule n’aurait certainement jamais obtenue de moi. Je suis ainsi devenu l’un des meilleurs élèves de la classe dans la discipline que j’aimais pourtant le moins. Avec le recul, cela me fait encore sourire.
+Pour lui plaire, je me suis mis à travailler les mathématiques avec une application que la matière seule n’aurait certainement jamais obtenue de moi. Je suis ainsi devenu l’un des meilleurs élèves de la classe dans la discipline que j’aimais pourtant le moins.
 
 Les maisons étaient blanches, avec des volets bleu ciel ou vert pastel. Les après-midi d’été, la chaleur poussait les familles dehors et les trottoirs devenaient des prolongements de la maison. On alignait des chaises autour de petites tables, on servait du thé à la menthe ou du café turc, et l’on partageait des makrouds ou de la baklawa en regardant passer les gens.
 
@@ -406,7 +406,7 @@ En grandissant, ils ont naturellement trouvé leurs propres centres d’intérê
 
 Ma fille était réservée. Un jour, alors que nous étions en voiture, elle m’a confié quelque chose d’important pour elle. Nous en avons parlé pendant le trajet. Je n’en dirai rien ici, car cela lui appartient. Ce que j’ai gardé de ce moment, bien davantage que les mots eux-mêmes, est la confiance avec laquelle elle s’était tournée vers moi. J’en ressens encore aujourd’hui de la gratitude.
 
-J’ai attendu que mes deux enfants aient au moins vingt ans avant de me séparer de leur mère, en pensant que leur âge les aiderait à mieux supporter notre séparation. Lorsque je suis parti, je leur ai laissé l’appartement d’El Hadika. Après un an dans un studio à l’avenue de la Liberté, tout proche de la banque, je me suis installé à El Manar afin de rester près d’eux.
+J’ai attendu que mes deux enfants aient au moins vingt ans avant de me séparer de leur mère, en pensant que leur âge les aiderait à mieux supporter notre séparation. Lorsque je suis parti, je leur ai laissé l’appartement d’El Hadika. Plus tard, je me suis installé à El Manar afin de rester près d’eux.
 
 Ils me reprochent parfois de ne pas avoir été assez présent pendant leur enfance. Je les écoute sans chercher à me justifier. Quant à ma séparation d’avec leur mère, j’assume le choix que j’ai fait, tout en sachant désormais qu’un même événement ne laisse jamais la même trace chez les parents et chez leurs enfants.
 
@@ -612,7 +612,7 @@ Pendant longtemps, je me suis dit que ces amitiés s’étaient éteintes d’el
 
 Amel avait l’habitude de fréquenter les antiquaires et les marchés aux puces. Elle y achetait des gadgets, des objets rares et des antiquités pour décorer la maison. Elle constituait aussi des réserves d’épices, qu’elle rangeait soigneusement pour les retrouver lorsqu’elle en aurait besoin. Je ne m’immisçais jamais dans cette activité et je ne touchais pas à ses affaires. Je la voyais comme un loisir qui lui permettait de se détendre.
 
-Après sa disparition, j’ai quitté l’appartement pour faire mon deuil et j’en ai confié les doubles des clés à des proches. Je n’y suis revenu qu’un an plus tard. À mon retour, j’avais peur d’ouvrir les armoires. Les ouvrir suffisait à faire revenir sa présence. Après bien des hésitations, je m’y suis résolu. Je n’ai pas retrouvé la plupart de ses affaires ni de ses vêtements. Cela m’a paradoxalement soulagé.
+Après sa disparition, j’ai quitté l’appartement pour faire mon deuil. Je n’y suis revenu qu’un an plus tard. À mon retour, j’avais peur d’ouvrir les armoires. Les ouvrir suffisait à faire revenir sa présence. Après bien des hésitations, je m’y suis résolu. Je n’ai pas retrouvé la plupart de ses affaires ni de ses vêtements. Cela m’a paradoxalement soulagé.
 
 J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder le châle qu’elle avait porté le jour du dernier anniversaire que nous avions fêté ensemble. Je ne l’ai pas vu parmi les affaires qui restaient et je n’ai pas cherché à le retrouver.
 
