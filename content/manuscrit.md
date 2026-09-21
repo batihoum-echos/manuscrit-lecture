@@ -614,7 +614,7 @@ Amel avait l’habitude de fréquenter les antiquaires et les marchés aux puces
 
 Après sa disparition, j’ai quitté l’appartement pour faire mon deuil. Je n’y suis revenu qu’un an plus tard. À mon retour, j’avais peur d’ouvrir les armoires. Les ouvrir suffisait à faire revenir sa présence. Après bien des hésitations, je m’y suis résolu. Je n’ai pas retrouvé la plupart de ses affaires ni de ses vêtements. Cela m’a paradoxalement soulagé.
 
-J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder le châle qu’elle avait porté le jour du dernier anniversaire que nous avions fêté ensemble. Je ne l’ai pas vu parmi les affaires qui restaient et je n’ai pas cherché à le retrouver.
+J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder son châle. Elle le portait le jour du dernier anniversaire que nous avions fêté ensemble. C’est ainsi que je la revois ce jour-là, avec ce châle sur les épaules. Je ne l’ai pas trouvé parmi les affaires qui restaient et je n’ai pas cherché à le retrouver.
 
 Je sais qu’un jour je quitterai définitivement l’appartement pour un petit logement près de la mer, comme Amel le souhaitait.
 
