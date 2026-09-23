@@ -494,10 +494,6 @@ En 2010, la possibilité d’une retraite anticipée s’est présentée. Je n�
 
 Le dernier jour, après avoir quitté définitivement la banque, je suis allé à Amilcar. J’étais encore en costume de travail lorsque je me suis retrouvé, au crépuscule, sur la plage de mon enfance.
 
-Les premiers matins de ma retraite, j’éprouvais un plaisir simple à ne plus avoir à partir au bureau. Je pouvais décider de ma journée, lire davantage et consacrer plus de temps à l’informatique. J’avais enfin la possibilité d’entreprendre ce que j’avais longtemps remis à plus tard.
-
-J’ai animé des forums et des blogs, créé une chaîne de vidéos et administré des groupes de lecture et de partage de livres sur les réseaux sociaux. Mes journées se remplissaient d’activités auxquelles je pouvais désormais me consacrer aussi longtemps que je le souhaitais.
-
 ## Le studio
 
 Ma première épouse et moi nous sommes séparés en 2002. Le divorce a été prononcé en février 2004. Ce qui s’est passé entre nous lui appartient aussi, et je préfère ne pas en dire davantage.
