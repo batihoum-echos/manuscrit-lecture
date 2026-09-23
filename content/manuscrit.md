@@ -510,7 +510,7 @@ Je me souviens d’une nuit où le sommeil n’est pas venu du tout. J’ai fini
 
 Je n’en ai jamais parlé à personne à l’époque.
 
-Après ma séparation, j’ai connu d’autres femmes, mais aucune de ces relations n’a duré. Amel, elle, venait parfois au studio. Elle m’apportait à manger et restait avec moi quelque temps. Elle n’avait pas la clé.
+Après ma séparation, j’ai connu d’autres femmes, mais aucune de ces relations n’a duré. Amel, elle, venait parfois au studio. Elle m’apportait à manger et restait avec moi quelque temps.
 
 En 2003, alors que j’y vivais toujours, mon père est mort. Jusqu’alors, ce studio avait représenté une solitude choisie et une liberté nouvelle. Après sa mort, le silence du soir n’avait plus tout à fait le même sens.
 
