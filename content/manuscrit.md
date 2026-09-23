@@ -12,6 +12,8 @@ Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliq
 
 MBH
 
+Sommaire
+
 # Ouverture
 
 Il suffit parfois de presque rien pour que le passé revienne. Un écho rappelle un lieu, un lieu ravive une présence, et toute une époque resurgit.
@@ -162,11 +164,9 @@ Les salles du dernier étage ressemblaient à des balcons ouverts sur le paysage
 
 J’aimais cet établissement et je m’y sentais bien. Je garde le souvenir de plusieurs personnes qui y travaillaient, parfois à travers un simple détail.
 
-Le proviseur s’appelait monsieur Mohsen Ayari. Il était trapu et fumait beaucoup, allumant une cigarette après l’autre. Je revois encore les cendres qui tombaient sur son ventre. Il vivait avec sa famille dans un logement de fonction à l’intérieur du lycée. Comme nous habitions tout près, nous organisions certains dimanches des parties de football avec ses enfants dans la cour. Après sa mort prématurée, un lycée de Tunis a reçu son nom.
+Le proviseur s'appelait monsieur Mohsen Ayari. Il était trapu et fumait sans cesse, une cigarette après l'autre. Il vivait avec sa famille dans un logement de fonction à l'intérieur du lycée.Comme nous habitions tout près, nous organisions certains dimanches des parties de football avec ses enfants dans la cour. Après sa mort prématurée, un lycée de Tunis a reçu son nom.
 
-Le surveillant général de l’externat, Raouf Ben Ali, était également commentateur sportif. Sa voix était connue bien au-delà du lycée et cela nous amusait parfois de le croiser dans la cour en sachant que, le dimanche, des milliers de personnes l’écoutaient commenter les rencontres.
-
-Le surveillant général de l’internat avait pour surnom Bikbachi, en raison de sa ressemblance avec Gamal Abdel Nasser. Il était sévère et les internes le craignaient. Nous, les externes, le connaissions surtout de réputation.
+Le surveillant général de l'externat, Raouf Ben Ali, était aussi commentateur sportif ; sa voix, que des milliers de personnes écoutaient le dimanche, nous amusait de le croiser dans la cour. Celui de l'internat, surnommé Bikbachi pour sa ressemblance avec Gamal Abdel Nasser, était sévère : les internes le craignaient, nous ne le connaissions que de réputation..
 
 Mon professeur d’histoire et de géographie s’appelait monsieur Baccar. Il venait toujours en costume et cravate et connaissait ses leçons par cœur. Un autre professeur, que je n’ai jamais eu, arrivait chaque jour au volant d’une Simca 1100 bordeaux toute neuve qu’il garait devant l’administration.
 
@@ -444,7 +444,7 @@ Quelques semaines avant sa mort, je lui ai proposé de regarder Perfect Days, de
 
 Nous faisions aussi de longs trajets en voiture, vers la côte ou dans la campagne. Elle plaisantait sur ma conduite et me comparait à un pilote de Formule 1. Je protestais pour la forme, mais elle revenait régulièrement à cette comparaison.
 
-À la mort de ma mère, en 2015, elle m’a soutenu alors qu’elle la pleurait elle aussi. Ma mère l’aimait beaucoup. Amel me répétait : « Je n’ai pas de mots pour effacer ta peine, mais je suis là. Nous traverserons cela ensemble. » Elle ajoutait parfois : « Tu n’as pas besoin d’être fort devant moi. Tu as le droit d’être triste, de pleurer. » Je lui reste profondément reconnaissant de m’avoir permis de vivre ma peine auprès d’elle sans avoir à la dissimuler.
+À la mort de ma mère, en 2015, Amel m'a soutenu sans chercher à dire les mots justes. Elle restait simplement là, et me laissait pleurer devant elle. Je lui reste profondément reconnaissant de m’avoir permis de vivre ma peine auprès d’elle sans avoir à la dissimuler.
 
 Je la revois dans la cuisine, goûtant une sauce du bout de la cuillère avant d’ajouter une pincée d’épice. À table, elle déplaçait parfois une assiette ou rectifiait la nappe au dernier moment. À la saison des agrumes, elle préparait des confitures et des marmelades d’oranges. Un jour, après plusieurs heures de travail, elle a jeté le contenu d’une marmite parce que la couleur ne lui plaisait pas. Je trouvais cela excessif.
 
@@ -624,13 +624,13 @@ Je lis davantage et j’écris beaucoup. J’alimente des blogs consacrés à la
 
 Il m’arrive également de revoir les films qui avaient compté autrefois. J’ai revu Que la bête meure, tant d’années après la première séance. Le film n’avait pas changé. C’était mon regard qui n’était plus le même. Au-delà de l’histoire de vengeance, j’ai découvert la finesse avec laquelle le film explore la psychologie des personnages.
 
-Je sors moins qu’avant. Certains jours, je prends un taxi pour retourner au café Sidi Azizi, avec un livre et mon bloc-notes. La mer et les livres m’ont accompagné à des âges très différents. Aujourd’hui encore, j’y reviens naturellement.
+Je sors moins qu’avant. Certains jours, je prends un taxi pour retourner au café Sidi Azizi, avec un livre et mon bloc-notes. La mer et les livres m’ont accompagné à des âges très différents. J’y reviens encore, naturellement.
 
-Mes journées sont plus silencieuses. Je les organise désormais à ma manière, et cette liberté m’est précieuse. J’ai toujours recherché la solitude par moments ; elle m’est aujourd’hui plus nécessaire. Je ne la vis pas comme un retrait, mais comme une façon de retrouver mon propre rythme.
+Mes journées sont plus silencieuses. Je les organise désormais à ma manière, et cette liberté m’est précieuse. J’ai toujours recherché la solitude par moments ; elle m’est devenue plus nécessaire. Je ne la vis pas comme un retrait, mais comme une façon de retrouver mon propre rythme.
 
 Pendant une grande partie de ma vie, j’ai beaucoup répondu aux attentes des autres. À la banque, mon engagement me prenait l’essentiel de mes journées. Il m’arrivait même de rédiger des rapports pour des collègues en plus des miens, ce qui expliquait en partie les longues heures passées au bureau. J’avais pris l’habitude d’être disponible et de rendre service, parfois davantage qu’il n’aurait fallu.
 
-Désormais, je choisis les sollicitations auxquelles je réponds et les personnes auxquelles je consacre mon temps. Je ressens simplement moins le besoin de satisfaire tout le monde.
+Je choisis désormais les sollicitations auxquelles je réponds et les personnes à qui je consacre mon temps. Je ressens simplement moins le besoin de satisfaire tout le monde.
 
 Je sais que j’ai vieilli, même si le mot « vieux » ne me vient pas spontanément lorsque je pense à moi. Mon corps me le rappelle mieux que les mots : monter les escaliers me demande davantage d’effort et soulever un meuble lourd est devenu difficile. Je sais aussi que quelques projets que j’avais autrefois imaginés ne se réaliseront probablement jamais.
 
