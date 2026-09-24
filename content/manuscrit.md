@@ -1,7 +1,5 @@
 # ÉCHOS
 ## Des lieux, des êtres et du temps qui passe
-## Édition à usage privé.
-## Septembre 2026
 
 <div align="right"><em>À Amel, et à la mer que nous voulions retrouver.</em></div>
 
