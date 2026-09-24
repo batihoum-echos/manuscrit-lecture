@@ -4,7 +4,7 @@
 <div align="right"><em>À Amel, et à la mer que nous voulions retrouver.</em></div>
 
 ### Sommaire
-
+- Note liminaire
 - Ouverture
 - I. Les lieux
   - Amilcar
