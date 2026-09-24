@@ -1,3 +1,7 @@
+<div align="right"><em>À Amel, et à la mer que nous voulions retrouver.</em></div>
+
+\newpage
+
 ## Note liminaire
 
 Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
