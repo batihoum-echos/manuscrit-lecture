@@ -100,7 +100,7 @@ Près de la Petite Sicile et de l’église, un kiosque proposait de nombreux jo
 
 L’avenue Franklin-Roosevelt, le Casino, le Café Vert et le restaurant Chez Bichi faisaient partie du décor. Je ne fréquentais pas ces établissements : j’étais trop jeune et je n’en avais pas les moyens. Je passais devant, par curiosité. Les tables occupaient les trottoirs jusque tard dans la soirée, entourées de familles, d’odeurs de friture et de conversations, tandis que l’été semblait prolonger les journées bien au-delà de l’heure habituelle.
 
-La plage se trouvait à quelques pas des salles de classe. Entre les cours, nous descendions parfois jouer au ballon sur le sable où nous trouvions d’autres garçons de confessions différentes. Nous formions des équipes entre nous, sans nous demander ce qui pouvait nous distinguer. Les marchands passaient avec leurs cris : glaces, kaki, glibettes, cacahuètes. Le plus connu, de La Goulette à La Marsa, était surnommé « Oui‑Oui », ou « Je suis là ». À l’époque, ces appels faisaient tout simplement partie de l’été.
+La plage se trouvait à quelques pas des salles de classe. Entre les cours, nous descendions parfois jouer au ballon sur le sable où nous trouvions d’autres garçons de confessions différentes. Nous formions des équipes entre nous, sans nous demander ce qui pouvait nous distinguer. Les marchands passaient avec leurs cris : glaces, kaki, glibettes, cacahuètes. Le plus connu, de La Goulette à La Marsa, était surnommé « Oui-Oui », ou « Je suis là ». À l’époque, ces appels faisaient tout simplement partie de l’été.
 
 En dernière année dans ce collège, à quatorze ans, j’ai eu pour professeur de mathématiques une enseignante de la coopération française. Elle était rousse, avec un visage rond et un regard vif. Dès le premier cours, j’ai ressenti une émotion nouvelle, que je ne savais pas encore très bien nommer.
 
@@ -164,9 +164,9 @@ Les salles du dernier étage ressemblaient à des balcons ouverts sur le paysage
 
 J’aimais cet établissement et je m’y sentais bien. Je garde le souvenir de plusieurs personnes qui y travaillaient, parfois à travers un simple détail.
 
-Le proviseur s'appelait monsieur Mohsen Ayari. Il était trapu et fumait sans cesse, une cigarette après l'autre. Il vivait avec sa famille dans un logement de fonction à l'intérieur du lycée.Comme nous habitions tout près, nous organisions certains dimanches des parties de football avec ses enfants dans la cour. Après sa mort prématurée, un lycée de Tunis a reçu son nom.
+Le proviseur s’appelait monsieur Mohsen Ayari. Il était trapu et fumait sans cesse, une cigarette après l’autre. Il vivait avec sa famille dans un logement de fonction à l’intérieur du lycée. Comme nous habitions tout près, nous organisions certains dimanches des parties de football avec ses enfants dans la cour. Après sa mort prématurée, un lycée de Tunis a reçu son nom.
 
-Le surveillant général de l'externat, Raouf Ben Ali, était aussi commentateur sportif ; sa voix, que des milliers de personnes écoutaient le dimanche, nous amusait de le croiser dans la cour. Celui de l'internat, surnommé Bikbachi pour sa ressemblance avec Gamal Abdel Nasser, était sévère : les internes le craignaient, nous ne le connaissions que de réputation..
+Le surveillant général de l’externat, Raouf Ben Ali, était aussi commentateur sportif ; sa voix, que des milliers de personnes écoutaient le dimanche, nous amusait de le croiser dans la cour. Celui de l’internat, surnommé Bikbachi pour sa ressemblance avec Gamal Abdel Nasser, était sévère : les internes le craignaient, nous ne le connaissions que de réputation.
 
 Mon professeur d’histoire et de géographie s’appelait monsieur Baccar. Il venait toujours en costume et cravate et connaissait ses leçons par cœur. Un autre professeur, que je n’ai jamais eu, arrivait chaque jour au volant d’une Simca 1100 bordeaux toute neuve qu’il garait devant l’administration.
 
@@ -536,6 +536,8 @@ La cuisine occupait une place particulière dans ses projets. Elle rêvait depui
 
 Les travaux ont finalement été réalisés après plusieurs années d’attente.
 
+Elle a inauguré le four encastrable en me préparant une pizza napolitaine aux anchois, celle que j’aime et qu’elle ne réussissait jamais avec l’ancien four.
+
 Elle n’a eu que quelques mois pour profiter de cette cuisine qu’elle avait tant souhaitée.
 
 Nous avions parfois parlé d’un autre avenir. Amel envisageait de revendre l’appartement et de louer quelque chose de plus modeste près d’Amilcar ou de Sidi Bou Saïd. J’étais d’accord avec elle. Nous aurions retrouvé la mer.
@@ -580,6 +582,8 @@ Ce fut le dernier anniversaire que nous avons fêté ensemble.
 
 Le 31 décembre 2024, je me suis souvenu de nos réveillons. Elle aimait beaucoup cuisiner et préparait elle-même, chaque année, le poulet et le gâteau. Ce soir-là, le souvenir de ces préparatifs m’est revenu avec une précision étrange : la cuisine, les plats, son attention aux détails et cette impression que nous avions encore tout le temps devant nous.
 
+Je comprends aujourd’hui pourquoi cette soirée m’est restée intacte : elle portait encore la promesse d’un temps qui, déjà, n’existait plus.
+
 ## Les séparations
 
 J’ai longtemps gardé le contact avec quelques amis. Certains sont restés présents pendant des années, puis la vie a fini par nous éloigner sans que nous sachions exactement à quel moment cela s’était produit.
@@ -602,11 +606,15 @@ Je ne m’en suis pas beaucoup préoccupé sur le moment. Je le regrette aujourd
 
 Pendant longtemps, je me suis dit que ces amitiés s’étaient éteintes d’elles-mêmes. Ce n’est pas tout à fait vrai. J’ai moi aussi laissé le temps passer sans entretenir ces liens.
 
+Avec ma belle-famille, les choses ont été différentes. Des désaccords, après sa mort, ont eu raison de liens qui semblaient pourtant établis pour toujours. Je ne dirai rien de leur nature ; certaines blessures ne regardent que ceux qu’elles touchent. Sa fratrie et ses nièces ont peu à peu cessé d’appeler.
+
 ## Le dépouillement
 
 Amel aimait fréquenter les antiquaires et les marchés aux puces. Elle y achetait des objets de toutes sortes, parfois rares, pour décorer la maison. Elle constituait aussi des réserves d’épices, soigneusement rangées. Je la laissais à ces occupations qui semblaient la détendre et ne touchais pas à ses affaires.
 
 De retour dans l’appartement, j’avais peur d’ouvrir les armoires, tant elles me rappelaient sa présence. Lorsque je m’y suis enfin résolu, j’ai retrouvé l’odeur de la lavande qu’elle mettait entre les draps. Des cintres vides étaient restés dans l’armoire. La plupart de ses vêtements et de ses effets personnels n’étaient plus là. J’en ai éprouvé paradoxalement un soulagement inattendu.
+
+Dans le tiroir de la commode, j’ai retrouvé un baladeur CD. Je le lui avais offert pour son anniversaire, une dizaine d’années plus tôt. Elle s’en servait pour écouter de la musique avant de s’endormir.
 
 J’ai donné ce qui restait à des personnes dans le besoin, comme elle l’aurait souhaité. J’aurais pourtant aimé garder le châle qu’elle portait lors du dernier anniversaire que nous avions fêté ensemble. Je ne l’ai pas retrouvé et je n’ai pas cherché davantage.
 
@@ -736,7 +744,7 @@ Le Bou Kornine. Montagne à deux sommets dominant Hammam-Lif, sur la rive sud du
 
 Byrsa. Colline de Carthage où se trouvait la citadelle punique, assiégée lors de la prise et de la destruction de la ville par Rome en 146 avant notre ère. Le site archéologique y côtoie aujourd’hui l’ancienne cathédrale Saint-Louis et le musée national de Carthage.
 
-Le café des Nattes. Café situé au centre de Sidi Bou Saïd, appelé en arabe Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées. Paul Klee et August Macke y sont passés lors de leur voyage en Tunisie en 1914 ; Macke a peint plusieurs vues de Sidi Bou Saïd.
+Le café des Nattes. Café situé au centre de Sidi Bou Saïd, appelé en arabe Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées.Kahoua El Alia, « le café haut ». On y accède par un escalier. Il occupe l’ancienne entrée de la mosquée et du mausolée du saint, et son nom vient des nattes qui recouvrent les banquettes maçonnées.
 
 Le café Sidi Azizi. Café de Sidi Bou Saïd dont la terrasse fait face à la colline de Byrsa.
 
@@ -746,7 +754,7 @@ El Hadika. Cité de Tunis située dans la délégation d’Ettahrir, à proximit
 
 El Manar. Cité établie sur les hauteurs nord de Tunis, développée à partir des années soixante-dix et divisée en trois ensembles. Le campus universitaire Farhat Hached y est installé, à la limite de Rommana.
 
-Ghadamès. Ancienne ville-oasis du Sahara libyen, située près du point de rencontre des frontières de la Libye, de la Tunisie et de l’Algérie. Occupée depuis au moins la fin du premier millénaire avant notre ère par des populations autochtones, elle a conservé sa culture amazighe et sa langue, le ghadamsi. Son architecture traditionnelle, adaptée aux conditions du climat désertique, constitue un exemple remarquable d’habitat saharien. L’ancienne ville est inscrite sur la Liste du patrimoine mondial de l’UNESCO depuis 1986. Ghadamès fut également une étape importante du commerce caravanier transsaharien.
+Ghadamès. Ancienne ville-oasis du Sahara libyen, à la rencontre des frontières de la Libye, de la Tunisie et de l’Algérie. Elle a conservé sa culture amazighe et sa langue, le ghadamsi.
 
 La Goulette. Ville portuaire située à l’entrée du lac de Tunis. Le Café Vert y demeure un établissement emblématique, tandis que l’ancien Casino, autrefois très fréquenté, a fermé à la fin des années soixante-dix. Le restaurant Chez Bichi a changé de nom après la mort de son fondateur pour devenir Au Vert Galant, avant que cette enseigne ne disparaisse à son tour.
 
