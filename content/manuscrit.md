@@ -1,10 +1,23 @@
 # ÉCHOS
-## Des lieux, des êtres et du temps qui passe
+
+# Note liminaire
+
+Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
+
+Je raconte ici ce que j’ai vécu, tel que je m’en souviens. Ceux qui ont connu les mêmes lieux ou partagé certains de ces moments peuvent en garder un souvenir différent.
+
+Pour préserver leur vie privée, la plupart de mes proches encore en vie sont désignés par le lien qui nous unit plutôt que par leur nom.
+
+Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliqués en fin de volume.
+
+> « Ce qui survit à l’oubli ne reconstitue pas une existence. Cela en garde les échos. »
+
+MBH
 
 <div align="right"><em>À Amel, et à la mer que nous voulions retrouver.</em></div>
 
 ### Sommaire
-- Note liminaire
+
 - Ouverture
 - I. Les lieux
   - Amilcar
@@ -34,20 +47,6 @@
 - Annexes
   - Glossaire
   - Notes sur les lieux
-
-# Note liminaire
-
-Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
-
-Je raconte ici ce que j’ai vécu, tel que je m’en souviens. Ceux qui ont connu les mêmes lieux ou partagé certains de ces moments peuvent en garder un souvenir différent.
-
-Pour préserver leur vie privée, la plupart de mes proches encore en vie sont désignés par le lien qui nous unit plutôt que par leur nom.
-
-Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliqués en fin de volume.
-
-> « Ce qui survit à l’oubli ne reconstitue pas une existence. Cela en garde les échos. »
-
-MBH
 
 # Ouverture
 
