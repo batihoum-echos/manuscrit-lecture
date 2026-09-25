@@ -20,39 +20,6 @@ Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliq
 
 *MBH*
 
-## Sommaire
-
-- Note liminaire
-- Ouverture
-- I. Les lieux
-  - Amilcar
-  - Le TGM
-  - La Goulette
-  - Les salles
-  - Le lycée
-  - Les marches
-  - La plage
-  - Le Passage
-  - Le café
-- II. Les êtres
-  - Ma mère
-  - Mon père
-  - La fratrie
-  - Mes enfants
-  - Mon épouse
-- III. Le temps
-  - La banque
-  - Le studio
-  - El Manar
-  - Les séparations
-  - Le dépouillement
-  - La mémoire
-  - L'âge
-- Clôture
-- Annexes
-  - Glossaire
-  - Notes sur les lieux
-
 # Ouverture
 
 Il suffit parfois de presque rien pour que le passé revienne. Un écho rappelle un lieu, un lieu ravive une présence, et toute une époque resurgit.
