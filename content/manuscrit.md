@@ -1,4 +1,14 @@
-## Note liminaire
+ÉCHOS
+
+Des lieux, des êtres et du temps qui passe
+
+Édition à usage privé.
+
+Septembre 2026
+
+> À Amel, et à la mer que nous voulions retrouver.
+
+# Note liminaire
 
 Ce livre rassemble des fragments de ma mémoire. Il ne cherche ni à raconter toute une vie ni à retracer toute l’histoire d’une famille.
 
@@ -7,6 +17,72 @@ Je raconte ici ce que j’ai vécu, tel que je m’en souviens. Ceux qui ont con
 Pour préserver leur vie privée, la plupart de mes proches encore en vie sont désignés par le lien qui nous unit plutôt que par leur nom.
 
 Les mots tunisiens et arabes, ainsi que les principaux lieux cités, sont expliqués en fin de volume.
+
+« Ce qui survit à l’oubli ne reconstitue pas une existence. Cela en garde les échos. »
+
+*MBH*
+
+Sommaire
+
+[Note liminaire [3](#note-liminaire)](#note-liminaire)
+
+[Ouverture [2](#ouverture)](#ouverture)
+
+[I. Les lieux [3](#i.-les-lieux)](#i.-les-lieux)
+
+[Amilcar [4](#amilcar)](#amilcar)
+
+[Le TGM [9](#le-tgm)](#le-tgm)
+
+[La Goulette [12](#la-goulette)](#la-goulette)
+
+[Les salles [17](#les-salles)](#les-salles)
+
+[Le lycée [21](#le-lycée)](#le-lycée)
+
+[Les marches [24](#les-marches)](#les-marches)
+
+[La plage [26](#la-plage)](#la-plage)
+
+[Le Passage [29](#le-passage)](#le-passage)
+
+[Le café [34](#le-café)](#le-café)
+
+[II. Les êtres [37](#ii.-les-êtres)](#ii.-les-êtres)
+
+[Ma mère [38](#ma-mère)](#ma-mère)
+
+[Mon père [42](#mon-père)](#mon-père)
+
+[La fratrie [47](#la-fratrie)](#la-fratrie)
+
+[Mes enfants [51](#mes-enfants)](#mes-enfants)
+
+[Mon épouse [56](#mon-épouse)](#mon-épouse)
+
+[III. Le temps [62](#iii.-le-temps)](#iii.-le-temps)
+
+[La banque [63](#la-banque)](#la-banque)
+
+[Le studio [67](#le-studio)](#le-studio)
+
+[El Manar [70](#el-manar)](#el-manar)
+
+[Les séparations [72](#les-séparations)](#les-séparations)
+
+[Le dépouillement [75](#le-dépouillement)](#le-dépouillement)
+
+[La mémoire [78](#la-mémoire)](#la-mémoire)
+
+[L’âge [81](#lâge)](#lâge)
+
+[Clôture [85](#clôture)](#clôture)
+
+[Annexes [87](#annexes)](#annexes)
+
+[Glossaire [88](#glossaire)](#glossaire)
+
+[Notes sur les lieux [93](#notes-sur-les-lieux)](#notes-sur-les-lieux)
 
 # Ouverture
 
@@ -216,7 +292,7 @@ Nous nous sommes installés au premier étage d’un immeuble de l’avenue de L
 
 Le contraste avec Amilcar était brutal. Là-bas, presque chaque endroit était lié à une histoire : la salle des jeux de l’hôtel, les terrasses, la plage au bas de la maison, le chemin vers la station du TGM. Au Passage, je découvrais des pièces plus grandes, mais elles ne signifiaient encore rien pour moi. Je n’avais pas choisi ce quartier et je n’y retrouvais aucun de mes repères.
 
-Je n’avais toujours pas de chambre à moi. Une petite pièce que nous appelions le bureau servait à la fois de bibliothèque et de lieu d’étude. Lorsque j’avais besoin de solitude, je sortais. Peu à peu, le cinéma et la bibliothèque Charles-de-Gaulle sont devenus mes refuges.
+Je n’avais toujours pas de chambre à moi. Une petite pièce que nous appelions le bureau servait à la fois de bibliothèque et de lieu d’étude. Lorsque j’avais besoin de solitude, je sortais. À Amilcar, je la cherchais sur la falaise ; à Tunis, je la trouvais dans les livres et les salles obscures. Peu à peu, le cinéma et la bibliothèque Charles-de-Gaulle sont devenus mes refuges.
 
 À Tunis, j’ai découvert d’autres salles, ainsi que les maisons de culture Ibn Khaldoun et Ibn Rachiq, où l’on projetait des films d’auteur. J’y allais avec mon cousin, qui vivait chez nous comme un frère, et parfois avec un camarade de classe. La projection se prolongeait souvent par une discussion organisée par le ciné-club. Je me souviens particulièrement du soir où nous avons vu *Que la bête meure*, de Chabrol. Nous en avons parlé longtemps après la séance. Le cinéma n’était plus seulement cette solitude heureuse que j’avais connue adolescent ; il devenait aussi un lieu où l’on échangeait des idées.
 
@@ -328,7 +404,7 @@ Après son départ à la retraite de l’Hôtel du Lac, il a encore travaillé q
 
 Nous allions aussi le voir. Je l’aidais à remplir certains formulaires ou à tenir un registre lorsqu’écrire lui demandait trop d’effort. Il nous préparait un sandwich bien garni, comme s’il tenait, même là, à nous recevoir avec la même générosité qu’à la maison.
 
-Avant sa maladie, je l’emmenais au café le matin, le week-end, pour prendre ensemble un petit déjeuner. Certains après-midi, nous allions faire une petite marche au parc du Belvédère.
+Avant sa maladie, je l’emmenais au café le matin, le week-end, pour prendre ensemble un petit déjeuner. Nous parlions peu. Il n’avait jamais été très expansif, et ces moments n’avaient pas besoin de beaucoup de mots. Certains après-midi, nous allions faire une petite marche au parc du Belvédère.
 
 Ses dernières années ont été difficiles. Début 2002, lorsqu’il est tombé malade, mes parents ont déménagé dans une villa au Bardo, car il ne pouvait plus monter les escaliers à Rommana. Plusieurs accidents vasculaires cérébraux l’ont peu à peu privé de la vue, puis de la parole et enfin de ses mouvements.
 
@@ -360,7 +436,7 @@ Je me souviens surtout qu’à la fin il avait de la fièvre et de la diarrhée.
 
 Ce jour-là, j’ai décidé que, si j’avais un fils, il porterait son prénom. Des années plus tard, lorsque mon fils est né, j’ai tenu cette promesse que je m’étais faite. Je n’en avais averti personne.
 
-J’étais aussi très proche de ma sœur née juste après moi. Nous avions presque le même âge et elle se montrait toujours très affectueuse avec moi. Elle restait très discrète sur ma vie sentimentale, même si je la soupçonnais d’en savoir beaucoup plus qu’elle ne le laissait entendre. Elle observait, comprenait et ne s’immisçait jamais. Lorsqu’elle s’est mariée et a quitté la maison, j’ai beaucoup pleuré. Avec le recul, je crois que je pleurais aussi à l’idée de ne plus l’avoir chaque jour auprès de moi.
+J’étais aussi très proche de ma sœur née juste après moi. Nous avions presque le même âge et elle se montrait toujours très affectueuse avec moi. Elle restait très discrète sur ma vie sentimentale, même si je la soupçonnais d’en savoir beaucoup plus qu’elle ne le laissait entendre. Elle observait, comprenait et ne s’immisçait jamais. Lorsqu’elle s’est mariée et a quitté la maison, j’ai beaucoup pleuré. La maison m’a paru différente dès son départ. Avec le recul, je crois que je pleurais aussi à l’idée de ne plus l’avoir chaque jour auprès de moi.
 
 Avec l’un de mes frères, qui avait deux ans de moins que moi, je jouais au football et j’allais me baigner. Pendant ma deuxième année de terminale, nous avons aussi révisé ensemble pour le baccalauréat. Je l’aimais sans que nous ayons besoin de le dire, et je crois qu’il en allait de même pour lui.
 
@@ -394,7 +470,7 @@ Je l’avais déjà retirée de la crèche lorsqu’elle m’a raconté que la r
 
 Mon travail me prenait beaucoup de temps pendant la semaine. J’essayais cependant de préserver les week-ends et j’organisais presque toujours une sortie.
 
-Nous allions au parc du Belvédère et au zoo, souvent avec leurs cousins. Ces journées n’avaient rien d’exceptionnel : quelques heures dehors, des enfants qui couraient, un goûter, parfois une photographie. Elles ont pourtant pris avec les années une place que je ne leur accordais pas encore lorsque nous les vivions.
+Nous allions au parc du Belvédère et au zoo, souvent avec leurs cousins. Ces journées n’avaient rien d’exceptionnel : quelques heures dehors, des enfants qui couraient, un goûter, parfois une photographie. Je ne pensais pas alors que ce seraient précisément ces moments ordinaires qui me reviendraient le plus souvent. Elles ont pourtant pris avec les années une place que je ne leur accordais pas encore lorsque nous les vivions.
 
 L’été, je les emmenais avec leur mère à la plage de l’hôtel Amilcar. Les employés de la plage privée et de la buvette me reconnaissaient. Ils nous installaient un parasol et nous offraient des boissons fraîches. Après la baignade, nous allions manger une brik à La Goulette ou des frites au Saf Saf, à La Marsa. L’hiver, nous prenions plutôt un café ou une pizza à Sidi Bou Saïd.
 
@@ -474,7 +550,7 @@ Tout en travaillant, j’ai repris des études à l’Institut des hautes étude
 
 L’informatique m’a ouvert un autre terrain. J’y ai retrouvé ce que j’aimais déjà dans les comptes : organiser, croiser, vérifier, comprendre. L’outil que j’ai conçu pour la clôture du bilan a été adopté, puis développé par d’autres. Ce goût pour l’informatique ne m’a jamais quitté.
 
-J’ai pris la responsabilité des finances et du contrôle. Je laissais généralement la porte de mon bureau ouverte. Certains venaient pour une question de travail, d’autres simplement parce qu’ils avaient besoin de parler d’un problème personnel. Avec les années, quelques-unes de ces relations ont dépassé le cadre professionnel et sont devenues de véritables amitiés.
+J’ai pris la responsabilité des finances et du contrôle. Je laissais généralement la porte de mon bureau ouverte. Certains venaient pour une question de travail, d’autres simplement parce qu’ils avaient besoin de parler d’un problème personnel. Il arrivait alors que les dossiers restent quelques minutes de côté, le temps d’écouter. Avec les années, quelques-unes de ces relations ont dépassé le cadre professionnel et sont devenues de véritables amitiés.
 
 Je me suis également engagé dans les instances représentatives du personnel et dans le syndicat de la banque, avec l’idée de défendre les employés et d’améliorer leur situation. Cet engagement m’a valu leur respect, mais il m’a aussi attiré des ennuis. Mon avancement est resté bloqué pendant deux ans.
 
@@ -500,7 +576,7 @@ Quelques années plus tôt, ma vie avait pris un autre tournant.
 
 Ma première épouse et moi nous sommes séparés en 2002. Le divorce a été prononcé en février 2004. Ce qui s’est passé entre nous lui appartient aussi, et je préfère ne pas en dire davantage.
 
-De novembre 2002 à novembre 2003, j’ai loué un studio avenue de la Liberté, à quelques pas de la banque. Pour la première fois de ma vie, j’avais un logement entier à moi. Je l’avais meublé selon mes goûts et, le premier soir, j’ai éprouvé un véritable bonheur à me retrouver seul entre ces murs.
+De novembre 2002 à novembre 2003, j’ai loué un studio avenue de la Liberté, à quelques pas de la banque. Pour la première fois de ma vie, j’avais un logement entier à moi. Après tant d’années à chercher ailleurs un endroit où m’isoler, cette simple porte que je pouvais refermer derrière moi avait quelque chose de nouveau. Je l’avais meublé selon mes goûts et, le premier soir, j’ai éprouvé un véritable bonheur à me retrouver seul entre ces murs.
 
 J’y avais apporté mes livres, mes cassettes, ce qui restait de mes photographies, ainsi que mon ordinateur. Je pouvais organiser mes journées sans avoir à tenir compte des habitudes de quelqu’un d’autre, et cette liberté très simple me convenait.
 
@@ -606,7 +682,7 @@ La mémoire choisit seule ce qu’elle conserve. Elle garde une odeur et perd un
 
 Il y a quelque chose d’injuste dans l’oubli, mais peut-être aussi une forme d’apaisement. Si chaque absence gardait intacte la violence du premier jour, il serait difficile de continuer à vivre.
 
-Depuis que j’écris ces pages, les souvenirs reviennent aussi sans l’aide des photographies. Un détail en appelle un autre : une rue fait surgir une personne, cette personne ramène une phrase, et la phrase peut ouvrir sur une scène à laquelle je n’avais pas pensé depuis des décennies.
+Depuis que j’écris ces pages, les souvenirs reviennent aussi sans l’aide des photographies. Un détail en appelle un autre : une rue fait surgir une personne, cette personne ramène une phrase, et la phrase peut ouvrir sur une scène à laquelle je n’avais pas pensé depuis des décennies. Il arrive alors qu’un souvenir longtemps silencieux retrouve soudain sa place parmi les autres.
 
 En racontant ces souvenirs, il m’arrive de comprendre ce qui m’avait échappé sur le moment. Mes enfants me demandaient pourquoi je revenais toujours aux mêmes endroits. Je n’avais pas su leur répondre. Aujourd’hui, je crois savoir : c’est là que j’ai vécu les plus beaux jours de ma vie.
 
@@ -636,7 +712,7 @@ Je lis davantage et j’écris beaucoup. J’alimente des blogs consacrés à la
 
 Il m’arrive également de revoir les films qui avaient compté autrefois. J’ai revu *Que la bête meure*, tant d’années après la première séance. Le film n’avait pas changé. C’était mon regard qui n’était plus le même. Au-delà de l’histoire de vengeance, j’ai découvert la finesse avec laquelle le film explore la psychologie des personnages.
 
-Je sors moins qu’avant. Certains jours, je prends un taxi pour retourner au café Sidi Azizi, avec un livre et mon bloc-notes. La mer et les livres m’ont accompagné à des âges très différents. J’y reviens encore, naturellement.
+Je sors moins qu’avant. Certains jours, je prends un taxi pour retourner au café Sidi Azizi, avec un livre et mon bloc-notes. La mer et les livres m’ont accompagné à des âges très différents. Il m’arrive alors de retrouver quelque chose du garçon qui partait seul avec un livre dans son cartable. J’y reviens encore, naturellement.
 
 Mes journées sont plus silencieuses. Je les organise désormais à ma manière, et cette liberté m’est précieuse. J’ai toujours recherché la solitude par moments ; elle m’est devenue plus nécessaire. Je ne la vis pas comme un retrait, mais comme une façon de retrouver mon propre rythme.
 
@@ -678,61 +754,61 @@ Je continue d’écrire.
 
 Les mots tunisiens et arabes sont transcrits selon leur prononciation. L’écriture arabe est indiquée ici, mais n’apparaît pas dans le corps du texte.
 
-**Aïd el-Fitr (****عيد الفطر****) :** fête qui marque la fin du mois de ramadan. Elle est à distinguer de l’Aïd el-Kébir, ou Aïd el-Adha (عيد الأضحى), fête du sacrifice célébrée un peu plus de deux mois plus tard.
+**Aïd el-Fitr (**<span dir="rtl">عيد الفطر</span>**) :** fête qui marque la fin du mois de ramadan. Elle est à distinguer de l’Aïd el-Kébir, ou Aïd el-Adha (<span dir="rtl">عيد الأضحى</span>), fête du sacrifice célébrée un peu plus de deux mois plus tard.
 
-**Amel (****أمال****) :** espoir. Le mot est également employé comme prénom.
+**Amel (**<span dir="rtl">أمال</span>**) :** espoir. Le mot est également employé comme prénom.
 
-**Baklawa (****بقلاوة****) :** pâtisserie composée de fines couches de pâte, garnies d’amandes ou de pistaches et imbibées de sirop.
+**Baklawa (**<span dir="rtl">بقلاوة</span>**) :** pâtisserie composée de fines couches de pâte, garnies d’amandes ou de pistaches et imbibées de sirop.
 
-**Bambalouni (****بمبالوني****) :** beignet tunisien en forme d’anneau, frit puis saupoudré de sucre, particulièrement associé à Sidi Bou Saïd.
+**Bambalouni (**<span dir="rtl">بمبالوني</span>**) :** beignet tunisien en forme d’anneau, frit puis saupoudré de sucre, particulièrement associé à Sidi Bou Saïd.
 
-**Baraka (****بركة****) :** bénédiction. Le mot peut aussi désigner ce qui fait qu’une chose suffit, réussit ou dure davantage que ce que l’on aurait attendu.
+**Baraka (**<span dir="rtl">بركة</span>**) :** bénédiction. Le mot peut aussi désigner ce qui fait qu’une chose suffit, réussit ou dure davantage que ce que l’on aurait attendu.
 
-**Behi (****باهي****) :** bien, d’accord, c’est entendu.
+**Behi (**<span dir="rtl">باهي</span>**) :** bien, d’accord, c’est entendu.
 
-**Bikbachi (****بكباشي****) :** grade militaire équivalent à celui de lieutenant-colonel. Ce titre était porté par Nasser au moment de la révolution égyptienne de 1952 et est longtemps resté attaché à son nom.
+**Bikbachi (**<span dir="rtl">بكباشي</span>**) :** grade militaire équivalent à celui de lieutenant-colonel. Ce titre était porté par Nasser au moment de la révolution égyptienne de 1952 et est longtemps resté attaché à son nom.
 
-**Brik (****بريك****) :** feuille de pâte fine repliée autour d’une garniture, le plus souvent un œuf, puis frite.
+**Brik (**<span dir="rtl">بريك</span>**) :** feuille de pâte fine repliée autour d’une garniture, le plus souvent un œuf, puis frite.
 
-**Chicha (****شيشة****) :** pipe à eau dans laquelle la fumée du tabac traverse un réservoir d’eau avant d’être aspirée. On la fume notamment dans les cafés, seul ou à plusieurs.
+**Chicha (**<span dir="rtl">شيشة</span>**) :** pipe à eau dans laquelle la fumée du tabac traverse un réservoir d’eau avant d’être aspirée. On la fume notamment dans les cafés, seul ou à plusieurs.
 
-**Chorba (****شربة****) :** soupe tunisienne préparée selon de nombreuses variantes, avec de la viande, du poulet ou du poisson, et souvent de petites pâtes ou des céréales concassées, comme l’orge ou le blé. Elle est particulièrement consommée lors de la rupture du jeûne pendant le ramadan.
+**Chorba (**<span dir="rtl">شربة</span>**) :** soupe tunisienne préparée selon de nombreuses variantes, avec de la viande, du poulet ou du poisson, et souvent de petites pâtes ou des céréales concassées, comme l’orge ou le blé. Elle est particulièrement consommée lors de la rupture du jeûne pendant le ramadan.
 
 **Complet poisson :** assiette composée de poisson, de frites, d’un œuf frit et d’une salade méchouia.
 
-**Farq (****فرق****) :** cérémonie organisée le troisième jour après un décès dans certaines traditions funéraires tunisiennes.
+**Farq (**<span dir="rtl">فرق</span>**) :** cérémonie organisée le troisième jour après un décès dans certaines traditions funéraires tunisiennes.
 
-**Fricassé (****فريكاسي****) :** petit pain frit, garni notamment de thon, de pommes de terre, d’œuf, d’olives et de harissa.
+**Fricassé (**<span dir="rtl">فريكاسي</span>**) :** petit pain frit, garni notamment de thon, de pommes de terre, d’œuf, d’olives et de harissa.
 
-**Glibette (****قلوب****) :** graine de tournesol ou de courge, grillée et salée.
+**Glibette (**<span dir="rtl">قلوب</span>**) :** graine de tournesol ou de courge, grillée et salée.
 
-**Houna Loundoun (****هنا لندن****) :** « Ici Londres ». Formule emblématique utilisée pour identifier la BBC en langue arabe.
+**Houna Loundoun (**<span dir="rtl">هنا لندن</span>**) :** « Ici Londres ». Formule emblématique utilisée pour identifier la BBC en langue arabe.
 
-**Kaki (****كاكي****) :** petit pain sec, salé et croquant, présenté notamment sous forme de bâtonnet, d’anneau ou de petites boulettes, et vendu, entre autres, par les marchands ambulants.
+**Kaki (**<span dir="rtl">كاكي</span>**) :** petit pain sec, salé et croquant, présenté notamment sous forme de bâtonnet, d’anneau ou de petites boulettes, et vendu, entre autres, par les marchands ambulants.
 
-**Kefta (****كفتة****) :** boulette ou galette frite préparée à partir de viande hachée, souvent mêlée de pomme de terre, de persil, d’oignon, d’œuf et de chapelure.
+**Kefta (**<span dir="rtl">كفتة</span>**) :** boulette ou galette frite préparée à partir de viande hachée, souvent mêlée de pomme de terre, de persil, d’oignon, d’œuf et de chapelure.
 
-**Khamsa we khmis (****خمسة وخميس****) :** formule populaire tunisienne prononcée pour écarter le mauvais œil.
+**Khamsa we khmis (**<span dir="rtl">خمسة وخميس</span>**) :** formule populaire tunisienne prononcée pour écarter le mauvais œil.
 
-**Khira (****خيرة****) :** la bonne, la vertueuse.
+**Khira (**<span dir="rtl">خيرة</span>**) :** la bonne, la vertueuse.
 
-**Loubia (****لوبية****) :** haricots blancs, ainsi que le plat préparé à partir de ces haricots.
+**Loubia (**<span dir="rtl">لوبية</span>**) :** haricots blancs, ainsi que le plat préparé à partir de ces haricots.
 
-**Makroud (****مقروض****) :** pâtisserie à base de semoule, généralement farcie de pâte de dattes parfumée à l’eau de fleur d’oranger. Elle est découpée en losanges, frite ou cuite au four, puis trempée dans du miel ou dans un sirop sucré.
+**Makroud (**<span dir="rtl">مقروض</span>**) :** pâtisserie à base de semoule, généralement farcie de pâte de dattes parfumée à l’eau de fleur d’oranger. Elle est découpée en losanges, frite ou cuite au four, puis trempée dans du miel ou dans un sirop sucré.
 
-**Marqat loubia bel kaâber (****مرقة لوبية بالكعابر****) :** ragoût de haricots blancs préparé avec des boulettes de viande.
+**Marqat loubia bel kaâber (**<span dir="rtl">مرقة لوبية بالكعابر</span>**) :** ragoût de haricots blancs préparé avec des boulettes de viande.
 
-**Méchouia (****مشوية****) :** salade tunisienne de poivrons, tomates, piments et souvent d’oignons grillés, puis épluchés, coupés finement et assaisonnés d’huile d’olive, parfois accompagnée de thon, d’œufs durs ou d’olives.
+**Méchouia (**<span dir="rtl">مشوية</span>**) :** salade tunisienne de poivrons, tomates, piments et souvent d’oignons grillés, puis épluchés, coupés finement et assaisonnés d’huile d’olive, parfois accompagnée de thon, d’œufs durs ou d’olives.
 
-**Mida (****ميدة****) :** table basse traditionnelle autour de laquelle la famille prend ses repas.
+**Mida (**<span dir="rtl">ميدة</span>**) :** table basse traditionnelle autour de laquelle la famille prend ses repas.
 
-**Ommi (****أمي****) :** littéralement « ma mère ». Le mot peut aussi être placé devant le prénom d’une femme comme marque de respect et d’affection.
+**Ommi (**<span dir="rtl">أمي</span>**) :** littéralement « ma mère ». Le mot peut aussi être placé devant le prénom d’une femme comme marque de respect et d’affection.
 
-**Tanit (****تانيت****) :** principale divinité de Carthage, dont le signe, un triangle surmonté d’une barre et d’un disque, est devenu un motif décoratif répandu en Tunisie.
+**Tanit (**<span dir="rtl">تانيت</span>**) :** principale divinité de Carthage, dont le signe, un triangle surmonté d’une barre et d’un disque, est devenu un motif décoratif répandu en Tunisie.
 
-**Tayeb (****طيب****) :** bon, bienveillant. Le mot est également employé comme prénom.
+**Tayeb (**<span dir="rtl">طيب</span>**) :** bon, bienveillant. Le mot est également employé comme prénom.
 
-**Variantes :** en Tunisie, mélange de légumes coupés et conservés au vinaigre ou en saumure, servi en accompagnement. Le terme arabe couramment employé est *torchi* (تورشي).
+**Variantes :** en Tunisie, mélange de légumes coupés et conservés au vinaigre ou en saumure, servi en accompagnement. Le terme arabe couramment employé est *torchi* (<span dir="rtl">تورشي</span>).
 
 ## Notes sur les lieux
 
